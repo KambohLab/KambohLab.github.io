@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: KambohLab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Kamboh Lab
+subtitle: Genomics of Complex Human Disease
+description: Our lab is dedicated to investigating the genetic factors that contribute to the risk and complex inheritance patterns of human diseases, such as Alzheimer’s disease. In addition to whole-genome and whole-exome sequencing, we employ a range of transcriptomic and proteomic technologies to explore the molecular mechanisms underlying disease susceptibility.
+header: images/AI_banner2.png
+footer: images/AI_banner2.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@KambohLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: hugen-kambohlab@pitt.edu
+  orcid: 0000-0002-3453-1438
+  google-scholar: kQe4iuAAAAAJ&hl
   github: KambohLab
-  twitter: KambohLab
-  youtube: KambohLab
 
 ### jekyll settings
 
