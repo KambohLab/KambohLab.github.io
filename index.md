@@ -1,9 +1,12 @@
 ---
 ---
 
-# KambohLab's Website
+# The Kamboh Lab 
 
-An engaging 1-3 sentence description of your lab.
+  Our lab is dedicated to investigating the genetic factors that contribute to the risk and complex inheritance patterns of human diseases, such as Alzheimer’s disease.
+
+  In addition to whole-genome and whole-exome sequencing, we employ a range of transcriptomic and proteomic technologies to explore the molecular mechanisms underlying disease susceptibility.
+
 
 {% include section.html %}
 
@@ -11,7 +14,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab has published over 200 studies in leading journals, advancing research on the genetic basis of Alzheimer’s and related dementias.
 
 {%
   include button.html
@@ -26,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/gr2_lrg.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study the genetic basis of Alzheimer’s and related dementias by analyzing risk factors, biomarkers, brain imaging, cognitive decline, and genomic data.
 
 {%
   include button.html
@@ -49,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/image002.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our diverse team of experts has spent over 20 years advancing Alzheimer’s research and mentoring dozens of emerging scientists.
 
 {%
   include button.html
@@ -74,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Lab_photo.jpg"
   link="team"
   title="Our Team"
   text=text
