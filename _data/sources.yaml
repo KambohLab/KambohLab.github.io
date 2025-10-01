@@ -1,23 +1,246 @@
-#- id: doi:10.1371/journal.pcbi.1007128
-#  type: paper
-#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#  date: 2020-12-4
-#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-#  buttons:
-#    - type: manubot
-#      link: https://greenelab.github.io/meta-review/
-#    - type: source
-#      text: Manuscript Source
-#      link: https://github.com/greenelab/meta-review
-#    - type: website
-#      link: http://manubot.org/
-#  tags:
-#    - open science
-#    - collaboration
-#  repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# Highlighted publications from our lab
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1007/s13311-021-01152-0
+  highlight: true
+  image: https://www.neurotherapeuticsjournal.org/cms/10.1007/s13311-021-01152-0/asset/7c9beac5-dae5-436d-b9a5-c9b6c3607559/main.assets/gr2_lrg.jpg
+  tags:
+    - Alzheimer's disease
+    - SNPs
+    - Genomics
+    - Genome-wide association study (GWAS)
+    - Functional genomics
+
+- id: doi:10.1038/s41598-025-01263-0
+  highlight: true
+  image: images/papers/doi_10.1038_s41598-025-01263-0.png
+  tags:
+    - APOE haplotype
+    - Alzheimer's disease
+    - polymorphism
+    - linkage disequilibrium (LD)
+
+- id: doi:10.1002/alz.14461
+  highlight: true
+  image: images/papers/doi_10.1002_alz.14461.png
+  tags:
+    - Sex-stratified analysis
+    - Genomic variation
+    - Polygenic risk score (PRS)
+
+# 2025 Publications
+
+- id: doi:10.1186/s13195-025-01803-w
+  image: images/papers/doi_10.1186_s13195-025-01803-w.png
+  tags:
+    - Amyloid beta
+    - Tau pathology
+    - ATN framework
+    - Neurofilament light chain
+
+- id: doi:10.3390/ijms26146940
+  image: images/papers/doi_10.3390_ijms26146940.png
+  tags:
+    - APOE-stratified
+    - neurocognitive domains
+    - visuospatial function
+
+- id: doi:10.1186/s13059-025-03564-z
+  image: images/papers/doi_10.1186_s13059-025-03564-z.png
+  tags:
+    - Genome-wide association study (GWAS)
+    - Multi-ancestry
+    - Population-specific
+
+- id: doi:10.1101/2025.07.10.25331312
+  image: images/papers/doi_10.1101_2025.07.10.25331312.png
+  tags:
+    - Plasma biomarkers
+    - brain amyloid pathology
+    - HCP-CoBRA
+
+- id: doi:10.1002/alz.70409
+  image: images/papers/doi_10.1002_alz.70409.png
+  tags:
+    - autosomal dominant Alzheimer's disease
+    - blood-based biomarkers
+    - phosphorylated tau217
+
+- id: doi:10.1002/alz.70398
+  image: images/papers/doi_10.1002_alz.70398.png
+  tags:
+    - Down syndrome
+    - novel genetic loci
+    - trisomy 21
+
+- id: doi:10.1002/alz.70358
+  image: images/papers/doi_10.1002_alz.70358.png
+  tags:
+    - amyloid-PET
+    - Centiloid
+    - plasma Aβ
+    - trisomy 21
+
+- id: doi:10.3389/fnagi.2025.1524474
+  tags:
+    - estrogen
+    - oophorectomy
+    - memopause
+
+- id: doi:10.1093/ageing/afaf072
+  image: images/papers/doi_10.1093_ageing_afaf072.png
+
+- id: doi:10.1002/alz.14619
+  image: images/papers/doi_10.1002_alz.14619.png
+  tags:
+    - Alzheimer's disease
+    - blood-based biomarkers
+    - cognitive function
+
+- id: doi:10.1093/hmg/ddaf017
+  image: images/papers/doi_10.1093_hmg_ddaf017.png
+  tags:
+    - Amyloid-PET
+    - Whole Genome Sequencing
+    - APOE
+    - Brain amyloidosis
+    - Lipid
+
+- id: doi:10.1002/alz.14535
+  image: images/papers/doi_10.1002_alz.14535.png
+  tags:
+    - Amyloid pathology
+    - NULISA
+    - NULISAseq
+    - proteomics
+
+- id: doi:10.3390/ijms26010352
+  tags:
+    - infantile neuroaxonal dystrophy
+    - leukodystrophy
+    - autosomal recessive
+    - PLA2G6
+    - iPLA2
+
+
+# 2024 Publications
+
+- id: doi:10.1177/13872877241303926
+  image: images/papers/doi_10.1177_13872877241303926.png
+  tags:
+    - ageing
+    - Alzheimer's disease
+    - biomarkers
+    - neuropsychology
+
+- id: doi:10.1136/bjsports-2024-108257
+  image: https://bjsm.bmj.com/content/bjsports/59/3/167/F2.large.jpg
+
+- id: doi:10.1002/alz.14430
+  image: images/papers/doi_10.1002_alz.14430.png
+  tags:
+    - Amyloid beta
+    - blood-based biomarkers
+    - cardiovascular
+    - p-tau
+
+- id: doi:10.1038/s41380-024-02838-5
+  image: images/papers/doi_10.1038_s41380-024-02838-5.png
+
+- id: doi:10.1002/alz.092813
+  image: images/papers/doi_10.1002_alz.092813.png
+
+- id: doi:10.1016/j.ebiom.2024.105433 
+  tags:
+    - Down syndrome
+    - Mosaicism
+    - Plasma biomarkers
+    - CSF
+    - PET
+
+- id: doi:10.1016/S1474-4422(24)00426-5
+  image: images/papers/doi_10.1016_S1474-4422(24)00426-5.png
+
+- id: doi:10.1186/s13024-024-00753-5
+  image: images/papers/doi_10.1186_s13024-024-00753-5.png
+  tags:
+    - Preclinical Alzheimer’s disease
+    - Amyloid pathology
+    - Tau pathology
+    - NULISA
+    - NULISAseq
+
+- id: doi:10.1038/s41467-024-52298-2
+  image: images/papers/doi_10.1038_s41467-024-52298-2.png
+
+- id: doi:10.1002/art.42938
+  
+- id: doi:10.1002/alz.14115
+  image: images/papers/doi_10.1002_alz.14115.png
+  tags:
+    - all-cause dementia
+    - cross-ancestry
+    - GWAS meta-analysis
+    - vascular dementia
+
+- id: doi:10.3389/fnagi.2024.1426070
+  image: https://www.frontiersin.org/files/Articles/1426070/fnagi-16-1426070-HTML-r1/image_m/fnagi-16-1426070-g002.jpg
+  tags:
+    - brain volume
+    - postmenopause
+    - endogenous estrogens
+    - APOE4
+
+- id: doi:10.1016/j.neurobiolaging.2024.03.005
+  tags:
+    - racialization
+    - apolipoprotein-E
+    - β-amyloid
+    - PET
+
+- id: doi:10.1016/S1474-4422(24)00084-X 
+  image: https://www.thelancet.com/cms/10.1016/S1474-4422(24)00084-X/asset/5826fcfc-0e6e-4219-8926-bf8219e6f390/main.assets/gr1_lrg.jpg
+
+- id: doi:10.1002/trc2.12472
+  image: images/papers/doi_10.1002_trc2.12472.png
+  tags:
+    - affective disturbance
+    - Alzheimer's disease
+    - heritability
+    - psychosis
+
+- id: doi:10.1002/alz.13718
+  image: images/papers/doi_10.1002_alz.13718.png
+  tags:
+    - genetic risk
+    - late-onset Alzheimer's disease
+    - microtubule protein
+    - mtus2 gene
+
+- id: doi:10.1212/WNL.0000000000207920
+  image: images/papers/doi_10.1212_WNL.0000000000207920.png
+
+# 2023 Publications
+
+- id: doi:10.1002/alz.13506
+  image: images/papers/doi_10.1002_alz.13506.png
+  tags:
+    - Down syndrome
+    - dominantly inherited Alzheimer Network
+    - PSEN1
+    - PSEN2
+
+- id: doi:10.1002/alz.13503
+  image: images/papers/doi_10.1002_alz.13503.png
+  tags:
+    - amyloid beta
+    - cerebral small vessel disease
+    - hippocampal functional connectivity
+    - white matter hyperintensity
+
+- id: doi:10.1038/s41380-023-02170-4
+  image: images/papers/doi_10.1038_s41380-023-02170-4.png
+  tags:
+    - genetics
+    - predictive markers
+  

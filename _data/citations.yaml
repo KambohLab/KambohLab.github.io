@@ -17,8 +17,12 @@
   date: '2023-09-05'
   link: https://doi.org/gspf3k
   orcid: 0000-0002-3453-1438
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/papers/doi_10.1038_s41380-023-02170-4.png
+  tags:
+  - genetics
+  - predictive markers
 - id: doi:10.1186/s40478-023-01563-4
   title: Large multi-ethnic genetic analyses of amyloid imaging identify new genes
     for Alzheimer disease
@@ -87,8 +91,16 @@
   date: '2022-01-01'
   link: https://doi.org/gr32bq
   orcid: 0000-0002-3453-1438
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  highlight: true
+  image: https://www.neurotherapeuticsjournal.org/cms/10.1007/s13311-021-01152-0/asset/7c9beac5-dae5-436d-b9a5-c9b6c3607559/main.assets/gr2_lrg.jpg
+  tags:
+  - Alzheimer's disease
+  - SNPs
+  - Genomics
+  - Genome-wide association study (GWAS)
+  - Functional genomics
 - id: doi:10.1101/2021.05.04.21256076
   title: "Small nucleolar RNAs in plasma and their discriminatory power as diagnostic\
     \ biomarkers of Alzheimer\u2019s disease"
@@ -7008,30 +7020,1759 @@
   orcid: 0000-0002-3453-1438
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41598-025-01263-0
+  title: "Search for the elusive haplotype of the APOE polymorphism associated with\
+    \ Alzheimer\u2019s disease"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Asma Naseer Cheema
+  - Kang-Hsien Fan
+  - Elizabeth Lawrence
+  - Narges Zafari
+  - Ruyu Shi
+  - Muhammad Muaaz Aslam
+  - Vibha Acharya
+  - Alayna Jean Holderman
+  - Annie Bedison
+  - Eleanor Feingold
+  - M. Ilyas Kamboh
+  publisher: Scientific Reports
+  date: '2025-05-15'
+  link: https://doi.org/g9psj3
+  highlight: true
+  image: images/papers/doi_10.1038_s41598-025-01263-0.png
+  tags:
+  - APOE haplotype
+  - Alzheimer's disease
+  - polymorphism
+  - linkage disequilibrium (LD)
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1002/alz.14461
+  title: "Sex\u2010stratified genome\u2010wide meta\u2010analysis identifies novel\
+    \ loci for cognitive decline in older adults"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Vibha Acharya
+  - "Kang\u2010Hsien Fan"
+  - Beth E. Snitz
+  - Mary Ganguli
+  - Steven T. DeKosky
+  - Oscar L. Lopez
+  - Eleanor Feingold
+  - M. Ilyas Kamboh
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-03-01'
+  link: https://doi.org/g95bm3
+  highlight: true
+  image: images/papers/doi_10.1002_alz.14461.png
+  tags:
+  - Sex-stratified analysis
+  - Genomic variation
+  - Polygenic risk score (PRS)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13195-025-01803-w
+  title: Plasma biomarkers identify brain ATN abnormalities in a dementia-free population-based
+    cohort
+  authors:
+  - Menayit Tamrat Dresse
+  - Pamela C. L. Ferreira
+  - Akshay Prasadan
+  - Jihui L. Diaz
+  - Xuemei Zeng
+  - Bruna Bellaver
+  - Guilherme Povala
+  - Victor L. Villemagne
+  - M. Ilyas Kamboh
+  - Ann D. Cohen
+  - Tharick A. Pascoal
+  - Mary Ganguli
+  - Beth E. Snitz
+  - C. Elizabeth Shaaban
+  - Thomas K. Karikari
+  publisher: Alzheimer's Research &amp; Therapy
+  date: '2025-07-25'
+  link: https://doi.org/g95b83
+  image: images/papers/doi_10.1186_s13195-025-01803-w.png
+  tags:
+  - Amyloid beta
+  - Tau pathology
+  - ATN framework
+  - Neurofilament light chain
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ijms26146940
+  title: APOE Genotype-Stratified Meta-Analysis of Cognitive Decline Reveals Novel
+    Loci for Language and Global Cognitive Function in Older Adults
+  authors:
+  - Vibha Acharya
+  - Kang-Hsien Fan
+  - Beth E. Snitz
+  - Mary Ganguli
+  - Steven T. DeKosky
+  - Oscar L. Lopez
+  - Eleanor Feingold
+  - M. Ilyas Kamboh
+  publisher: International Journal of Molecular Sciences
+  date: '2025-07-19'
+  link: https://doi.org/g95b93
+  image: images/papers/doi_10.3390_ijms26146940.png
+  tags:
+  - APOE-stratified
+  - neurocognitive domains
+  - visuospatial function
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-025-03564-z
+  title: "Multi-ancestry genome-wide meta-analysis of 56,241 individuals identifies\
+    \ known and novel cross-population and ancestry-specific associations as novel\
+    \ risk loci for Alzheimer\u2019s disease"
+  authors:
+  - Farid Rajabli
+  - Penelope Benchek
+  - Giuseppe Tosto
+  - Nicholas Kushch
+  - Jin Sha
+  - Katrina Bazemore
+  - Congcong Zhu
+  - Wan-Ping Lee
+  - Jacob Haut
+  - Kara L. Hamilton-Nelson
+  - Nicholas R. Wheeler
+  - Yi Zhao
+  - John J. Farrell
+  - Michelle A. Grunin
+  - Yuk Yee Leung
+  - Pavel P. Kuksa
+  - Donghe Li
+  - Eder Lucio da Fonseca
+  - Jesse B. Mez
+  - Ellen L. Palmer
+  - Jagan Pillai
+  - Richard M. Sherva
+  - Yeunjoo E. Song
+  - Xiaoling Zhang
+  - Takeshi Ikeuchi
+  - Taha Iqbal
+  - Omkar Pathak
+  - Otto Valladares
+  - Dolly Reyes-Dumeyer
+  - Amanda B. Kuzma
+  - Erin Abner
+  - Larry D. Adams
+  - Perrie M. Adams
+  - Alyssa Aguirre
+  - Marilyn S. Albert
+  - Roger L. Albin
+  - Mariet Allen
+  - Lisa Alvarez
+  - Liana G. Apostolova
+  - Steven E. Arnold
+  - Sanjay Asthana
+  - Craig S. Atwood
+  - Sanford Auerbach
+  - Gayle Ayres
+  - Clinton T. Baldwin
+  - Robert C. Barber
+  - Lisa L. Barnes
+  - Sandra Barral
+  - Thomas G. Beach
+  - James T. Becker
+  - Gary W. Beecham
+  - Duane Beekly
+  - Bruno A. Benitez
+  - David Bennett
+  - John Bertelson
+  - Thomas D. Bird
+  - Deborah Blacker
+  - Bradley F. Boeve
+  - James D. Bowen
+  - Adam Boxer
+  - James Brewer
+  - James R. Burke
+  - Jeffrey M. Burns
+  - Joseph D. Buxbaum
+  - Nigel J. Cairns
+  - Laura B. Cantwell
+  - Chuanhai Cao
+  - Christopher S. Carlson
+  - Cynthia M. Carlsson
+  - Regina M. Carney
+  - Minerva M. Carrasquillo
+  - Scott Chasse
+  - Marie-Francoise Chesselet
+  - Nathaniel A. Chin
+  - Helena C. Chui
+  - Jaeyoon Chung
+  - Suzanne Craft
+  - Paul K. Crane
+  - David H. Cribbs
+  - Elizabeth A. Crocco
+  - Carlos Cruchaga
+  - Michael L. Cuccaro
+  - Munro Cullum
+  - Eveleen Darby
+  - Barbara Davis
+  - Philip L. De Jager
+  - Charles DeCarli
+  - John DeToledo
+  - Malcolm Dick
+  - Dennis W. Dickson
+  - Beth A. Dombroski
+  - Rachelle S. Doody
+  - Ranjan Duara
+  - "NIl\xFCfer Ertekin-Taner"
+  - Denis A. Evans
+  - Kelley M. Faber
+  - Thomas J. Fairchild
+  - Kenneth B. Fallon
+  - David W. Fardo
+  - Martin R. Farlow
+  - Victoria Fernandez-Hernandez
+  - Steven Ferris
+  - Robert P. Friedland
+  - Tatiana M. Foroud
+  - Matthew P. Frosch
+  - Brian Fulton-Howard
+  - Douglas R. Galasko
+  - Adriana Gamboa
+  - Marla Gearing
+  - Daniel H. Geschwind
+  - Bernardino Ghetti
+  - John R. Gilbert
+  - Rodney C.P. Go
+  - Alison M. Goate
+  - Thomas J. Grabowski
+  - Neill R. Graff-Radford
+  - Robert C. Green
+  - John H. Growdon
+  - Hakon Hakonarson
+  - James Hall
+  - Ronald L. Hamilton
+  - Oscar Harari
+  - John Hardy
+  - Lindy E. Harrell
+  - Elizabeth Head
+  - Victor W. Henderson
+  - Michelle Hernandez
+  - Timothy Hohman
+  - Lawrence S. Honig
+  - Ryan M. Huebinger
+  - Matthew J. Huentelman
+  - Christine M. Hulette
+  - Bradley T. Hyman
+  - Linda S. Hynan
+  - Laura Ibanez
+  - Gail P. Jarvik
+  - Suman Jayadev
+  - Lee-Way Jin
+  - Kim Johnson
+  - Leigh Johnson
+  - M. Ilyas Kamboh
+  - Anna M. Karydas
+  - Mindy J. Katz
+  - John S. Kauwe
+  - Jeffrey A. Kaye
+  - C. Dirk Keene
+  - Aisha Khaleeq
+  - Masataka Kikuchi
+  - Ronald Kim
+  - Janice Knebl
+  - Neil W. Kowall
+  - Joel H. Kramer
+  - Walter A. Kukull
+  - Frank M. LaFerla
+  - James J. Lah
+  - Eric B. Larson
+  - Alan Lerner
+  - James B. Leverenz
+  - Allan I. Levey
+  - Andrew P. Lieberman
+  - Richard B. Lipton
+  - Mark Logue
+  - Oscar L. Lopez
+  - Kathryn L. Lunetta
+  - Constantine G. Lyketsos
+  - Douglas Mains
+  - Flanagan E. Margaret
+  - Daniel C. Marson
+  - Eden RR. Martin
+  - Frank Martiniuk
+  - Deborah C. Mash
+  - Eliezer Masliah
+  - Paul Massman
+  - Arjun Masurkar
+  - Wayne C. McCormick
+  - Susan M. McCurry
+  - Andrew N. McDavid
+  - Stefan McDonough
+  - Ann C. McKee
+  - Marsel Mesulam
+  - Bruce L. Miller
+  - Carol A. Miller
+  - Joshua W. Miller
+  - Thomas J. Montine
+  - Edwin S. Monuki
+  - John C. Morris
+  - Shubhabrata Mukherjee
+  - Amanda J. Myers
+  - Trung Nguyen
+  - Thomas Obisesan
+  - "Sid O\u2019Bryant"
+  - John M. Olichney
+  - Marcia Ory
+  - Raymond Palmer
+  - Joseph E. Parisi
+  - Henry L. Paulson
+  - Valory Pavlik
+  - David Paydarfar
+  - Victoria Perez
+  - Elaine Peskind
+  - Ronald C. Petersen
+  - Helen Petrovitch
+  - Aimee Pierce
+  - Marsha Polk
+  - Wayne W. Poon
+  - Huntington Potter
+  - Liming Qu
+  - Mary Quiceno
+  - Joseph F. Quinn
+  - Ashok Raj
+  - Murray Raskind
+  - Eric M. Reiman
+  - Barry Reisberg
+  - Joan S. Reisch
+  - John M. Ringman
+  - Erik D. Roberson
+  - Monica Rodriguear
+  - Ekaterina Rogaeva
+  - Howard J. Rosen
+  - Roger N. Rosenberg
+  - Donald R. Royall
+  - Marwan Sabbagh
+  - A. Dessa Sadovnick
+  - Mark A. Sager
+  - Mary Sano
+  - Andrew J. Saykin
+  - Julie A. Schneider
+  - Lon S. Schneider
+  - William W. Seeley
+  - Susan H. Slifer
+  - Scott Small
+  - Amanda G. Smith
+  - Janet P. Smith
+  - Joshua A. Sonnen
+  - Salvatore Spina
+  - Peter St George-Hyslop
+  - Takiyah D. Starks
+  - Robert A. Stern
+  - Alan B. Stevens
+  - Stephen M. Strittmatter
+  - David Sultzer
+  - Russell H. Swerdlow
+  - Rudolph E. Tanzi
+  - Jeffrey L. Tilson
+  - John Q. Trojanowski
+  - Juan C. Troncoso
+  - Magda Tsolaki
+  - Debby W. Tsuang
+  - Vivianna M. Van Deerlin
+  - Linda J. van Eldik
+  - Jeffery M. Vance
+  - Badri N. Vardarajan
+  - Robert Vassar
+  - Harry V. Vinters
+  - Jean-Paul Vonsattel
+  - Sandra Weintraub
+  - Kathleen A. Welsh-Bohmer
+  - Patrice L. Whitehead
+  - Ellen M. Wijsman
+  - Kirk C. Wilhelmsen
+  - Benjamin Williams
+  - Jennifer Williamson
+  - Henrik Wilms
+  - Thomas S. Wingo
+  - Thomas Wisniewski
+  - Randall L. Woltjer
+  - Martin Woon
+  - Clinton B. Wright
+  - Chuang-Kuo Wu
+  - Steven G. Younkin
+  - Chang-En Yu
+  - Lei Yu
+  - Xiongwei Zhu
+  - Brian W. Kunkle
+  - William S. Bush
+  - Akinori Miyashita
+  - Goldie S. Byrd
+  - Li-San Wang
+  - Lindsay A. Farrer
+  - Jonathan L. Haines
+  - Richard Mayeux
+  - Margaret A. Pericak-Vance
+  - Gerard D. Schellenberg
+  - Gyungah R. Jun
+  - Christiane Reitz
+  - Adam C. Naj
+  publisher: Genome Biology
+  date: '2025-07-17'
+  link: https://doi.org/g95b96
+  image: images/papers/doi_10.1186_s13059-025-03564-z.png
+  tags:
+  - Genome-wide association study (GWAS)
+  - Multi-ancestry
+  - Population-specific
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.07.10.25331312
+  title: 'Plasma biomarkers, brain amyloid pathology, and cortical thickness in a
+    diverse middle-aged community cohort: the HCP-CoBRA study'
+  authors:
+  - Shayna T. Brodman
+  - Nicholas Heaton
+  - Gallen Triana-Baltzer
+  - Xuemei Zeng
+  - Alexandra Gogola
+  - M. Ilyas Kamboh
+  - Victor L. Villemagne
+  - Oscar L. Lopez
+  - Hartmuth Kolb
+  - Rebecca A. Deek
+  - Ann D. Cohen
+  - Thomas K. Karikari
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-11'
+  link: https://doi.org/g95ccp
+  image: images/papers/doi_10.1101_2025.07.10.25331312.png
+  tags:
+  - Plasma biomarkers
+  - brain amyloid pathology
+  - HCP-CoBRA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70409
+  title: "Pittsburgh plasma p\u2010tau217: Classification accuracies for autosomal\
+    \ dominant and sporadic Alzheimer's disease in the community"
+  authors:
+  - Anuradha Sehrawat
+  - Xuemei Zeng
+  - Eric E. Abrahamson
+  - Rebecca A. Deek
+  - Alexandra Gogola
+  - M. Ilyas Kamboh
+  - Tharick A. Pascoal
+  - Victor L. Villemagne
+  - Oscar L. Lopez
+  - Milos D. Ikonomovic
+  - Beth E. Snitz
+  - Ann D. Cohen
+  - Thomas K. Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-07-01'
+  link: https://doi.org/g95ccw
+  image: images/papers/doi_10.1002_alz.70409.png
+  tags:
+  - autosomal dominant Alzheimer's disease
+  - blood-based biomarkers
+  - phosphorylated tau217
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70398
+  title: "Genome\u2010wide association of tau neuroimaging and plasma biomarkers in\
+    \ adults with Down syndrome"
+  authors:
+  - "Kang\u2010Hsien Fan"
+  - Ruyu Shi
+  - Asma Naseer Cheema
+  - "Lam\u2010Ha T. Dang"
+  - Laura Xicota
+  - "Sharon Krinsky\u2010McHale"
+  - M. Muaaz Aslam
+  - Narges Zafari
+  - Vibha Acharya
+  - Eleanor Feingold
+  - Charles M. Laymon
+  - Ann Cohen
+  - Benjamin L. Handen
+  - Bradley T. Christian
+  - Elizabeth Head
+  - Mark E. Mapstone
+  - Carlos Cruchaga
+  - Joseph H. Lee
+  - M. Ilyas Kamboh
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-07-01'
+  link: https://doi.org/g95ccs
+  image: images/papers/doi_10.1002_alz.70398.png
+  tags:
+  - Down syndrome
+  - novel genetic loci
+  - trisomy 21
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70358
+  title: "Genome\u2010wide association analyses identify candidate loci for amyloid\
+    \ imaging and plasma biomarkers in adults with Down syndrome"
+  authors:
+  - M. Muaaz Aslam
+  - "Lam\u2010Ha T. Dang"
+  - Ruyu Shi
+  - "Kang\u2010Hsien Fan"
+  - Asma Naseer Cheema
+  - Laura Xicota
+  - Danveet Minhas
+  - Weiquan Luo
+  - Narges Zafari
+  - Vibha Acharya
+  - Eleanor Feingold
+  - "Sharon Krinsky\u2010McHale"
+  - Charles M. Laymon
+  - Ann Cohen
+  - Benjamin L. Handen
+  - Bradley T. Christian
+  - Elizabeth Head
+  - Mark E. Mapstone
+  - Joseph H. Lee
+  - Carlos Cruchaga
+  - M. Ilyas Kamboh
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-07-01'
+  link: https://doi.org/g95ccq
+  image: images/papers/doi_10.1002_alz.70358.png
+  tags:
+  - amyloid-PET
+  - Centiloid
+  - "plasma A\u03B2"
+  - trisomy 21
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnagi.2025.1524474
+  title: 'Lifetime estrogen exposure and domain-specific cognitive performance: results
+    from the IGNITE study'
+  authors:
+  - Amber Watts
+  - Shannon Donofry
+  - Hayley Ripperger
+  - Nicole M. Eklund
+  - Lu Wan
+  - Chaeryon Kang
+  - George Grove
+  - Lauren E. Oberlin
+  - Swathi Gujral
+  - Eric D. Vidoni
+  - Jeffrey M. Burns
+  - Edward McAuley
+  - Charles H. Hillman
+  - Arthur F. Kramer
+  - M. Ilyas Kamboh
+  - Kirk I. Erickson
+  publisher: Frontiers in Aging Neuroscience
+  date: '2025-04-03'
+  link: https://doi.org/g9psj4
+  tags:
+  - estrogen
+  - oophorectomy
+  - memopause
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ageing/afaf072
+  title: '24-Hour time use and cognitive performance in late adulthood: results from
+    the Investigating Gains in Neurocognition in an Intervention Trial of Exercise
+    (IGNITE) study'
+  authors:
+  - Audrey M Collins
+  - Maddison L Mellow
+  - Ashleigh E Smith
+  - Lu Wan
+  - Neha P Gothe
+  - Jason Fanning
+  - John M Jakicic
+  - Chaeryon Kang
+  - George Grove
+  - Haiqing Huang
+  - Lauren E Oberlin
+  - Jairo H Migueles
+  - M Ilyas Kamboh
+  - Arthur F Kramer
+  - Charles H Hillman
+  - Eric D Vidoni
+  - Jeffrey M Burns
+  - Edward McAuley
+  - Kirk I Erickson
+  publisher: Age and Ageing
+  date: '2025-03-28'
+  link: https://doi.org/g95cc3
+  image: images/papers/doi_10.1093_ageing_afaf072.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.14619
+  title: "Blood biomarkers differentiate AD\u2010related versus non\u2010AD\u2010\
+    related cognitive deficits"
+  authors:
+  - Kelsey R. Sewell
+  - Lauren E. Oberlin
+  - Thomas K. Karikari
+  - "Marcos Olvera\u2010Rojas"
+  - Lu Wan
+  - Jill K. Morris
+  - Paul J. Kueck
+  - Xuemei Zeng
+  - Haiqing Huang
+  - George Grove
+  - Yijun Chen
+  - Tara K. Lafferty
+  - Anuradha Sehrawat
+  - M. Ilyas Kamboh
+  - Anna L. Marsland
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Chaeryon Kang
+  - Kirk I. Erickson
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-03-01'
+  link: https://doi.org/g95cd7
+  image: images/papers/doi_10.1002_alz.14619.png
+  tags:
+  - Alzheimer's disease
+  - blood-based biomarkers
+  - cognitive function
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/hmg/ddaf017
+  title: Whole-genome sequencing reveals the impact of lipid pathway and <i>APOE</i>
+    genotype on brain amyloidosis
+  authors:
+  - Maulikkumar Patel
+  - Cyril Pottier
+  - Kang-Hsien Fan
+  - Arda Cetin
+  - Matthew Johnson
+  - Muhammad Ali
+  - Menghan Liu
+  - Priyanka Gorijala
+  - John Budde
+  - Ruyu Shi
+  - Ann D Cohen
+  - James T Becker
+  - Beth E Snitz
+  - Howard Aizenstein
+  - Oscar L Lopez
+  - John C Morris
+  - M Ilyas Kamboh
+  - Carlos Cruchaga
+  publisher: Human Molecular Genetics
+  date: '2025-02-10'
+  link: https://doi.org/g95ccx
+  image: images/papers/doi_10.1093_hmg_ddaf017.png
+  tags:
+  - Amyloid-PET
+  - Whole Genome Sequencing
+  - APOE
+  - Brain amyloidosis
+  - Lipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.14535
+  title: 'Novel plasma biomarkers of amyloid plaque pathology and cortical thickness:
+    Evaluation of the NULISA targeted proteomic platform in an ethnically diverse
+    cohort'
+  authors:
+  - Xuemei Zeng
+  - Anuradha Sehrawat
+  - Tara K. Lafferty
+  - Yijun Chen
+  - Mahika Rawat
+  - M. Ilyas Kamboh
+  - Victor L. Villemagne
+  - Oscar L. Lopez
+  - Ann D. Cohen
+  - Thomas K. Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-02-01'
+  link: https://doi.org/g934pv
+  image: images/papers/doi_10.1002_alz.14535.png
+  tags:
+  - Amyloid pathology
+  - NULISA
+  - NULISAseq
+  - proteomics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ijms26010352
+  title: Association of Novel Pathogenic Variant (p. Ile366Asn) in PLA2G6 Gene with
+    Infantile Neuroaxonal Dystrophy
+  authors:
+  - Asma Naseer Cheema
+  - Ruyu Shi
+  - M. Ilyas Kamboh
+  publisher: International Journal of Molecular Sciences
+  date: '2025-01-03'
+  link: https://doi.org/g95ckt
+  tags:
+  - infantile neuroaxonal dystrophy
+  - leukodystrophy
+  - autosomal recessive
+  - PLA2G6
+  - iPLA2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/13872877241303926
+  title: Multimodal neuroimaging biomarkers and subtle cognitive decline in a population-based
+    cohort without dementia
+  authors:
+  - Andrea M Weinstein
+  - Fang Fang
+  - Chung-Chou H Chang
+  - Ann Cohen
+  - Brian J Lopresti
+  - Charles M Laymon
+  - Neelesh K Nadkarni
+  - Howard J Aizenstein
+  - Victor L Villemagne
+  - M Ilyas Kamboh
+  - C Elizabeth Shaaban
+  - Marissa A Gogniat
+  - Minjie Wu
+  - Thomas K Karikari
+  - Mary Ganguli
+  - Beth E Snitz
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2024-12-19'
+  link: https://doi.org/g95ck5
+  image: images/papers/doi_10.1177_13872877241303926.png
+  tags:
+  - ageing
+  - Alzheimer's disease
+  - biomarkers
+  - neuropsychology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/bjsports-2024-108257
+  title: 'Cardiorespiratory fitness is associated with cognitive function in late
+    adulthood: baseline findings from the IGNITE study'
+  authors:
+  - Lauren E Oberlin
+  - Lu Wan
+  - Chaeryon Kang
+  - Allison Romano
+  - Sarah Aghjayan
+  - Alina Lesnovskaya
+  - Hayley S Ripperger
+  - Jermon Drake
+  - Rae Harrison
+  - Audrey M Collins
+  - Cristina Molina-Hidalgo
+  - George Grove
+  - Haiqing Huang
+  - Arthur Kramer
+  - Charles H Hillman
+  - Jeffrey M Burns
+  - Eric D Vidoni
+  - Edward McAuley
+  - M Ilyas Kamboh
+  - John M Jakicic
+  - Kirk I Erickson
+  publisher: British Journal of Sports Medicine
+  date: '2024-12-10'
+  link: https://doi.org/g8t9xt
+  image: https://bjsm.bmj.com/content/bjsports/59/3/167/F2.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.14430
+  title: "Influence of medical conditions on the diagnostic accuracy of plasma p\u2010\
+    tau217 and p\u2010tau217/A\u03B242"
+  authors:
+  - "Marcos Olvera\u2010Rojas"
+  - Kelsey R. Sewell
+  - Thomas K. Karikari
+  - Haiqing Huang
+  - Lauren E. Oberlin
+  - Xuemei Zeng
+  - Jill K. Morris
+  - Audrey M. Collins
+  - Jermon A. Drake
+  - Bradley P. Sutton
+  - Arthur F. Kramer
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Jeffrey M. Burns
+  - M. Ilyas Kamboh
+  - Edward McAuley
+  - Anna L. Marsland
+  - Yijun Chen
+  - Tara K. Lafferty
+  - Anuradha Sehrawat
+  - John M. Jakicic
+  - Lu Wan
+  - Chaeryon Kang
+  - Kirk I. Erickson
+  publisher: Alzheimer's &amp; Dementia
+  date: '2024-12-06'
+  link: https://doi.org/g95chw
+  image: images/papers/doi_10.1002_alz.14430.png
+  tags:
+  - Amyloid beta
+  - blood-based biomarkers
+  - cardiovascular
+  - p-tau
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41380-024-02838-5
+  title: "X\u2010chromosome-wide association study for Alzheimer\u2019s disease"
+  authors:
+  - Julie Le Borgne
+  - Lissette Gomez
+  - Sami Heikkinen
+  - Najaf Amin
+  - Shahzad Ahmad
+  - Seung Hoan Choi
+  - Joshua Bis
+  - Benjamin Grenier-Boley
+  - Omar Garcia Rodriguez
+  - Luca Kleineidam
+  - Juan Young
+  - Kumar Parijat Tripathi
+  - Lily Wang
+  - Achintya Varma
+  - Rafael Campos-Martin
+  - Sven van der Lee
+  - Vincent Damotte
+  - Itziar de Rojas
+  - Sagnik Palmal
+  - Richard Lipton
+  - Eric Reiman
+  - Ann McKee
+  - Philip De Jager
+  - William Bush
+  - Scott Small
+  - Allan Levey
+  - Andrew Saykin
+  - Tatiana Foroud
+  - Marilyn Albert
+  - Bradley Hyman
+  - Ronald Petersen
+  - Steven Younkin
+  - Mary Sano
+  - Thomas Wisniewski
+  - Robert Vassar
+  - Julie Schneider
+  - Victor Henderson
+  - Erik Roberson
+  - Charles DeCarli
+  - Frank LaFerla
+  - James Brewer
+  - Russell Swerdlow
+  - Linda Van Eldik
+  - Kara Hamilton-Nelson
+  - Henry Paulson
+  - Adam Naj
+  - Oscar Lopez
+  - Helena Chui
+  - Paul Crane
+  - Thomas Grabowski
+  - Walter Kukull
+  - Sanjay Asthana
+  - Suzanne Craft
+  - Stephen Strittmatter
+  - Carlos Cruchaga
+  - James Leverenz
+  - Alison Goate
+  - M. Ilyas Kamboh
+  - Peter St George-Hyslop
+  - Otto Valladares
+  - Amanda Kuzma
+  - Laura Cantwell
+  - Matthias Riemenschneider
+  - John Morris
+  - Susan Slifer
+  - Carolina Dalmasso
+  - Atahualpa Castillo
+  - "Fahri K\xFC\xE7\xFCkali"
+  - Oliver Peters
+  - Anja Schneider
+  - Martin Dichgans
+  - Dan Rujescu
+  - Norbert Scherbaum
+  - "J\xFCrgen Deckert"
+  - Steffi Riedel-Heller
+  - Lucrezia Hausner
+  - Laura Molina-Porcel
+  - "Emrah D\xFCzel"
+  - Timo Grimmer
+  - Jens Wiltfang
+  - Stefanie Heilmann-Heimbach
+  - Susanne Moebus
+  - Thomas Tegos
+  - Nikolaos Scarmeas
+  - Oriol Dols-Icardo
+  - Fermin Moreno
+  - "Jordi P\xE9rez-Tur"
+  - "Mar\xEDa J. Bullido"
+  - Pau Pastor
+  - "Raquel S\xE1nchez-Valle"
+  - "Victoria \xC1lvarez"
+  - "Merc\xE8 Boada"
+  - "Pablo Garc\xEDa-Gonz\xE1lez"
+  - Raquel Puerta
+  - Pablo Mir
+  - Luis M. Real
+  - "Gerard Pi\xF1ol-Ripoll"
+  - "Jose Mar\xEDa Garc\xEDa-Alberca"
+  - "Jose Lu\xEDs Royo"
+  - Eloy Rodriguez-Rodriguez
+  - Hilkka Soininen
+  - "Alexandre de Mendon\xE7a"
+  - Shima Mehrabian
+  - Latchezar Traykov
+  - Jakub Hort
+  - Martin Vyhnalek
+  - Jesper Qvist Thomassen
+  - Yolande A. L. Pijnenburg
+  - Henne Holstege
+  - John van Swieten
+  - Inez Ramakers
+  - Frans Verhey
+  - Philip Scheltens
+  - Caroline Graff
+  - Goran Papenberg
+  - Vilmantas Giedraitis
+  - Anne Boland
+  - "Jean-Fran\xE7ois Deleuze"
+  - Gael Nicolas
+  - Carole Dufouil
+  - Florence Pasquier
+  - Olivier Hanon
+  - "St\xE9phanie Debette"
+  - "Edna Gr\xFCnblatt"
+  - Julius Popp
+  - Roberta Ghidoni
+  - Daniela Galimberti
+  - Beatrice Arosio
+  - Patrizia Mecocci
+  - Vincenzo Solfrizzi
+  - Lucilla Parnetti
+  - Alessio Squassina
+  - Lucio Tremolizzo
+  - Barbara Borroni
+  - Benedetta Nacmias
+  - Marco Spallazzi
+  - Davide Seripa
+  - Innocenzo Rainero
+  - Antonio Daniele
+  - "Paola Boss\xF9"
+  - Carlo Masullo
+  - Giacomina Rossi
+  - Frank Jessen
+  - Victoria Fernandez
+  - Patrick Gavin Kehoe
+  - Ruth Frikke-Schmidt
+  - Magda Tsolaki
+  - "Pascual S\xE1nchez-Juan"
+  - Kristel Sleegers
+  - Martin Ingelsson
+  - Jonathan Haines
+  - Lindsay Farrer
+  - Richard Mayeux
+  - Li-San Wang
+  - Rebecca Sims
+  - Anita DeStefano
+  - Gerard D. Schellenberg
+  - Sudha Seshadri
+  - Philippe Amouyel
+  - Julie Williams
+  - Wiesje van der Flier
+  - Alfredo Ramirez
+  - Margaret Pericak-Vance
+  - Ole A. Andreassen
+  - Cornelia Van Duijn
+  - Mikko Hiltunen
+  - "Agust\xEDn Ruiz"
+  - "Jos\xE9e Dupuis"
+  - Eden Martin
+  - Jean-Charles Lambert
+  - Brian Kunkle
+  - "C\xE9line Bellenguez"
+  publisher: Molecular Psychiatry
+  date: '2024-12-04'
+  link: https://doi.org/g8x2dq
+  image: images/papers/doi_10.1038_s41380-024-02838-5.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.092813
+  title: "APOE4\u2010related brain vulnerabilities in memory circuitry of midlife\
+    \ women"
+  authors:
+  - Katrina A Wugalter
+  - Rebecca C Thurston
+  - Rachel A Schroeder
+  - Minjie Wu
+  - Howard J Aizenstein
+  - M. Ilyas Kamboh
+  - Carol A. Derby
+  - Pauline M Maki
+  publisher: Alzheimer's &amp; Dementia
+  date: '2024-12-01'
+  link: https://doi.org/g95cmh
+  image: images/papers/doi_10.1002_alz.092813.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ebiom.2024.105433
+  title: The effects of mosaicism on biological and clinical markers of Alzheimer's
+    disease in adults with Down syndrome
+  authors:
+  - Laura Xicota
+  - Lam-Ha T. Dang
+  - Alice Lee
+  - Sharon Krinsky-McHale
+  - Deborah Pang
+  - Lisa Melilli
+  - Sid O'Bryant
+  - Rachel L. Henson
+  - Charles Laymon
+  - Florence Lai
+  - H. Diana Rosas
+  - Beau Ances
+  - Ira Lott
+  - Christy Hom
+  - Bradley Christian
+  - Sigan Hartley
+  - Shahid Zaman
+  - Elizabeth Head
+  - Mark Mapstone
+  - Zhezhen Jin
+  - Wayne Silverman
+  - Nicole Schupf
+  - Benjamin Handen
+  - Joseph H. Lee
+  - Howard J. Aizenstein
+  - Beau M. Ances
+  - Howard F. Andrews
+  - Karen Bell
+  - Rasmus Birn
+  - Adam M. Brickman
+  - Peter Bulova
+  - Amrita Cheema
+  - Kewei Chen
+  - Bradley T. Christian
+  - Isabel Clare
+  - Lorraine Clark
+  - Ann D. Cohen
+  - John N. Constantino
+  - Eric W. Doran
+  - Anne Fagan
+  - Eleanor Feingold
+  - Tatiana M. Foroud
+  - Benjamin L. Handen
+  - Jordan Harp
+  - Sigan L. Hartley
+  - Elizabeth Head
+  - Rachel Henson
+  - Christy Hom
+  - Lawrence Honig
+  - Milos D. Ikonomovic
+  - Sterling C. Johnson
+  - Courtney Jordan
+  - M.Ilyas Kamboh
+  - David Keator
+  - William E. Klunk
+  - Julia K. Kofler
+  - William Charles Kreisl
+  - Sharon J. Krinsky-McHale
+  - Florence Lai
+  - Patrick Lao
+  - Charles Laymon
+  - Joseph H. Lee
+  - Ira T. Lott
+  - Victoria Lupson
+  - Mark Mapstone
+  - Chester A. Mathis
+  - Davneet Singh Minhas
+  - Neelesh Nadkarni
+  - "Sid O\u2019Bryant"
+  - Melisa Parisi
+  - Deborah Pang
+  - Melissa Pettersen
+  - Julie C. Price
+  - Margaret Pulsifer
+  - Michael S. Rafii
+  - Eric Reiman
+  - Batool Rizvi
+  - H. Diana Rosas
+  - Laurie Ryan
+  - Frederick Schmitt
+  - Nicole Schupf
+  - Wayne P. Silverman
+  - Dana L. Tudorascu
+  - Rameshwari Tumuluru
+  - Benjamin Tycko
+  - Badri Varadarajan
+  - Desiree A. White
+  - Michael A. Yassa
+  - Shahid Zaman
+  - Fan Zhang
+  publisher: eBioMedicine
+  date: '2024-12-01'
+  link: https://doi.org/g95ck7
+  tags:
+  - Down syndrome
+  - Mosaicism
+  - Plasma biomarkers
+  - CSF
+  - PET
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S1474-4422(24)00426-5
+  title: 'Timeline to symptomatic Alzheimer''s disease in people with Down syndrome
+    as assessed by amyloid-PET and tau-PET: a longitudinal cohort study'
+  authors:
+  - Emily K Schworer
+  - Matthew D Zammit
+  - Jiebiao Wang
+  - Benjamin L Handen
+  - Tobey Betthauser
+  - Charles M Laymon
+  - Dana L Tudorascu
+  - Annie D Cohen
+  - Shahid H Zaman
+  - Beau M Ances
+  - Mark Mapstone
+  - Elizabeth Head
+  - Bradley T Christian
+  - Sigan L Hartley
+  - Howard Aizenstein
+  - Beau Ances
+  - Howard Andrews
+  - Karen Bell
+  - Rasmus Birn
+  - Adam Brickman
+  - Peter Bulova
+  - Amrita Cheema
+  - Kewei Chen
+  - Bradley Christian
+  - Isabel Clare
+  - Lorraine Clark
+  - Ann Cohen
+  - John Constantino
+  - Eric Doran
+  - Anne Fagan
+  - Eleanor Feingold
+  - Tatiana Foroud
+  - Benjamin Handen
+  - Jordan Harp
+  - Sigan Hartley
+  - Elizabeth Head
+  - Rachel Henson
+  - Christy Hom
+  - Lawrence Honig
+  - Milos Ikonomovic
+  - Sterling Johnson
+  - Courtney Jordan
+  - M. Ilyas Kamboh
+  - David Keator
+  - William Klunk
+  - Julia Kofler
+  - William Kreisl
+  - Sharon Krinsky-McHale
+  - Florence Lai
+  - Patrick Lao
+  - Charles Laymon
+  - Joseph Lee
+  - Ira Lott
+  - Victoria Lupson
+  - Mark Mapstone
+  - Chester Mathis
+  - Davneet Minhas
+  - Neelesh Nadkarni
+  - Sid O'Bryant
+  - Melissa Parisi
+  - Deborah Pang
+  - Melissa Petersen
+  - Julie Price
+  - Margaret Pulsifer
+  - Michael Rafii
+  - Eric Reiman
+  - Batool Rizvi
+  - Diana Rosas
+  - Laurie Ryan
+  - Frederick Schmitt
+  - Nicole Schupf
+  - Wayne Silverman
+  - Dana Tudorascu
+  - Rameshwari Tumuluru
+  - Benjamin Tycko
+  - Badri Varadarajan
+  - Desiree White
+  - Michael Yassa
+  - Shahid Zaman
+  - Fan Zhang
+  publisher: The Lancet Neurology
+  date: '2024-12-01'
+  link: https://doi.org/g95ck6
+  image: images/papers/doi_10.1016_S1474-4422(24)00426-5.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13024-024-00753-5
+  title: "Multi-analyte\_proteomic analysis identifies blood-based neuroinflammation,\
+    \ cerebrovascular and synaptic biomarkers in preclinical Alzheimer\u2019s disease"
+  authors:
+  - Xuemei Zeng
+  - Tara K. Lafferty
+  - Anuradha Sehrawat
+  - Yijun Chen
+  - Pamela C. L. Ferreira
+  - Bruna Bellaver
+  - Guilherme Povala
+  - M. Ilyas Kamboh
+  - William E. Klunk
+  - Ann D. Cohen
+  - Oscar L. Lopez
+  - Milos D. Ikonomovic
+  - Tharick A. Pascoal
+  - Mary Ganguli
+  - Victor L. Villemagne
+  - Beth E. Snitz
+  - Thomas K. Karikari
+  publisher: Molecular Neurodegeneration
+  date: '2024-10-10'
+  link: https://doi.org/g95gzg
+  image: images/papers/doi_10.1186_s13024-024-00753-5.png
+  tags:
+  - "Preclinical Alzheimer\u2019s disease"
+  - Amyloid pathology
+  - Tau pathology
+  - NULISA
+  - NULISAseq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-024-52298-2
+  title: "CYP1B1-RMDN2 Alzheimer\u2019s disease endophenotype locus identified for\
+    \ cerebral tau PET"
+  authors:
+  - Kwangsik Nho
+  - Shannon L. Risacher
+  - Liana G. Apostolova
+  - Paula J. Bice
+  - Jared R. Brosch
+  - Rachael Deardorff
+  - Kelley Faber
+  - Martin R. Farlow
+  - Tatiana Foroud
+  - Sujuan Gao
+  - Thea Rosewood
+  - Jun Pyo Kim
+  - Kelly Nudelman
+  - Meichen Yu
+  - Paul Aisen
+  - Reisa Sperling
+  - Basavaraj Hooli
+  - Sergey Shcherbinin
+  - Diana Svaldi
+  - Clifford R. Jack
+  - William J. Jagust
+  - Susan Landau
+  - Aparna Vasanthakumar
+  - Jeffrey F. Waring
+  - "Vincent Dor\xE9"
+  - Simon M. Laws
+  - Colin L. Masters
+  - Tenielle Porter
+  - Christopher C. Rowe
+  - Victor L. Villemagne
+  - Logan Dumitrescu
+  - Timothy J. Hohman
+  - Julia B. Libby
+  - Elizabeth Mormino
+  - Rachel F. Buckley
+  - Keith Johnson
+  - Hyun-Sik Yang
+  - Ronald C. Petersen
+  - Vijay K. Ramanan
+  - "Nil\xFCfer Ertekin-Taner"
+  - Prashanthi Vemuri
+  - Ann D. Cohen
+  - Kang-Hsien Fan
+  - M. Ilyas Kamboh
+  - Oscar L. Lopez
+  - David A. Bennett
+  - Muhammad Ali
+  - Tammie Benzinger
+  - Carlos Cruchaga
+  - Diana Hobbs
+  - Philip L. De Jager
+  - Masashi Fujita
+  - Vaishnavi Jadhav
+  - Bruce T. Lamb
+  - Andy P. Tsai
+  - Isabel Castanho
+  - Jonathan Mill
+  - Michael W. Weiner
+  - Andrew J. Saykin
+  publisher: Nature Communications
+  date: '2024-09-20'
+  link: https://doi.org/g95gzj
+  image: images/papers/doi_10.1038_s41467-024-52298-2.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/art.42938
+  title: Enrichment of Rare Variants of Hemophagocytic Lymphohistiocytosis Genes in
+    Systemic Juvenile Idiopathic Arthritis
+  authors:
+  - Mariana Correia Marques
+  - Danielle Rubin
+  - Emily G. Shuldiner
+  - Mallika Datta
+  - Elizabeth Schmitz
+  - Gustavo Gutierrez Cruz
+  - Andrew Patt
+  - Elizabeth Bennett
+  - Alexei Grom
+  - Dirk Foell
+  - Marco Gattorno
+  - John Bohnsack
+  - Rae S. M. Yeung
+  - Sampath Prahalad
+  - Elizabeth Mellins
+  - Jordi Anton
+  - Claudio A. Len
+  - Sheila Oliveira
+  - Patricia Woo
+  - Seza Ozen
+  - Zuoming Deng
+  - Michael J. Ombrello
+  publisher: Arthritis &amp; Rheumatology
+  date: '2024-08-09'
+  link: https://doi.org/g95gzh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.14115
+  title: "A genome\u2010wide association meta\u2010analysis of all\u2010cause and\
+    \ vascular dementia"
+  authors: []
+  publisher: Alzheimer's &amp; Dementia
+  date: '2024-07-24'
+  link: https://doi.org/g9jxzf
+  image: images/papers/doi_10.1002_alz.14115.png
+  tags:
+  - all-cause dementia
+  - cross-ancestry
+  - GWAS meta-analysis
+  - vascular dementia
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnagi.2024.1426070
+  title: "Associations of endogenous estrogens, plasma Alzheimer\u2019s disease biomarkers,\
+    \ and APOE4 carrier status on regional brain volumes in postmenopausal women"
+  authors:
+  - Katrina A. Wugalter
+  - Rachel A. Schroeder
+  - Rebecca C. Thurston
+  - Minjie Wu
+  - Howard J. Aizenstein
+  - Ann D. Cohen
+  - M. Ilyas Kamboh
+  - Thomas K. Karikari
+  - Carol A. Derby
+  - Pauline M. Maki
+  publisher: Frontiers in Aging Neuroscience
+  date: '2024-07-09'
+  link: https://doi.org/g95gzm
+  image: https://www.frontiersin.org/files/Articles/1426070/fnagi-16-1426070-HTML-r1/image_m/fnagi-16-1426070-g002.jpg
+  tags:
+  - brain volume
+  - postmenopause
+  - endogenous estrogens
+  - APOE4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2024.03.005
+  title: "Apolipoprotein E and Alzheimer\u2019s disease pathology in African American\
+    \ older adults"
+  authors:
+  - Sarah K. Royse
+  - Beth E. Snitz
+  - Ashley V. Hill
+  - Alexandria C. Reese
+  - Rebecca E. Roush
+  - M. Ilyas Kamboh
+  - Marnie Bertolet
+  - Anum Saeed
+  - Brian J. Lopresti
+  - Victor L. Villemagne
+  - Oscar L. Lopez
+  - Steven E. Reis
+  - James T. Becker
+  - Ann D. Cohen
+  publisher: Neurobiology of Aging
+  date: '2024-07-01'
+  link: https://doi.org/g95gzn
+  tags:
+  - racialization
+  - apolipoprotein-E
+  - "\u03B2-amyloid"
+  - PET
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S1474-4422(24)00084-X
+  title: 'Comparison of tau spread in people with Down syndrome versus autosomal-dominant
+    Alzheimer''s disease: a cross-sectional study'
+  authors:
+  - Julie K Wisch
+  - Nicole S McKay
+  - Anna H Boerwinkle
+  - James Kennedy
+  - Shaney Flores
+  - Benjamin L Handen
+  - Bradley T Christian
+  - Elizabeth Head
+  - Mark Mapstone
+  - Michael S Rafii
+  - "Sid E O\u2019Bryant"
+  - Julie C Price
+  - Charles M Laymon
+  - Sharon J Krinsky-McHale
+  - Florence Lai
+  - H Diana Rosas
+  - Sigan L Hartley
+  - Shahid Zaman
+  - Ira T Lott
+  - Dana Tudorascu
+  - Matthew Zammit
+  - Adam M Brickman
+  - Joseph H Lee
+  - Thomas D Bird
+  - Annie Cohen
+  - Patricio Chrem
+  - Alisha Daniels
+  - Jasmeer P Chhatwal
+  - Carlos Cruchaga
+  - Laura Ibanez
+  - Mathias Jucker
+  - Celeste M Karch
+  - Gregory S Day
+  - Jae-Hong Lee
+  - Johannes Levin
+  - Jorge Llibre-Guerra
+  - Yan Li
+  - Francisco Lopera
+  - Jee Hoon Roh
+  - John M Ringman
+  - Charlene Supnet-Bell
+  - Christopher H van Dyck
+  - Chengjie Xiong
+  - Guoqiao Wang
+  - John C Morris
+  - Eric McDade
+  - Randall J Bateman
+  - Tammie L S Benzinger
+  - Brian A Gordon
+  - Beau M Ances
+  - Howard J. Aizenstein
+  - Howard F. Andrews
+  - Karen Bell
+  - Rasmus M. Birn
+  - Peter Bulova
+  - Amrita Cheema
+  - Kewei Chen
+  - Isabel Clare
+  - Lorraine Clark
+  - Ann D. Cohen
+  - John N. Constantino
+  - Eric W. Doran
+  - Eleanor Feingold
+  - Tatiana M. Foroud
+  - Sigan L. Hartley
+  - Christy Hom
+  - Lawrence Honig
+  - Milos D. Ikonomovic
+  - Sterling C. Johnson
+  - Courtney Jordan
+  - M. Ilyas Kamboh
+  - David Keator
+  - William E. Klunk
+  - Julia K. Kofler
+  - William C. Kreisl
+  - Sharon J. Krinsky-McHale
+  - Patrick Lao
+  - Charles Laymon
+  - Ira T. Lott
+  - Victoria Lupson
+  - Chester A. Mathis
+  - Davneet S. Minhas
+  - Neelesh Nadkarni
+  - Deborah Pang
+  - Melissa Petersen
+  - Julie C. Price
+  - Margaret Pulsifer
+  - Eric Reiman
+  - Batool Rizvi
+  - Marwan N. Sabbagh
+  - Nicole Schupf
+  - Dana L. Tudorascu
+  - Rameshwari Tumuluru
+  - Benjamin Tycko
+  - Badri Varadarajan
+  - Desiree A. White
+  - Michael A. Yassa
+  - Shahid Zaman
+  - Fan Zhang
+  - Randall Bateman
+  - Alisha J. Daniels
+  - Laura Courtney
+  - Eric McDade
+  - Jorge J. Llibre-Guerra
+  - Charlene Supnet-Bell
+  - Chengie Xiong
+  - Xiong Xu
+  - Ruijin Lu
+  - Guoqiao Wang
+  - Yan Li
+  - Emily Gremminger
+  - Richard J. Perrin
+  - Erin Franklin
+  - Laura Ibanez
+  - Gina Jerome
+  - Elizabeth Herries
+  - Jennifer Stauber
+  - Bryce Baker
+  - Matthew Minton
+  - Carlos Cruchaga
+  - Alison M. Goate
+  - Alan E. Renton
+  - Danielle M. Picarello
+  - Tammie Benzinger
+  - Brian A. Gordon
+  - Russall Hornbeck
+  - Jason Hassenstab
+  - Jennifer Smith
+  - Sarah Stout
+  - Andrew J. Aschenbrenner
+  - Celeste M. Karch
+  - Jacob Marsh
+  - John C. Morris
+  - David M. Holtzman
+  - Nicolas Barthelemy
+  - Jinbin Xu
+  - James M. Noble
+  - Sarah B. Berman
+  - Snezana Ikonomovic
+  - Neelesh K. Nadkarni
+  - Gregory Day
+  - Neill R. Graff-Radford
+  - Martin Farlow
+  - Jasmeer P. Chhatwal
+  - Takeshi Ikeuchi
+  - Kensaku Kasuga
+  - Yoshiki Niimi
+  - Edward D. Huey
+  - Stephen Salloway
+  - Peter R. Schofield
+  - William S. Brooks
+  - Jacob A. Bechara
+  - Ralph Martins
+  - Nick C. Fox
+  - David M. Cash
+  - Natalie S. Ryan
+  - Mathias Jucker
+  - Christoph Laske
+  - Anna Hofmann
+  - Elke Kuder-Buletta
+  - Susanne Graber-Sultan
+  - Ulrike Obermueller
+  - Johannes Levin
+  - Yvonne Roedenbeck
+  - "Jonathan V\xF6glein"
+  - Jae-Hong Lee
+  - Jee Hoon Roh
+  - Raquel Sanchez-Valle
+  - Pedro Rosa-Neto
+  - Ricardo F. Allegri
+  - Patricio Chrem Mendez
+  - Ezequiel Surace
+  - Silvia Vazquez
+  - Francisco Lopera
+  - Yudy Milena Leon
+  - Laura Ramirez
+  - David Aguillon
+  - Allan I. Levey
+  - Erik C.B Johnson
+  - Nicholas T. Seyfried
+  - John Ringman
+  - Hiroshi Mori
+  publisher: The Lancet Neurology
+  date: '2024-05-01'
+  link: https://doi.org/gts2ph
+  image: https://www.thelancet.com/cms/10.1016/S1474-4422(24)00084-X/asset/5826fcfc-0e6e-4219-8926-bf8219e6f390/main.assets/gr1_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/trc2.12472
+  title: Genetic associations with psychosis and affective disturbance in Alzheimer's
+    disease
+  authors:
+  - Inga Margret Antonsdottir
+  - Byron Creese
+  - Lambertus Klei
+  - "Mary Ann A. DeMichele\u2010Sweet"
+  - Elise A. Weamer
+  - "Pablo Garcia\u2010Gonzalez"
+  - Marta Marquie
+  - "Merc\xE8 Boada"
+  - "Emilio Alarc\xF3n\u2010Mart\xEDn"
+  - Sergi Valero
+  - Yushi Liu
+  - Basavaraj Hooli
+  - Dag Aarsland
+  - Geir Selbaek
+  - Sverre Bergh
+  - Arvid Rongve
+  - Ingvild Saltvedt
+  - "H\xE5vard K. Skjellegrind"
+  - Bo Engdahl
+  - Ole A. Andreassen
+  - Barbara Borroni
+  - Patrizia Mecocci
+  - Yehani Wedatilake
+  - Richard Mayeux
+  - Tatiana Foroud
+  - "Agust\xEDn Ruiz"
+  - Oscar L. Lopez
+  - M. Ilyas Kamboh
+  - Clive Ballard
+  - Bernie Devlin
+  - Constantine Lyketsos
+  - Robert A. Sweet
+  publisher: 'Alzheimer''s &amp; Dementia: Translational Research &amp; Clinical Interventions'
+  date: '2024-04-01'
+  link: https://doi.org/g9hfcr
+  image: images/papers/doi_10.1002_trc2.12472.png
+  tags:
+  - affective disturbance
+  - Alzheimer's disease
+  - heritability
+  - psychosis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.13718
+  title: "Whole genome\u2010wide sequence analysis of long\u2010lived families (Long\u2010\
+    Life Family Study) identifies <i>MTUS2</i> gene associated with late\u2010onset\
+    \ Alzheimer's disease"
+  authors:
+  - Laura Xicota
+  - Stephanie Cosentino
+  - Badri Vardarajan
+  - Richard Mayeux
+  - Thomas T. Perls
+  - Stacy L. Andersen
+  - Joseph M. Zmuda
+  - Bharat Thyagarajan
+  - Anatoli Yashin
+  - Mary K. Wojczynski
+  - "Sharon Krinsky\u2010McHale"
+  - Benjamin L. Handen
+  - Bradley T. Christian
+  - Elizabeth Head
+  - Mark E. Mapstone
+  - Nicole Schupf
+  - Joseph H. Lee
+  - Sandra Barral
+  publisher: Alzheimer's &amp; Dementia
+  date: '2024-02-21'
+  link: https://doi.org/g95gzp
+  image: images/papers/doi_10.1002_alz.13718.png
+  tags:
+  - genetic risk
+  - late-onset Alzheimer's disease
+  - microtubule protein
+  - mtus2 gene
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/WNL.0000000000207920
+  title: "Association Between \u03B2-Amyloid Accumulation and Incident Dementia in\
+    \ Individuals 80 Years or Older Without Dementia"
+  authors:
+  - Oscar L. Lopez
+  - Victor L. Villemagne
+  - Yue-Fang Chang
+  - Ann D. Cohen
+  - William E. Klunk
+  - Chester A. Mathis
+  - Tharick Pascoal
+  - Milos D. Ikonomovic
+  - Christopher Rowe
+  - Vincent Dore
+  - Beth E. Snitz
+  - Brian J. Lopresti
+  - M. Ilyas Kamboh
+  - Howard J. Aizenstein
+  - Lewis H. Kuller
+  publisher: Neurology
+  date: '2024-01-23'
+  link: https://doi.org/gs9zkq
+  image: images/papers/doi_10.1212_WNL.0000000000207920.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.13506
+  title: Alzheimer's polygenic risk scores are associated with cognitive phenotypes
+    in Down syndrome
+  authors:
+  - Priyanka Gorijala
+  - M. Muaaz Aslam
+  - "Lam\u2010Ha T. Dang"
+  - L. Xicota
+  - Maria V. Fernandez
+  - Yun Ju Sung
+  - "Kang\u2010Hsien Fan"
+  - Eleanor Feingold
+  - Ezequiel I. Surace
+  - Jasmeer P Chhatwal
+  - Christy L. Hom
+  - Sigan L. Hartley
+  - Jason Hassenstab
+  - Richard J. Perrin
+  - Mark Mapstone
+  - Shahid H Zaman
+  - Beau M Ances
+  - M. Ilyas Kamboh
+  - Joseph H Lee
+  - Carlos Cruchaga
+  publisher: Alzheimer's &amp; Dementia
+  date: '2023-10-19'
+  link: https://doi.org/g95gzv
+  image: images/papers/doi_10.1002_alz.13506.png
+  tags:
+  - Down syndrome
+  - dominantly inherited Alzheimer Network
+  - PSEN1
+  - PSEN2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.13503
+  title: "Sex\u2010dependent alterations in hippocampal connectivity are linked to\
+    \ cerebrovascular and amyloid pathologies in normal aging"
+  authors:
+  - Noah Schweitzer
+  - Jinghang Li
+  - Rebecca C. Thurston
+  - Brian Lopresti
+  - William E. Klunk
+  - Beth Snitz
+  - Dana Tudorascu
+  - Ann Cohen
+  - M. Ilyas Kamboh
+  - "Edythe Halligan\u2010Eddy"
+  - Bistra Iordanova
+  - Victor L. Villemagne
+  - Howard Aizenstein
+  - Minjie Wu
+  publisher: Alzheimer's &amp; Dementia
+  date: '2023-10-11'
+  link: https://doi.org/g95gzz
+  image: images/papers/doi_10.1002_alz.13503.png
+  tags:
+  - amyloid beta
+  - cerebral small vessel disease
+  - hippocampal functional connectivity
+  - white matter hyperintensity
   plugin: sources.py
   file: sources.yaml
