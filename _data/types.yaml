@@ -2,6 +2,14 @@
 
 # team member roles
 
+professor:
+  icon: fa-solid fa-user-tie
+  description: Professor
+
+lab-manager:
+  icon: fa-solid fa-flask-vial
+  description: Lab Manager
+
 principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator

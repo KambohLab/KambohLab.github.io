@@ -5,24 +5,22 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Team Members
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our multidisciplinary team includes talented scientists with expertise in neuroscience, epidemiology, genetics and genomics, biostatistics, and bioinformatics.
+
+They collaborate to investigate the genetic architecture of complex diseases, particularly Alzheimer’s disease and related dementias. Over the past 20+ years, our lab has trained and mentored more than 10 postdoctoral fellows, 30 PhD students, and 50 master’s students, all of whom have made valuable contributions to the field.
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait" filter="role == 'professor'" %}
+{% include list.html data="members" component="portrait" filter="role != 'professor'" %}
+
+{% include section.html background="images/AI_banner2.png" dark=true %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
+## Postdoctoral Fellows & PhD Students
 
 {% capture content %}
 
