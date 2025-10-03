@@ -2,15 +2,15 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: granted projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research investigates the genetic underpinnings of complex human diseases, particularly on Alzheimer’s disease (AD) and AD-related dementias (ADRD). In addition to identifying disease-associated genetic risk factors, we study intermediate phenotypes (endophenotypes) such as plasma biomarkers, neuroimaging features, and longitudinal cognitive decline.
 
-{% include tags.html tags="publication, resource, website" %}
+Our genomic analyses incorporate array-based genotyping, whole genome sequencing, and transcriptomic profiling, including expression quantitative trait loci (eQTL) studies using RNA sequencing data.
+
 
 {% include search-info.html %}
 
@@ -21,7 +21,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
