@@ -243,4 +243,362 @@
   tags:
     - genetics
     - predictive markers
+
+- id: doi:10.1001/jamaneurol.2023.2169
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/939225/noi230045f1_1694018392.43573.png?Expires=1762786072&Signature=OJKVZBbY-hlwnbi75n0yyhL2aqpHQiAm0YmxYoK4jyuJ~yusLgHc5AYDmBGcVo6LL9oFhcpwwlr6Fp9~aySXN-bsO9Y3EFWCFcErteK0LNgFnw9aSCnQNkfsMS8itLCiiwGMshb6UBaU0GEpZCBxphd-sxQSoPTjmSv-z7hz9cCnbUGq3AaN~8bantPqBhgoustlG4lmAGbT5pzYYCd2qn4v0JNnUt6A3mLpyKLvgroNK~648yZFtWt23IvYQFDh~pNon4rlXTjjMnGmkKgXq03J-dHIuq4DbQluhNhc5LEYwaEdAP5JzsJ8B5aFO7nUhU6FEJPknj6E6Px9URCcaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+
+- id: doi:10.1101/2023.07.06.23292311
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/07/08/2023.07.06.23292311/F1.large.jpg
+
+- id: doi:10.1186/s40478-023-01563-4
+  image: images/papers/doi_10.1186_s40478-023-01563-4.png
+  tags:
+    - Brain amyloidosis
+    - Multi-ethnic
+    - Meta-analysis
+
+- id: doi:10.1002/alz.13064
+  image: images/papers/doi_10.1002_alz.13064.png
+  tags:
+    - APOE
+    - neurocognitive domains
+    - cognitive decline
+    - TMPRSS11D
+
+- id: doi:10.1002/alz.12986
+  image: images/papers/doi_10.1002_alz.12986.png
+
+- id: doi:10.1101/2023.02.27.23286048
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/03/22/2023.02.27.23286048/F1.large.jpg
+
+- id: doi:10.1016/j.neurobiolaging.2022.11.007
+  image: images/papers/doi_10.1016_j.neurobiolaging.2022.11.007.png
+  tags:
+    - Late-onset Alzheimer's disease
+    - Genetic risk factor
+    - APOE4
+    - APOE L28P variant
+
+- id: doi:10.1016/j.jagp.2022.09.011
+  image: images/papers/doi_10.1016_j.jagp.2022.09.011.png
+  tags:
+    - cerebral small vessel disease
+    - amyloid-beta
+    - functional connectivity
+    - atrophy
+
+# 2022 Publications
+
+- id: doi:10.3390/genes13122238
+  image: images/papers/doi_10.3390_genes13122238.png
+  tags:
+    - rheumatoid arthritis
+    - copy number variation
+    - FCGR3B
+
+- id: doi:10.3233/JAD-220293
+  image: images/papers/doi_10.3233_JAD-220293.png
+  tags:
+    - GWAS
+    - incident dementia
+    - non-coding RNA genes 
+
+- id: doi:10.1021/acs.analchem.1c03821
+  image: images/papers/doi_10.1021_acs.analchem.1c03821.png
+  tags:
+    - Lipidomics
+    - Lipids
+    - biomarkers
+
+- id: doi:10.1002/dad2.12324
+  image: images/papers/doi_10.1002_dad2.12324.png
+  tags:
+    - group atlas
+    - joint label fusion
+    - neurotypical
+
+# 2021 publications
+
+- id: doi:10.1016/j.nbd.2021.105481
+  image: images/papers/doi_10.1016_j.nbd.2021.105481.png
+  tags:
+    - Extracellular vesicles
+    - snoRNA
+    - Diagnostic biomarkers
+
+- id: doi:10.1038/s41380-021-01152-8
+  image: images/papers/doi_10.1038_s41380-021-01152-8.png
+
+- id: doi:10.1016/j.neuroimage.2021.117956
+  image: images/papers/doi_10.1016_j.neuroimage.2021.117956.png
+  tags:
+    - Cerebral pulsatility
+    - Resting-state functional MRI
+    - Atrophy
+    - Hippocampus
+    - Amygdala
+    - Ventricle enlargement
+
+- id: doi:10.1016/j.gene.2021.145563
+  tags:
+    - GWAS significant SNPs
+    - Pakistani population
+    - Susceptibility loci
+    - Type 2 diabetes
+
+- id: doi:10.1016/j.dib.2021.106923
+  image: images/papers/doi_10.1016_j.dib.2021.106923.png
+  tags:
+    - Proteomics
+    - Biomarker
+    - African American
+    - disparities
+
+- id: doi:10.1001/jamaneurol.2020.3536
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/938620/noi200070f1_1616180214.56476.png?Expires=1762468505&Signature=MT29lCNYCT7bL~guyz7IXU9i6Ff~TPsU~-sYKWGkxO-b8NJ30WiRsEw1VneW5GWHA7LGNw5niPM2p7yc27NAZxGJ3a-SE56OsSfAgDNA91nj2NzOq1psaD3LQv8uJA2cji77qcaWM9SmgYwG2cuy81Ih37Bo-vqlGA2qI9sAVNm6ITdB~hsNhGrfW2LSRC6z-E~zDxoHXIasWshJsuB8cBriA7hSa8YP2Ef8qiEfLZcSwNbxxKaOTc0IGJ9BBkYxm57uhCDjdirLEurBhBk53~87m-~Hh2eiKloE07x9wVojWeRLWPhMKyM0NS9cJLgqiD90sfwyswOtWq7i~qbNEQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+# 2020 publications
+
+- id: doi:10.1371/journal.pone.0243919
+  image: images/papers/doi_10.1371_journal.pone.0243919.png
+
+- id: doi:10.1155/2020/7189626
+  image: images/papers/doi_10.1155_2020_7189626.png
+
+- id: doi:10.1371/journal.pone.0239426
+  image: images/papers/doi_10.1371_journal.pone.0239426.png
+
+- id: doi:10.1212/WNL.0000000000010239
+  image: images/papers/doi_10.1212_WNL.0000000000010239.png
+
+- id: doi:10.3233/JAD-200037
+  image: images/papers/doi_10.3233_JAD-200037.png
+  tags:
+    - whole-exome sequencing
+    - NSF gene
+
+- id: doi:10.1007/s11682-020-00334-2
+  image: images/papers/doi_10.1007_s11682-020-00334-2.png
+  tags:
+    - Population neuroscience
+    - Neuroimaging
+    - Tau
+    - Amyloid
+
+- id: doi:10.1155/2020/1910215
+  image: images/papers/doi_10.1155_2020_1910215.png
+
+- id: doi:10.1002/acn3.51135
+  image: images/papers/doi_10.1002_acn3.51135.png
+
+- id: doi:10.1097/WAD.0000000000000400
+  image: images/papers/doi_10.1097_WAD.0000000000000400.png
+  tags:
+    - epidemiology
+    - risk factors
+
+- id: doi:10.1155/2020/9738567
+
+- id: doi:10.1038/s41467-019-14279-8
+  image: images/papers/doi_10.1038_s41467-019-14279-8.png
+
+
+
+# 2019 publications
+
+- id: doi:10.1016/j.neurobiolaging.2019.02.024
+  image: images/papers/doi_10.1016_j.neurobiolaging.2019.02.024.png
+  tags:
+    - Cognitive domains
+    - Cognitive decline
+    - Genome-wide association
+    - Gene-based association
+
+- id: doi:10.1016/j.cct.2019.105832
+  tags:
+    - Aging
+    - Brain
+    - Randomized clinical trial
+    - Cognition
+    - Exercise
+    - MRI
+
+- id: doi:10.3390/nu11092016
+  image: images/papers/doi_10.3390_nu11092016.png
+  tags:
+    - c-reactive protein
+    - gene expression
+    - leptin
+    - endothelium
+    - vitamin D deficiency
+
+- id: doi:10.1186/s13104-019-4590-8
+  tags:
+    - Type 1 diabetes
+    - Rheumatoid arthritis
+    - Association
+    - Shared genetic
+
+- id: doi:10.1155/2019/3494937
+  image: images/papers/doi_10.1155_2019_3494937.png
+
+- id: doi:10.1016/j.neurobiolaging.2018.11.020
+  image: images/papers/doi_10.1016_j.neurobiolaging.2018.11.020.png
+  tags:
+    - Alzheimer's disease
+    - Gender
+    - Beta-amyloid
+    - Functional connectivity
+    - Neural compensation
   
+- id: doi:10.1371/journal.pone.0214060
+  image: images/papers/doi_10.1371_journal.pone.0214060.png
+  tags:
+    - Haplotypes
+    - Single nucleotide polymorphisms
+    - Deoxyribonucleases
+    - Apolipoprotein genes
+    - lipids
+
+- id: doi:10.1038/s41588-019-0358-2
+  image: images/papers/doi_10.1038_s41588-019-0358-2.png
+  tags:
+    - Alzheimer's disease
+    - Gene expression
+    - Genome-wide association studies
+
+
+  
+
+# 2018 publications
+
+- id: doi:10.1038/s41380-018-0298-8
+  image: images/papers/doi_10.1038_s41380-018-0298-8.png
+
+- id: doi:10.1038/s41380-018-0246-7
+  image: images/papers/doi_10.1038_s41380-018-0246-7.png
+
+- id: doi:10.1007/s40142-018-0155-8
+  tags:
+    - Alzheimer's disease
+    - Genetics
+    - Genes
+
+- id: doi:10.1126/science.aap8757
+  image: images/papers/doi_10.1126_science.aap8757.png
+  tags:
+    - Brain Diseases
+    - Genetic Variation
+    - Phenotype
+    - Quantitative Trait
+    - Risk Factors
+
+- id: doi:10.1212/WNL.0000000000005549
+
+- id: doi:10.1101/294629
+  image: https://www.biorxiv.org/content/biorxiv/early/2018/04/05/294629/F1.large.jpg
+  tags:
+    - genetics
+
+- id: doi:10.1016/j.jalz.2017.12.003
+  image: images/papers/doi_10.1016_j.jalz.2017.12.003.png
+  tags:
+    - Memory complaints
+    - Cognitive decline
+    - Longitudinal design
+    - Selection factors
+
+- id: doi:10.1001/jamaneurol.2017.3029
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/936698/noi170077f1.png?Expires=1763405351&Signature=Vg4MOB1apIy-1QSv4OYCQXlqrIsUWVTeHAL~BShHShBWnd1ZOQanHPa7WJCljtMAEKv-bCGFFi~mFM6O-OKoLOtnADMxP4y6Yr~ZVPIMoUzfk7bkv8jm18eJMFfen3Xv6bCYdicpLnT0L9xnzSENbfnZDVNUgn8Py0Ma~LSNN0GMNu6~hKbgyZuPTJuBTMB6sV404XiiySYlRYfT0UnbHYYWHv3eBNYjAq~XBk1kTMMsjP6Yka6V7TZ30CQt8NDdd7vMSmcmb~kw7bs4FMTap2MsVT2iwaeEbbwVHCXTL1mEWYDb~3-54saE7z5Zux2jPankTt9fXodQB3ml2nQtiA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1016/j.trci.2018.09.001
+  image: images/papers/doi_10.1016_j.trci.2018.09.001.png
+  tags:
+    - Cognitive decline
+    - Cholinesterase inhibitors
+    - Antihypertensive medications
+    - Combination therapy
+    - Systems pharmacology
+    - Clinical data mining
+
+- id: doi:10.1016/j.dadm.2018.08.008
+  tags:
+    - Genetics
+    - HDL-C
+    - Single nucleotide polymorphisms
+    - Instrumental variables
+    - Cholesteryl ester transfer protein
+
+
+
+# 2017 publications
+
+- id: doi:10.1161/circ.136.suppl_1.21122
+  tags:
+    - Genetics
+    - Lipids
+    - Cardiovascular disease
+    - Triglycerides
+    - Gene mutations
+
+- id: doi:10.1038/ng.3916
+  image: images/papers/doi_10.1038_ng.3916.png
+  tags:
+    - Alzheimer's disease
+    - Genome-wide association studies
+
+- id: doi:10.1038/mp.2017.81
+  image: images/papers/doi_10.1038_mp.2017.81.png
+  tags:
+    - Neuroscience
+    - Genetics
+
+- id: doi:10.1136/annrheumdis-2016-210324
+  image: https://ard.bmj.com/content/annrheumdis/76/5/906/F2.large.jpg
+
+- id: doi:10.1136/jmedgenet-2016-104247
+  image: https://jmg-bmj-com.pitt.idm.oclc.org/content/jmedgenet/54/6/381/F2.large.jpg
+
+- id: doi:10.1016/j.jalz.2016.12.012
+  image: images/papers/doi_10.1016_j.jalz.2016.12.012.png
+
+- id: doi:10.1093/database/bax078
+
+# 2016 publications
+
+- id: doi:10.1016/j.jalz.2016.09.002
+  image: images/papers/doi_10.1016_j.jalz.2016.09.002.png
+  tags:
+    - African Americans
+    - Informed conditioning on clinical covariates
+    - COBL
+    - SLC10A2
+    - APOE
+    - ABCA7
+
+- id: doi:10.1212/NXG.0000000000000079
+  image: images/papers/doi_10.1212_NXG.0000000000000079.png
+  tags:
+    - Alzheimer disease
+    - Association studies in genetics
+    - Cognitive Disorders/Dementia
+    - Genetics
+
+- id: doi:10.1002/ana.24621
+  image: images/papers/doi_10.1002_ana.24621.png
+  tags:
+    - Alzheimer disease
+    - Association studies in genetics
+    - Cognitive Disorders/Dementia
+    - Genetics
+
+# 2015 publications
+
+- id: doi:10.1007/s13410-015-0380-6
+  image: images/papers/doi_10.1007_s13410-015-0380-6.png
+  tags:
+    - Type 2 diabetes
+    - Epidemiology
+    - Micro-vascular complications
+    - Macro-vascular complications
