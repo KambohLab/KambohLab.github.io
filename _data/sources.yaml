@@ -403,8 +403,6 @@
 - id: doi:10.1038/s41467-019-14279-8
   image: images/papers/doi_10.1038_s41467-019-14279-8.png
 
-
-
 # 2019 publications
 
 - id: doi:10.1016/j.neurobiolaging.2019.02.024
@@ -467,8 +465,6 @@
     - Alzheimer's disease
     - Gene expression
     - Genome-wide association studies
-
-
   
 
 # 2018 publications
@@ -530,8 +526,6 @@
     - Instrumental variables
     - Cholesteryl ester transfer protein
 
-
-
 # 2017 publications
 
 - id: doi:10.1161/circ.136.suppl_1.21122
@@ -585,15 +579,80 @@
     - Cognitive Disorders/Dementia
     - Genetics
 
+- id: doi:10.1016/j.neurobiolaging.2016.02.024
+  tags:
+    - Alzheimer's disease
+    - Genetics
+    - Genetic variance
+
 - id: doi:10.1002/ana.24621
   image: images/papers/doi_10.1002_ana.24621.png
+ 
+- id: doi:10.1016/j.metabol.2015.09.020
+  image: images/papers/doi_10.1016_j.metabol.2015.09.020.png
   tags:
-    - Alzheimer disease
-    - Association studies in genetics
-    - Cognitive Disorders/Dementia
-    - Genetics
+    - CETP
+    - HDL-C
+    - Genetic association
+    - Rare variants
+    - Sequencing
+
 
 # 2015 publications
+
+- id: doi:10.1002/art.39403
+  image: images/papers/doi_10.1002_art.39403.png
+
+- id: doi:10.1073/pnas.1520779112
+  image: images/papers/doi_10.1073_pnas.1520779112.png
+
+- id: doi:10.1186/s12881-015-0250-6
+  image: images/papers/doi_10.1186_s12881-015-0250-6.png
+  tags:
+    - African continental ancestry group
+    - Candidate gene association study
+    - Genetic variation
+    - Haplotypes
+    - Lipids
+    - SCARB1 protein
+    - Sequence analysis
+
+- id: doi:10.1001/jamaneurol.2015.1700
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/934619/noi150043f1.png?Expires=1763495224&Signature=YQRnzxic~N3FKv8r~04~S0-YOWa~mYyG6yj0wRTqWOzi8pdJwQ2~vUzdR7Xkh6GT-IURj3a7qXQktRfE0o9vLVQbZe52Jp9SLbTOzzm4f5yOItdAee2SaK2mdNYj3aWZ6QePwJc~eOISD9ZG45asSsZbQcuPSECIYmBFgFeGvOJfQG7FFJugDSX1BrDA0tgcw-V9L~P4yI4cB~SpFSu9H8q4eGbCrGuJjFahP~iU4QU-kojSKU96PdF1sRSBiUfkorHjBVU-8RhSiNO3fZ2ky2F1ymo37RYrdmJDLiHiHSEHUtJZjCUBmy4K-i~EuRPtSVfjmfQk9astUVeowP6lXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1016/j.neurobiolaging.2015.08.006
+  image: images/papers/doi_10.1016_j.neurobiolaging.2015.08.006.png
+  tags:
+    - Late-onset Alzheimer’s disease
+    - Psychosis
+    - Genome-wide linkage analysis
+    - Association analysis
+    - Non-Hispanic Caucasian and Caribbean Hispanic ancestry populations
+
+- id: doi:10.1001/jamaneurol.2015.1359
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/934389/noi150035f1.png?Expires=1763495820&Signature=v0X4ILiBO8jIKnGUcmgQdxpJn5UwjKtHQcy-~TVLfm1pFB7TGWHKXS0vPNiQmY1v~hbGy2noT-wB7tV0~vXBDvb8x33rd6XMcTQKkMR0EZGqf4a4-Luyuegd141DfeIpGrBjwF3aVUoYtumtuORuh4yZa6UmRssHiTig8hc5tEAzhM4UT250dtuEwt6fjJadb2Bbuw66~FBq36TcrjET-aAjiv60wr7OD5nUPmf-lOGTy1YXUerP0O~NQSIA1Vq8k2Xoass9~ii6-MR5wmkt56atvgOYTd5Bf-mOBcotF7F5uQbAHJskojmXHvY-2RTqj2tzb4BRvoQOe6ktGiOnzQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1016/j.neurobiolaging.2015.04.012
+  tags:
+    - TREM2
+    - Rare variants
+    - LOAD
+
+- id: doi:10.1016/j.jalz.2015.02.012
+  image: images/papers/doi_10.1016_j.jalz.2015.02.012.png
+
+- id: doi:10.1038/tp.2015.64
+  image: images/papers/doi_10.1038_tp.2015.64.png
+  tags:
+    - Biological sciences
+
+- id: doi:10.1007/s00251-015-0839-0
+  tags:
+    - Rheumatoid arthritis
+    - Overlapping loci
+    - Autoimmune disease
+    - Association studies
+    - Type 1 diabetes
 
 - id: doi:10.1007/s13410-015-0380-6
   image: images/papers/doi_10.1007_s13410-015-0380-6.png
@@ -602,3 +661,269 @@
     - Epidemiology
     - Micro-vascular complications
     - Macro-vascular complications
+
+- id: doi:10.1016/j.diabres.2015.01.022
+  image: images/papers/doi_10.1016_j.diabres.2015.01.022.png
+  tags:
+    - Type 1 diabetes
+    - Auto-immune disease
+    - Diabetes in Pakistan
+    - Insulin dependent diabetes mellitus
+
+- id: doi:10.3233/JAD-142442
+
+- id: doi:10.1038/mp.2015.23
+  image: images/papers/doi_10.1038_mp.2015.23.png
+  tags:
+    - Genetics
+
+- id: doi:10.1001/jamaneurol.2014.2157
+
+- id: doi:10.1038/ejhg.2014.268
+  image: images/papers/doi_10.1038_ejhg.2014.268.png
+  tags:
+    - Genetics
+
+- id: doi:10.1016/j.psychres.2014.10.025
+ 
+- id: doi:10.1155/2015/587465
+
+# 2014 publications
+
+- id: doi:10.1016/j.jalz.2014.05.1757
+  image: images/papers/doi_10.1016_j.jalz.2014.05.1757.png
+  tags:
+    - Neurodegeneration
+    - Immune response
+    - Endocytosis
+    - Cholesterol metabolism
+    - Ubiquitination
+    - Pathway analysis
+    - ALIGATOR
+
+- id: doi:10.1371/journal.pone.0114618
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0114618/1/pone.0114618.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251021%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251021T182347Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7a2aa0a8fe25ae0d18dd4eeb6e9cc9a3a06f1309871dcc96ea981d9fa6a7248d192765ff607b68e11c4515a7355dd2b85f7c1a41a238dc5c3fd3cfc90aee231d8860fe98e591a1580553d141dbc55373e2b4d5adeced906557f89421d9f7a77003b05e84d7fa8f956881651e451489f6f99808acfecf2d0c459202fbe965f883f2f8f56fdce38fde351234edc671c5cbc7dc5f02e16b418c124726757b8ee6ba9cd24635981d4f43f0a36ca86de7520a646349ffa45001d5b948450f5814e4b1793607136f4ebf7fdfd3c67bf7c14e316f1cd884e12cecebce86fba0b9c7c80ea4916e94a159038e802261af76bbaf6d9e7c6bdcad1e01e49cb889a6538dfda7
+  tags:
+    - Apolipoprotein genes
+    - Lipids
+    - Single nucleotide polymorphisms
+    - African people
+    - Introns
+    - Variant genotypes
+    - Haplotypes
+
+- id: doi:10.1186/s13040-014-0035-z
+  image: images/papers/doi_10.1186_s13040-014-0035-z.png
+  tags:
+    - Genome-wide association study
+    - Epistasis
+    - Alzheimer’s disease
+    - Bayesian networks
+
+- id: doi:10.1681/ASN.2013050446
+  image: images/papers/doi_10.1681_ASN.2013050446.png
+  tags:
+    - lupus nephritis
+    - genetic renal disease
+    - epidemiology
+    - SLE
+
+- id: doi:10.1161/CIRCGENETICS.114.000559
+  image: images/papers/doi_10.1161_CIRCGENETICS.114.000559.png
+  tags:
+    - haplotypes
+    - lipids
+    - polymorphism
+    - SCARB1 protein
+    - sequence analysis
+
+- id: doi:10.3233/JAD-140729
+  tags:
+    - LOAD
+    - GWAS
+    - MMSE
+    - AD progression
+
+- id: doi:10.1371/journal.pone.0111462
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0111462/1/pone.0111462.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251021%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251021T190148Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2b9f9771050a11b879c5006c616a59d0836ec9da30f0792dbdc7c81770714bfaf1b3229df92405c165eb30d4f942fca5720771576742d174652749c53337e2930aa1a3a9f77005b708fa2628ff8d2aedb049473da4373dc8b56e19b96d51a30deb0a5828059fbaa237fa93487296f128a8d0aa0551819ec4ab729bf2c9a35433d369422cbae8b307312011a0e3a72e800fbcfe53f088ab3aca3634880fa62180c0a88b54458a89e776988c588b90fa29a99be37134b1457db674aeb84bf981e4f9125d02f4309c33fbebd0eeff8c21b1dbd4176e5d22f2370415c15995d2517e38cc8bb02c204ccc393c83d1f9001a9d1d1fe3b0e1d847dabce4fbfd9d094a06
+  tags:
+    - Psychoses
+    - Autism
+    - Schizophrenia
+    - Medical risk factors
+    - Bipolar disorder
+    - Genetics of disease
+
+- id: doi:10.1001/jamaneurol.2014.1491
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/931024/noi140052f1.png?Expires=1764097550&Signature=UzwlEL5ZDTJ7Arg-ilI-5fRcw~gMBTyij78l8dS1baaqNowhpqBNIxNJVwuFfW5TQhHQf~sVxxj969H3FIhfIgplH~dw5dhbm8A87kcAqKRcGGs-iDsXzeloK9iYXTIPZdPRAuI3bU~M8EgzHf2LrRm8eRCcjgB1M28d0ZtIWrc4BTrtcZaNylijiOOb3PnytLZ4CBKztwyrgkwsRLgxRYPBS4bTGIEqEQh4-kM1kJAfAkthHvxDc81AuKu29r6kD3cEgjEoXdLqhgi4OBm3VTDPQnYl6EyEE2FLHzwoJyQdgfx1cpfpE5S1gL2XTHJbuftorFtlPi-oyQYj3DmOZA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1371/journal.pgen.1004606
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1004606/1/pgen.1004606.g005.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251021%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251021T191952Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=ca1b4be3eeb47fa3b1fd6725c7bfc5c0359a85de4f6cca68c056db8f584ac020f290c648bf75ca2871906d81b43b4dcc574ab4162122b34e2dc54e8a669981e34a20ca82b070d6ebac6e2436035f73a7a627f5720bc0796ffa111d7bf5b5a1392e66dbafb3bd25830b21881a047a3b27038b0581070e21af3998c7de025cf0638485c85143c291ecebcb6c9c0f324b2df14721e2dc9c78c5686c6a5f145baa47882d546c4455a2c42dd3c7a058d8c4fbf68b5cb1b80f2e7a7e39d8b79c896969312eee9f877d1900e1f234dd59f4ecc518bd1c1c07965d67947b480a882fab920c4f8b0007970fbc8d07a09544a72529fc389e818123bb99772be011f2246cc2
+  tags:
+    - Alleles
+    - Neuropathy
+    - Genetic loci
+    - Senile plaques
+
+- id: doi:10.1016/j.jalz.2014.06.010
+  image: images/papers/doi_10.1016_j.jalz.2014.06.010.png
+  tags:
+    - Whole-exome sequencing
+    - Late-onset Alzheimer's disease
+    - Rare variant
+    - Genetic association
+    - African American
+    - AKAP9
+
+- id: doi:10.1016/j.neurobiolaging.2014.01.020
+  tags:
+    - Cognitive decline
+    - Cognitive impairment
+    - Amyloid precursor protein
+    - APP
+    - rs63750847
+    - A673T
+
+- id: doi:10.1371/journal.pone.0094661
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0094661/1/pone.0094661.g003.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251022T173456Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=d430419dc9f1e3a182018fde2aa73de130aa8d7fcb37ff9b1d08230b7b1c50b72c556b820c126a02e8047177ef3416e2f5677361a0200a6032be44ca7bc3b205fdd59dfdd762533f83c6c75d243813dc32dc10fa81e4f7ef9caa5044224978a5352a86ec995edd2ce0829c3986224218942cb2d3aaabdac6a45319eaa4fee88ed134aaa397ee5c7e485f44ca21cbc68d77682cf8996f9c8f6e149e5d626379078c0bd4e8d8075fd44045d2bbde45a76838780478b9ab91e70fc5ebb00ebb4a7286c5bb195015b87f75d2a4160cce593536aaad42c928694aa6396a3d4fd41007c3ceab28d86b0b0d461140dde700cd6c5a15fccd8e0cf643f19d878e742a3ffb
+  tags:
+    - Single nucleotide polymorphisms
+    - Genetic loci
+    - Genomic signal processing
+    - Consortia
+
+- id: doi:10.1016/j.neulet.2014.04.008
+  tags:
+    - Dementia
+    - Pakistan
+    - Stressful life events
+    - APOE
+
+- id: doi:10.1371/journal.pone.0095152
+  tags:
+    - Single nucleotide polymorphisms
+    - Introns
+    - Deoxyribonucleases
+    - Genetic loci
+    - Transcription factors 
+
+- id: doi:10.1016/j.neurobiolaging.2013.09.040
+  image: images/papers/doi_10.1016_j.neurobiolaging.2013.09.040.png
+  tags:
+    - Imaging
+    - Lipids
+    - Cholesterol
+    - Oldest old
+    - Mild cognitive impairment
+
+- id: doi:10.1007/s40142-014-0034-x
+  tags:
+    - Late-onset Alzheimer’s disease
+    - Genetics
+    - Biological pathways
+
+- id: doi:10.1186/1471-2164-15-282
+  image: images/papers/doi_10.1186_1471-2164-15-282.png
+  tags:
+    - Genome-wide association study
+    - Feature ranking
+    - Label propagation
+    - Single nucleotide polymorphism
+
+- id: doi:10.1194/jlr.M043265
+  image: https://www.jlr.org/cms/10.1194/jlr.M043265/asset/1b31b3a6-39b9-4d31-b43a-f357a7f2a699/main.assets/gr1_lrg.jpg
+  tags:
+    - triglycerides
+    - lipid metabolism
+    - rare variants
+    - candidate gene  
+
+# 2013 publications
+
+- id: doi:10.1038/nature12825
+  image: images/papers/doi_10.1038_nature12825.png
+
+- id: doi:10.1007/s00439-013-1395-z
+  image: images/papers/doi_10.1007_s00439-013-1395-z.png
+  tags:
+    - Ulcerative Colitis
+    - Primary Sclerosing Cholangitis
+    - Genetic Interaction
+    - Human Leukocyte Antigen Class
+    - GWAS Dataset
+
+- id: doi:10.1016/j.ijpsycho.2013.06.023
+  image: images/papers/doi_10.1016_j.ijpsycho.2013.06.023.png
+  tags:
+    - Catechol-o-methyltransferase(COMT)
+    - Dopamine
+    - Working memory
+    - PET
+
+- id: doi:10.1038/ng.2802
+  image: images/papers/doi_10.1038_ng.2802.png
+  tags:
+    - Genome-wide association study
+
+- id: doi:10.1176/appi.ajp.2013.12081046
+  image: images/papers/doi_10.1176_appi.ajp.2013.12081046.png
+
+- id: doi:10.1016/j.neuropsychologia.2013.07.017
+  tags:
+    - Amyloid
+    - White matter hyperintensities
+    - Normal aging
+    - Cognition
+
+- id: doi:10.1371/journal.pone.0063469
+  tags:
+    - Single nucleotide polymorphisms
+    - European Union
+    - Lipids
+    - Hispanic people
+    - African people
+    - Genetic loci 
+
+- id: doi:10.1002/ana.23797
+  image: images/papers/doi_10.1002_ana.23797.png
+
+- id: doi:10.2337/db12-1077
+  image: images/papers/doi_10.2337_db12-1077.png
+
+- id: doi:10.1001/jama.2013.2973
+  image: images/papers/doi_10.1001_jama.2013.2973.png
+
+- id: doi:10.3899/jrheum.121050
+
+- id: doi:10.1155/2013/761046
+  image: images/papers/doi_10.1155_2013_761046.png
+
+# 2012 publications
+
+- id: doi:10.1371/journal.pone.0052873
+  tags:
+    - Single nucleotide polymorphisms
+    - Transcription factors
+    - Ulcerative colitis
+    - Epistasis
+    - Binding analysis
+    - Crohn's disease
+
+- id: doi:10.1186/1744-9081-8-62
+  image: images/papers/doi_10.1186_1744-9081-8-62.png
+  tags:
+    - Apolipoprotein E
+    - Genetics
+    - Behavior
+    - Hallucinations
+
+- id: doi:10.1371/journal.pone.0050198
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0050198/1/pone.0050198.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251024%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251024T212027Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=024b6a62c948d82965cc8ade12499c5ef842af7543066817d08a1fc0af9bbcf53537bb9535e04394072f99f135ecc1706ac29c4a30ab17b98d217fe9249e0dd57c548aa2b4ca722322fd8fbfa03c43331848998b47488343574de5be0451fdeb4eae24599bab242dd8707941cb6d6eb5f46826880b1cf138ab720fb360c4a7bc0057cebd787d18c908bc22ad3fea9dec16c1017f18041922aef1b57882b06a63693c43383667dc606d71374de741d32301a125e1845ba989302bb4a36dd5442f93134ae6ae27daf264500ad34afb3a88aa68c5562cd899fce97016967fbf1db2573d14002231ebb4319c9ec2bf376febda67d98769c190ff0aadb09929c98071
+  tags:
+    - African American people
+    - Genetic loci
+    - Lipid signaling
+    - Single nucleotide polymorphisms
+    - Lipids
+    - Metaanalysis
+    - Hispanic people
