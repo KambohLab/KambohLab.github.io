@@ -928,10 +928,943 @@
     - Metaanalysis
     - Hispanic people
 
-- id: doi:10.1186/1744-9081-8-62
-  image: images/papers/doi_10.1186_1744-9081-8-62.png
+- id: doi:10.3389/fgene.2012.00089
+  image: https://www.frontiersin.org/files/Articles/24104/fgene-03-00089-r2/image_m/fgene-03-00089-g002.jpg
+  tags:
+    - LIPG
+    - ZNF202
+    - endothelial lipase
+    - zinc finger protein 202
+    - HDL
+    - resequencing
+
+- id: doi:10.1038/tp.2012.45
+  image: images/papers/doi_10.1038_tp.2012.45.png
+  tags:
+    - PPP1R3B
+    - PTK2B
+    - single-nucleotide polymorphisms
+
+- id: doi:10.1016/j.neurobiolaging.2010.04.015
+  tags:
+    - Alzheimer's disease
+    - Genetics
+    - Association
+
+- id: pmc:PMC3560458
+  image: images/papers/pmc_PMC3560458.png
+  tags:
+    - Late-onset Alzheimer’s disease (LOAD)
+    - risk genes
+    - SNPs
+    - ADSSL1
+    - PICALM
+    - SH3KBP1
+    - XRN1
+    - SNX8
+    - PPP2R5C
+    - FBXL2
+    - MAP2K4
+    - SYNJ1
+    - RABGEF1
+    - POMT2
+    - XPO1
+
+# 2011 publications
+
+- id: doi:10.1016/j.neurobiolaging.2011.06.016
+  image: images/papers/doi_10.1016_j.neurobiolaging.2011.06.016.png
+  tags:
+    - Apolipoprotein E (APOE) ε4
+    - Late-onset Alzheimer disease (LOAD)
+    - Psychosis
+    - TOMM40
+    - Variable length poly-T repeat sequence
+
+- id: doi:10.3171/2011.9.FOCUS11178
+  tags:
+    - posttraumatic stress disorder
+    - Iraq
+    - chronic traumatic encephalopathy
+    - suicide
+
+- id: doi:10.1038/mp.2011.135
+  image: images/papers/doi_10.1038_mp.2011.135.png
+  tags:
+    - age-at-onset
+    - Alzheimer's disease
+    - genome-wide association study
+    - meta-analysis
+    - single-nucleotide polymorphisms
+
+- id: doi:10.1038/mp.2011.125
+  image: images/papers/doi_10.1038_mp.2011.125.png
+  tags:
+    - Alzheimer's disease
+    - psychosis
+    - behavioural symptoms
+    - genome-wide association study
+    - genetic
+
+- id: doi:10.1227/NEU.0b013e318212bc7b
+  tags:
+    - American athletes
+    - Chronic traumatic encephalopathy
+    - Histologic subtyping
+
+- id: doi:10.1371/journal.pone.0021188
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0021188/1/pone.0021188.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251025%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251025T234549Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=21acc9436858d99941b0d023193278f4a2aebecd6b719946c0a9eb999b06f8e0f1ce55ce4cab9bab063f74b6bc5db0962e0d39efd8938b1d94a37c865f3e2ceedc83ff30e213987545bd7f02d08807f658e0db8145247bf89708623c041c59f70c2df6feed55ea96bbf0ccac16a46676984316cccc747f7df18ce26501cf7ff3cdc1ec8c78a627306a4130e1bc1df139fb4fdc2a2018bcea71fb2caa37d24a8056f90e911174e0c1bf6e864178b96c68f1dec9cf116ace03b150110e5425358bcb3bdec680cbad92550fd6dc45e582273800207c7d1cc511bf89748eb6867a8355f1e9d6a601144e3b504d6202b6369128554a900f57ed62d9dd052d88c0770c
+  tags:
+    - Cholesterol
+    - Diabetes mellitus
+    - Lipid analysis
+    - Type 2 diabetes
+    - Linkage analysis
+
+- id: doi:10.1038/mp.2011.52
+  tags:
+    - APOE
+    - genetics
+    - lifetime risks
+    - epidemiology
+
+- id: doi:10.1002/ajmg.b.31194
+  image: images/papers/doi_10.1002_ajmg.b.31194.png
+  tags:
+    - Alzheimer's disease
+    - genome-wide association studies
+    - replication
+    - age-at-onset
+    - disease duration
+
+- id: doi:10.1038/ng.801
+  image: images/papers/doi_10.1038_ng.801.png
+  tags:
+    - Alzheimer's disease
+    - Genetic predisposition to disease
+    - Genome-wide association studies
+
+- id: doi:10.1371/journal.pgen.1001323
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1001323/1/pgen.1001323.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251026T000022Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=782e0d06f8aa84c9ec85c3027014691e234539b5ed886a07836635eaeea63b9d6494a0f20bccc3ebe0a1190df1be2a6a277af2ac08c48757a0ad5eb5e3cd6175daf5a4b0b524eda9fadc995fd9e88a6788aafab9a2258924b9a1ab19c9a5e7b32fe86a6b3983c4ea509a26b5b7726860256d5de5a9ea18985fc77edff4947d036064ca00563e76c6d08b09d448a16981b3d4299780190b87a2ab2d9828e5b2b528d2798aa8ec51c0344e91eee5c7df31e36563f3fdeec3bfc4a657ff35dae26206be495aa61734ac5fbbb0111a685980ff2feebe5a79a226b6f257d86b9959460ef8020e6c841a2bd78eb8e3d48598222fd980735902ef5a3c8f6f30c7c83414
+  tags:
+    - Systemic lupus erythematosus 
+    - Autoantibodies 
+    - Single nucleotide polymorphisms 
+
+- id: doi:10.1371/journal.pgen.1001311
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1001311/1/pgen.1001311.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251026T000206Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=88a2f93723f23134b2c4b903a18e39affb451ce9ab23e3ea55203160edc7bc8e40f7f05aa5ec5635b94d7281b5c4f7278c31b706af392c0d18ef46bc39bf68d24ceb5ffca8ddfa1ce050d53dc239fa5fd905b74ed3ccdaa1a145f457a75a394e5f523a74e53358464fb117470d6f5a69489a3a8eeba9a7345b1210248ca7beb4265f605efec4f672ef7da3a4a797d88029dc2b3fa86520d56598d67d0deac289275dcc0d7f4b531537b7268fc2f5884329c6186cd2f74dfa462b18e7cd5064b6ac764cea9541df0199088039ab1121a73aa2174e66a99266f6e2327264bb7d5adf96096eb724c8f15303b1f3eaf81500928769925c2483d992e3d5bf7ccc670b
+  tags:
+    - Single nucleotide polymorphisms 
+    - Systemic lupus erythematosus 
+    - Genetic loci 
+    - Antibodies
+
+- id: doi:10.3899/jrheum.100728
+  tags:
+    - LUPUS
+    - PROTHROMBIN
+    - F2
+    - POLYMORPHISM
+    - A19911G
+    - G20210A
+
+- id: doi:10.1186/1471-2350-12-7
+  image: images/papers/doi_10.1186_1471-2350-12-7.png
+  tags:
+    - Systemic Lupus Erythematosus
+    - Lupus Nephritis
+    - Modest Association
+
+- id: doi:10.1001/archgenpsychiatry.2010.184
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/psych/5307/yoa05065f3.png?Expires=1764542784&Signature=0aPg2MIsUka2UJOAflr-3X9yvgLrnmXHzgAtRHXL8KScevkqorO0knWLI9RSKU8BW42JlWGh7uYZQrNKLV~wHWLgOgXxFlpztNJ0EsbcKBdMB6tNUzhzflCJ4aPJvfZgNuwXRXwFNowC6ns~yqmIoLbsklUl0BvtER6-3dAwzv-lXa0lc~ZqQnvLruBas6fKwKn6ubUH9NstyVLkpIyrGtFfg0mq5RtkrptrebV-bUgTaqLJoZZbuASVZy5tA~xEE2v7FPYELFMISylilgpMzvtvGqpTTYTcTXZ4L52OJVaA7Kh3o9SwFGGDSu-YhyLvd9LKU733Wrsokn5FDFwl9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1001/archneurol.2010.346
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/7798/noc05038f3.png?Expires=1763684901&Signature=ATe7Yq4PeGAy3d96C5eyv0JQE3U7n75q22vihiKvl3vtNc7N-UPxzhENm12PIHY9xhkt5xImAw4hafrN2-sXejYs9bYfSVtO3oEhkbc06z1lkyNYoJNT~S54fI10Q0etZX6~WNrowDikIddEht7Z-dDO2K329b9GN1T0S0R0DFTXRhlFXH4uo-lhSNWkv0qFmKDrNub37X32265kwrCIKz~2fT~OxRvrjakPJwRgQgupEchiyRI6~B5ejumtUYh4-7eJSqnSItJOvKWPYnn4nKA5zAjFxoPRg5FahWsNRUp8gUodHddGsMIARjjx9W865j2Fzh7n86hva6tVwdwj~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+    - SORL1
+    - SORLA
+    - LR11
+    - Alzheimer's disease
+
+# 2010 publications
+
+- id: doi:10.3109/02699052.2010.520299
+  image: images/papers/doi_10.3109_02699052.2010.520299.png
+  tags:
+    - Traumatic brain injury
+    - post-traumatic seizures
+    - APOE
+    - genetic susceptibility
+
+- id: doi:10.3233/JAD-2010-100933
+  tags:
+    - Age at onset
+    - Alzheimer’s disease
+    - apolipoprotein E
+    - CALHM1
+    - polymorphism
+
+- id: doi:10.3233/JAD-2010-100630
+  image: images/papers/doi_10.3233_JAD-2010-100630.png
+  tags:
+    - ammonium
+    - arginase
+    - citrulline NO cycle
+    - nitric oxide
+    - polyamines
+    - urea cycle
+
+- id: doi:10.1016/j.ijcard.2008.12.121
+  tags:
+    - Polymorphism
+    - Coronary artery disease
+    - Susceptibility
+    - Haplotype
+
+- id: doi:10.1111/j.1939-3938.2009.01064.x
+  tags:
+    - Chronic traumatic encephalopathy
+    - football players
+    - forensic nursing
+    - National Football League
+
+- id: doi:10.1111/j.1742-4658.2009.07538.x
+  image: images/papers/doi_10.1111_j.1742-4658.2009.07538.x.png
+  tags:
+    - APOH
+    - polymorphisms
+    - promoter
+    - β2-glycoprotein I
+
+- id: doi:10.1159/000273732
+  tags:
+    - Missing data
+    - SNPs
+    - Logistic regression
+    - Likelihood-based methods
+
+# 2009 publications
+
+- id: doi:10.1002/ajmg.b.30986
+  tags:
+    - brain-derived neurotrophic factor (BDNF)
+    - meta-analysis
+    - polymorphism
+    - sex difference
+
+- id: doi:10.1159/000268019
+  tags:
+    - Fasting plasma glucose
+    - G6PC2
+    - Single nucleotide polymorphism
+    - rs560887
+
+- id: doi:10.1016/j.neurobiolaging.2008.01.006
+  tags:
+    - DAPK1
+    - ABCA2
+    - Chromosome 9
+
+- id: doi:10.1016/j.bbalip.2009.06.003
+  image: images/papers/doi_10.1016_j.bbalip.2009.06.003.png
+  tags:
+    - Lipoprotein lipase
+    - Exon 10 mutation
+    - Electrophoretic mobility shift assay
+
+- id: doi:10.1002/ajmg.b.30896
+  image: images/papers/doi_10.1002_ajmg.b.30896.png
+  tags:
+    - CASR
+    - calcium dysregulation
+    - APOE
+
+- id: doi:10.1002/humu.20989
+  tags:
+    - CALHM1
+    - genetic
+    - association
+
+- id: doi:10.1038/mp.2009.10
+  image: images/papers/doi_10.1038_mp.2009.10.png
+  tags:
+    - IL-33
+    - brain expression
+    - polymorphism
+    - CAA
+
+- id: doi:10.3899/jrheum.080482
+  image: https://www.jrheum.org/content/jrheum/36/2/315/F1.large.jpg
+  tags:
+    - APOLIPOPROTEIN H
+    - ß2-GLYCOPROTEIN I
+    - PROMOTER
+    - LUPUS ERYTHEMATOSUS
+    - POLYMORPHISM
+
+
+# 2008 publications
+
+- id: doi:10.3899/jrheum.080262
+  tags:
+    - C-REACTIVE PROTEIN
+    - SYSTEMIC LUPUS ERYTHEMATOSUS
+    - GENES
+
+- id: doi:10.1016/j.neurobiolaging.2007.03.010
+  tags:
+    - DNMBP
+    - Chromosome 10
+
+- id: doi:10.1002/ajmg.b.30851
+  tags:
+    - genetics
+    - age-at-onset
+    - disease duration
+
+- id: doi:10.1016/j.atherosclerosis.2007.12.011
+  image: images/papers/doi_10.1016_j.atherosclerosis.2007.12.011.png
+  tags:
+    - Lipoprotein lipase
+    - HindIII polymorphism
+    - Electrophoretic mobility shift assay
+    - Luciferase reporter gene assay
+    - Coronary artery disease
+
+- id: doi:10.1016/j.neulet.2008.05.082
+  tags:
+    - genetics
+    - SORL1
+
+- id: doi:10.1038/ng.202
+  image: images/papers/doi_10.1038_ng.202.png
+
+- id: doi:10.1186/1471-2350-9-59
+  tags:
+    - Normal Glucose Tolerant
+    - TCF7L2 Gene
+    - Asian Indian Population
+    - Normal Glucose Tolerant Control
+
+- id: doi:10.1371/journal.pgen.1000084
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1000084/1/pgen.1000084.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251027%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251027T190234Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0c85b31c9af2b0d804d0fe72e7190e39cbe333908ca266dc1ed8dc3290f5ab6832904cba2d49b846fb7abfa48947b4d0c65920583711d4552ac79a28cfefcb7d5bae3d2e1c3ff08434d50246d30153e8036390bcabc9998d667cb8f1e1e914cc00aecbe19cbc9d1f43625d8546a5ac380854d0b3205af97a77c56c9fa3ceff322f87aa3924d7b3c2d74578d72d0d667dd17f8bcad56053eea4df6d28bd8c1cc1cf14da2e41f2baab3cce1add6e6b4c94e97907d6cef8be9c5eb9444083b1847576d6f28d461bf389fa41755e0f73531288f888d750645b5071617a06ba451c554195e2202a9917adb43c0f4e39e16db7af08e5e94b0ad94586bf42a277fcf3cf
+  tags:
+    - Single nucleotide polymorphisms
+    - Systemic lupus erythematosus
+    - Nephritis
+    - Autoantibodies
+    - Europe
+    - Haplotypes
+
+- id: doi:10.1111/j.1469-1809.2008.00443.x
+  image: images/papers/doi_10.1111_j.1469-1809.2008.00443.x.png
+  tags:
+    - TCF7L2
+    - Polymorphisms
+    - Type 2 diabetes
+    - Serum cholesterol
+    - Khatri sikhs
+
+- id: doi:10.1016/j.bbadis.2008.01.001
+  image: images/papers/doi_10.1016_j.bbadis.2008.01.001.png
+  tags:
+    - Hepatitis B surface antigen
+    - β2-Glycoprotein I
+    - Apolipoprotein H
+    - Anionic phospholipid
+
+- id: doi:10.1056/NEJMoa0707865
+  image: images/papers/doi_10.1056_NEJMoa0707865.png
+  tags:
+    - Hepatitis B surface antigen
+    - β2-Glycoprotein I
+    - Apolipoprotein H
+    - Anionic phospholipid
+
+- id: doi:10.1111/j.1469-1809.2007.00400.x
+  image: images/papers/doi_10.1111_j.1469-1809.2007.00400.x.png
+  tags:
+    - Paraoxonase-3
+    - Polymorphisms
+    - Paraoxonase activity
+    - SLE
+
+# 2007 publications
+
+- id: doi:10.1038/sj.mp.4001974
+  image: images/papers/doi_10.1038_sj.mp.4001974.png
+  tags:
+    - S100β
+    - expression
+    - polymorphism
+    - splicing
+
+- id: doi:10.1089/neu.2006.0133
+  image: images/papers/doi_10.1089_neu.2006.0133.png
+
+- id: doi:10.1016/j.neurobiolaging.2006.04.005
+  tags:
+    - ABCA1
+    - Polymorphism
+
+# 2006 publications
+
+- id: doi:10.1111/j.1469-1809.2006.00336.x
+  tags:
+    - interferon regulatory factor 5
+    - IRF5
+    - interferon
+    - lupus
+    - SLE
+
+- id: doi:10.1227/01.NEU.0000245601.69451.27
+  tags:
+    - Chronic traumatic encephalopathy
+    - National Football League
+    - Professional football players
+
+- id: doi:10.1016/j.neulet.2006.08.081
+  tags:
+    - Chromosome 10
+
+- id: doi:10.1016/j.neurobiolaging.2005.08.024
+  tags:
+    - CHAT
+    - Age-at-onset
+    - MMSE
+
+- id: doi:10.1016/j.neulet.2006.07.054
+  tags:
+    - Genetics
+    - Polymorphisms
+    - Chromosome 10
+
+- id: doi:10.1016/j.neurobiolaging.2005.07.015
+  image: images/papers/doi_10.1016_j.neurobiolaging.2005.07.015.png
+  tags:
+    - ACT
+    - Genetic
+    - Association
+
+- id: doi:10.1002/ajmg.b.30403
+  tags:
+    - PLAU
+
+- id: doi:10.1002/art.21889
+  image: images/papers/doi_10.1002_art.21889.png
+
+- id: doi:10.1353/hub.2006.0027
+  tags:
+    - non-insulin-dependent diabetes mellitus
+    - type 2 diabetes
+    - coronary heart disease
+    - Sikh Diabetes Study
+    - Khatri Sikh population
+    - India
+
+# 2005 publications
+
+- id: doi:10.1038/sj.mp.4001775
+  image: images/papers/doi_10.1038_sj.mp.4001775.png
+  tags:
+    - ubiquilin
+    - chromosome 9
+    - haplotypes
+
+- id: doi:10.1016/j.nbd.2005.04.012
+  image: images/papers/doi_10.1016_j.nbd.2005.04.012.png
+  tags:
+    - Amyloidosis
+    - Apolipoprotein
+    - Astrocyte
+    - Microglia
+    - Neuritic plaque
+    - Neurodegeneration
+    - Temporal cortex
+
+- id: doi:10.1111/j.1529-8817.2005.00211.x
+  image: images/papers/doi_10.1111_j.1529-8817.2005.00211.x.png
+
+- id: doi:10.1016/j.neurobiolaging.2004.11.001
+  tags:
+    - Chromosome 10
+    - Haplotype
+    - Age-at-onset
+
+- id: doi:10.1016/j.neulet.2005.01.008
+  tags:
+    - BDNF
+    - Polymorphism
+
+- id: doi:10.1212/01.WNL.0000150892.81839.D1
+  image: images/papers/doi_10.1212_01.WNL.0000150892.81839.D1.png
+
+# 2004 publications
+
+- id: doi:10.1007/s00439-004-1172-0
+  tags:
+    - Systemic Lupus Erythematosus
+    - Systemic Lupus Erythematosus Patient
+    - Allele Carrier
+    - African American Sample
+    - Intronic Polymorphism
+
+- id: doi:10.1046/j.1529-8817.2004.00110.x
+  image: images/papers/doi_10.1046_j.1529-8817.2004.00110.x.png
+
+- id: doi:10.1046/j.1529-8817.2004.00097.x
+  image: images/papers/doi_10.1046_j.1529-8817.2004.00097.x.png
+  tags:
+    - Apolipoprotein H
+    - β2-Glycoprotein I
+    - Polymorphisms
+    - Haplotypes
+    - Antiphospholipid
+
+- id: doi:10.1007/s00439-003-1040-3
+  tags:
+    - Polymorphic Site
+    - Indian Female
+    - FXIII Activity
+    - V34L Polymorphism
+    - V34L Variation
+
+# 2003 publications
+
+- id: doi:10.1002/gps.1006
+  image: images/papers/doi_10.1002_gps.1006.png
   tags:
     - Apolipoprotein E
-    - Genetics
-    - Behavior
-    - Hallucinations
+    - geriatric
+    - late-life
+    - depression
+
+- id: doi:10.1016/j.nbd.2003.08.005
+  image: images/papers/doi_10.1016_j.nbd.2003.08.005.png
+
+- id: doi:10.1002/ajpa.10355
+  tags:
+    - cholesterol
+    - triglyceride
+    - genotypic variation
+    - cardiovascular disease
+
+- id: doi:10.1093/aje/kwg230
+  image: images/papers/doi_10.1093_aje_kwg230.png
+  authors:
+    - John E. Hokanson
+    - M. Ilyas Kamboh
+    - Sharon Scarboro
+    - Robert H. Eckel
+    - Richard F. Hamman
+  tags:
+    - cohort studies
+    - coronary disease
+    - genetic predisposition to disease
+    - polymorphism (genetics)
+    - risk factors
+
+- id: doi:10.1097/01.CCM.0000080484.72004.C4
+  image: images/papers/doi_10.1097_01.CCM.0000080484.72004.C4.png
+  tags:
+    - traumatic brain injury
+    - excitatory amino acids
+    - apolipoprotein; neuromonitoring
+    - cerebrospinal fluid
+    - cerebral ischemia
+    - high-performance liquid chromatography
+
+- id: doi:10.1016/S0021-9150(03)00160-6
+  image: images/papers/doi_10.1016_S0021-9150(03)00160-6.png
+  authors:
+    - Qi Chen
+    - Steven E. Reis
+    - Candace M. Kammerer
+    - Dennis M. McNamara
+    - Richard Holubkov
+    - Barry L. Sharaf
+    - George Sopko
+    - Daniel F. Pauly
+    - C.Noel Bairey Merz
+    - M.Ilyas Kamboh
+    - WISE study group
+  tags:
+    - Apolipoproteins
+    - Coronary disease
+    - Risk factors
+
+- id: doi:10.1161/01.CIR.0000074207.85796.36
+  image: images/papers/doi_10.1161_01.CIR.0000074207.85796.36.png
+  tags:
+    - risk factors
+    - coronary disease
+
+- id: doi:10.1136/jmg.40.6.424
+  image: https://jmg-bmj-com.pitt.idm.oclc.org/content/jmedgenet/40/6/424/F2.large.jpg
+
+- id: doi:10.1046/j.1469-1809.2003.00023.x
+  image: images/papers/doi_10.1046_j.1469-1809.2003.00023.x.png
+  tags:
+    - Apolipoprotein A4
+    - Polymorphisms
+    - Whites
+    - Hispanics
+    - Blacks
+    - Lipid Profile
+
+- id: doi:10.1046/j.1432-1033.2003.03379.x
+  image: images/papers/doi_10.1046_j.1432-1033.2003.03379.x.png
+  tags:
+    - β2-glycoprotein I
+    - apolipoprotein H
+    - anti-phospholipid antibodies
+    - polymorphism
+    - lupus
+
+- id: doi:10.1086/345312
+
+# 2002 publications
+
+- id: doi:10.1002/ana.10414
+
+- id: doi:10.1002/ajmg.b.10798
+  tags:
+    - apolipoprotein D
+    - APOD
+    - polymorphisms
+    - African-Americans
+
+- id: doi:10.1002/ajmg.b.10026
+  tags:
+    - chromosome 12
+    - LBP-1c/CP2/LSF transcription factor
+
+- id: doi:10.1016/S0304-3940(02)00443-3
+  tags:
+    - Cholesterol
+    - Cholesterol 24-hydroxylase
+    - Sporadic late-onset
+
+- id: doi:10.1016/S0021-9150(02)00012-6
+  image: images/papers/doi_10.1016_S0021-9150(02)00012-6.png
+  tags:
+    - Apolipoprotein D
+    - Genetic variation
+    - African blacks
+    - Lipid
+
+- id: doi:10.1016/s0197-4580(01)00322-0
+  authors:
+    - Xiaoyan Wang
+    - Steven T DeKosky
+    - Milos D Ikonomovic
+    - M Ilyas Kamboh
+  tags:
+    - α1-antichymotrypsin
+    - Plasma level
+
+- id: pubmed:12019933
+  tags:
+    - Apolipoprotein E
+    - Hispanic
+
+# 2001 publications
+
+- id: doi:10.1016/S1093-3263(00)00096-6
+
+- id: doi:10.1002/1522-2683(200108)22:13<2665::AID-ELPS2665>3.0.CO;2-A
+  tags:
+    - Single-strand conformation polymorphism
+    - Mutation detection
+    - Gradient temperature
+
+- id: doi:10.1016/S0304-3940(01)02033-X
+  tags:
+    - Cathepsin G
+
+- id: doi:10.1007/s004390100549
+  tags:
+    - Anticardiolipin Antibody
+    - Anionic Phospholipid
+    - Complement Control Protein
+    - Recurrent Fetal Loss
+    - Lys210Glu Mutation
+
+- id: doi:10.1176/appi.ajp.158.6.878
+
+- id: doi:10.1007/s004390000445
+  tags:
+    - Allele Frequency
+    - Deletion Polymorphism
+    - Ile1000Val Polymorphism
+    - Intronic Deletion
+  
+- id: doi:10.1086/316935
+  image: images/papers/doi_10.1086_316935.png
+
+- id: doi:10.1016/S0895-4356(00)00260-2
+  tags:
+    - Lipoprotein(a)
+    - Isoform
+    - Cardiovascular disease
+    - MRFIT
+    - Prospective
+
+- id: doi:10.1353/hub.2001.0006
+  image: images/papers/doi_10.1353_hub.2001.0006.png
+  tags:
+    - APOA
+    - LP(A)
+    - Polymorphisms
+    - American Samoans
+
+- id: doi:10.1002/1096-8644(200101)114:1<18::AID-AJPA1002>3.0.CO;2-2
+  image: images/papers/doi_10.1002_1096-8644(200101)114.png
+  tags:
+    - South Carolina
+    - African Americans
+    - admixture
+    - admixture linkage disequilibrium
+
+# 2000 publications
+
+- id: doi:10.1212/WNL.55.12.1854
+
+- id: doi:10.1002/1531-8249(200011)48:5<817::AID-ANA22>3.0.CO;2-S
+
+- id: pubmed:11126727
+  image: images/papers/pubmed_11126727.png
+  tags:
+    - KRINGLE PENTANUCLEOTIDE REPEATS
+    - PLASMA LP(A)
+    - CHD
+
+- id: doi:10.1007/s004390000367
+  image: images/papers/doi_10.1007_s004390000367.png
+  tags:
+    - Lipase
+    - Lipoprotein Lipase
+    - Nonsense Mutation
+    - Mutation Detection
+    - Lipoprotein Particle
+
+- id: doi:10.1016/S0021-9150(99)00459-1
+  image: images/papers/doi_10.1016_S0021-9150(99)00459-1.png
+  tags:
+    - ApoC-IV
+    - Genetic variation
+    - Lipid
+    - Linkage disequilibrium
+
+- id: doi:10.1016/S0304-3940(00)01185-X
+  tags:
+    - Polymorphism
+    - Cathepsin D
+    - Interleukin-6
+
+- id: doi:10.1001/archneur.57.6.824
+
+- id: doi:10.1007/s004390000313
+  tags:
+    - APOE Gene
+    - Dual Luciferase Assay
+    - Luciferase Level
+    - Linkage Disequilib
+    - Transform Growth Factor Type
+
+- id: pubmed:10803663
+  tags:
+    - LIPOPROTEIN (A)
+    - SAMOANS
+    - CORRELATION
+    - CHOLESTEROL
+
+- id: doi:10.1046/j.1432-1327.2000.01174.x
+  image: images/papers/doi_10.1046_j.1432-1327.2000.01174.x.png
+  tags:
+    - apolipoprotein H
+    - cardiolipin binding
+    - β2-glycoprotein I
+
+- id: doi:10.1002/1098-2272(200012)19:4<440::AID-GEPI14>3.0.CO;2-8
+  image: images/papers/doi_10.1002_1098-2272(200012)19.png
+  tags:
+    - Factor X III activity
+    - factor X IIIA and B polymorphisms
+    - genetic association
+
+- id: doi:10.1159/000026271
+  tags:
+    - Apolipoprotein E
+    - Stroke
+    - Transient ischemic attack
+    - Cerebrovascular disease
+    - Effect modification
+
+# 1999 publications
+
+- id: doi:10.1191/096120399678840909
+  image: images/papers/doi_10.1191_096120399678840909.png
+  tags:
+    - apolipoprotein H
+    - B2-glycoprotein I
+    - SLE
+    - antiphospholipid antibodies
+
+- id: doi:10.1016/S0022-3476(99)70018-1
+  image: images/papers/doi_10.1016_S0022-3476(99)70018-1.png
+
+- id: doi:10.1007/s004399900089
+  image: images/papers/doi_10.1007_s004399900089.png
+  tags:
+    - Genotypic Classis
+    - Complement Control Protein
+    - Include Lipid Metabolism
+    - Significant Heteroscedasticity
+    - Valley Diabetes Study
+
+- id: doi:10.1016/S0304-3940(99)00129-9
+  image: images/papers/doi_10.1016_S0304-3940(99)00129-9.png
+  tags:
+    - APOE*4 Pittsburg
+    - Late-onset Alzheimer's disease
+
+- id: doi:10.1016/S0304-3940(99)00025-7
+  tags:
+    - Persyn
+    - Sporadic late-onset
+
+- id: doi:10.1002/(SICI)1098-2272(1999)16:2<205::AID-GEPI7>3.0.CO;2-P
+  tags:
+    - apolipoproteins
+    - polymorphisms
+    - Africans
+    - Nigerians
+    - socioeconomic status
+
+- id: doi:10.1046/j.1432-1327.1999.00063.x
+  image: images/papers/doi_10.1046_j.1432-1327.1999.00063.x.png
+  tags:
+    - beta-2-glycoprotein I
+    - apolipoprotein H
+    - gene structure
+    - short consensus repeat
+
+# 1998 publications
+
+- id: doi:10.1001/archneur.55.10.1335
+
+- id: doi:10.1002/ana.410440316
+
+- id: doi:10.1002/(SICI)1096-9861(19980713)396:4<511::AID-CNE7>3.0.CO;2-4
+  image: images/papers/doi_10.1002_(SICI)1096-9861(19980713)396.png
+  tags:
+    - β amyloid
+    - microglia
+    - astrocytes
+    - ultrastructural
+    - diffuse plaques
+
+- id: pubmed:9599940
+
+- id: doi:10.1016/S0304-3940(98)00141-4
+  tags:
+    - Low density lipoprotein receptor-related protein
+    - Sporadic late-onset
+
+- id: doi:10.1016/S0021-9150(97)00230-X
+  tags:
+    - LRP
+    - Polymorphism
+    - Lipoprotein-lipids
+    - Apolipoproteins
+    - Blacks
+    - Hispanics
+    - Non-Hispanic whites
+
+- id: doi:10.1038/ng0398-211
+
+- id: doi:10.1177/096120339800700203
+  image: images/papers/doi_10.1177_096120339800700203.png
+  tags:
+    - apolipoprotein H
+    - β2-glycoprotein I
+    - anionic phospholipid
+
+- id: doi:10.1016/S0021-9150(97)00206-2
+  tags:
+    - Paraoxonase
+    - Genetic polymorphisms
+    - Asian Indians
+    - Chinese
+    - CHD risk
+
+- id: doi:10.1055/s-0037-1615218
+
+- id: doi:10.1055/s-0037-1615360
+
+- id: doi:10.1159/000007939
+  tags:
+    - Dementia
+    - Apolipoprotein E
+
+- id: doi:10.1086/301669
+  image: images/papers/doi_10.1086_301669.png
+  tags:
+    - Polymorphism(s)
+    - Paraoxonase
+    - Asian Indians
+    - Coronary heart disease, risk
+    - PON1 gene
+    - PON2 gene
+
+- id: doi:10.1159/000022822
+  image: images/papers/doi_10.1159_000022822.png
+  tags:
+    - APOA-IV
+    - APOE
+    - APOH
+    - Koreans
+  
+# 1997 publications
+
+- id: pubmed:9353975
+
+- id: doi:10.1212/WNL.49.3.794
+
+- id: doi:10.1007/s004390050465
+  tags:
+    - Codon
+    - Missense Mutation
+    - Allele Carrier
+    - Essential Cofactor
+    - Anionic Phospholipid
+
+- id: doi:10.1016/S0021-9150(97)06112-1
+  tags:
+    - apo A4 polymorphisms
+    - Codon 347
+    - Codon 360
+    - North Indians
+    - Non-fasting lipid levels
+
+- id: doi:10.1161/01.ATV.17.6.1067
+
+- id: doi:10.1093/hmg/6.2.311
+  tags:
+    - amino acids
+    - glycoproteins
+    - codon nucleotides
+    - heterozygote
+    - homozygote
+    - phospholipids
+    - beta 2-glycoprotein i
+    - binding (molecular function)
+
+- id: pubmed:9066897
+  tags:
+    - mtDNA
+    - serological markers
+    - admixture
+    - Hispanics
+    - Amerindians

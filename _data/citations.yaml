@@ -10275,3 +10275,3122 @@
   - Hispanic people
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3389/fgene.2012.00089
+  title: Population-Based Resequencing of LIPG and ZNF202 Genes in Subjects with Extreme
+    HDL Levels
+  authors:
+  - Hamid Razzaghi
+  - Stephanie A. Santorico
+  - M. Ilyas Kamboh
+  publisher: Frontiers in Genetics
+  date: '2012-01-01'
+  link: https://doi.org/g9qxpr
+  image: https://www.frontiersin.org/files/Articles/24104/fgene-03-00089-r2/image_m/fgene-03-00089-g002.jpg
+  tags:
+  - LIPG
+  - ZNF202
+  - endothelial lipase
+  - zinc finger protein 202
+  - HDL
+  - resequencing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/tp.2012.45
+  title: Genome-wide association study of Alzheimer's disease
+  authors:
+  - M I Kamboh
+  - F Y Demirci
+  - X Wang
+  - R L Minster
+  - M M Carrasquillo
+  - V S Pankratz
+  - S G Younkin
+  - A J Saykin
+  - G Jun
+  - C Baldwin
+  - M W Logue
+  - J Buros
+  - L Farrer
+  - M A Pericak-Vance
+  - J L Haines
+  - R A Sweet
+  - M Ganguli
+  - E Feingold
+  - S T DeKosky
+  - O L Lopez
+  - M M Barmada
+  publisher: Translational Psychiatry
+  date: '2012-05-15'
+  link: https://doi.org/f35zpk
+  image: images/papers/doi_10.1038_tp.2012.45.png
+  tags:
+  - PPP1R3B
+  - PTK2B
+  - single-nucleotide polymorphisms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2010.04.015
+  title: Association of CLU and PICALM variants with Alzheimer's disease
+  authors:
+  - M. Ilyas Kamboh
+  - Ryan L. Minster
+  - F. Yesim Demirci
+  - Mary Ganguli
+  - Steven T. DeKosky
+  - Oscar L. Lopez
+  - M. Michael Barmada
+  publisher: Neurobiology of Aging
+  date: '2012-03-01'
+  link: https://doi.org/bwhsxc
+  tags:
+  - Alzheimer's disease
+  - Genetics
+  - Association
+  plugin: sources.py
+  file: sources.yaml
+- id: pmc:PMC3560458
+  title: Beta-amyloid toxicity modifier genes and the risk of Alzheimer's disease
+  authors:
+  - Samantha L Rosenthal
+  - Xingbin Wang
+  - F Yesim Demirci
+  - Michael M Barmada
+  - Mary Ganguli
+  - Oscar L Lopez
+  - M Ilyas Kamboh
+  publisher: American journal of neurodegenerative disease
+  date: '2012-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560458/
+  image: images/papers/pmc_PMC3560458.png
+  tags:
+  - "Late-onset Alzheimer\u2019s disease (LOAD)"
+  - risk genes
+  - SNPs
+  - ADSSL1
+  - PICALM
+  - SH3KBP1
+  - XRN1
+  - SNX8
+  - PPP2R5C
+  - FBXL2
+  - MAP2K4
+  - SYNJ1
+  - RABGEF1
+  - POMT2
+  - XPO1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2011.06.016
+  title: TOMM40 poly-T repeat lengths, age of onset and psychosis risk in Alzheimer
+    disease
+  authors:
+  - Su Hee Chu
+  - Kathryn Roeder
+  - Robert E. Ferrell
+  - Bernie Devlin
+  - Mary Ann A. DeMichele-Sweet
+  - M. Ilyas Kamboh
+  - Oscar L. Lopez
+  - Robert A. Sweet
+  publisher: Neurobiology of Aging
+  date: '2011-12-01'
+  link: https://doi.org/dn3rv3
+  image: images/papers/doi_10.1016_j.neurobiolaging.2011.06.016.png
+  tags:
+  - "Apolipoprotein E (APOE) \u03B54"
+  - Late-onset Alzheimer disease (LOAD)
+  - Psychosis
+  - TOMM40
+  - Variable length poly-T repeat sequence
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3171/2011.9.FOCUS11178
+  title: Chronic traumatic encephalopathy in an Iraqi war veteran with posttraumatic
+    stress disorder who committed suicide
+  authors:
+  - Bennet Omalu
+  - Jennifer L. Hammers
+  - Julian Bailes
+  - Ronald L. Hamilton
+  - M. Ilyas Kamboh
+  - Garrett Webster
+  - Robert P. Fitzsimmons
+  publisher: Neurosurgical Focus
+  date: '2011-11-01'
+  link: https://doi.org/dbb5tc
+  tags:
+  - posttraumatic stress disorder
+  - Iraq
+  - chronic traumatic encephalopathy
+  - suicide
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/mp.2011.135
+  title: Genome-wide association analysis of age-at-onset in Alzheimer's disease
+  authors:
+  - M I Kamboh
+  - M M Barmada
+  - F Y Demirci
+  - R L Minster
+  - M M Carrasquillo
+  - V S Pankratz
+  - S G Younkin
+  - A J Saykin
+  - R A Sweet
+  - E Feingold
+  - S T DeKosky
+  - O L Lopez
+  publisher: Molecular Psychiatry
+  date: '2011-10-18'
+  link: https://doi.org/fgmhfs
+  image: images/papers/doi_10.1038_mp.2011.135.png
+  tags:
+  - age-at-onset
+  - Alzheimer's disease
+  - genome-wide association study
+  - meta-analysis
+  - single-nucleotide polymorphisms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/mp.2011.125
+  title: Genome-wide association study of Alzheimer's disease with psychotic symptoms
+  authors:
+  - P Hollingworth
+  - R Sweet
+  - R Sims
+  - D Harold
+  - G Russo
+  - R Abraham
+  - A Stretton
+  - N Jones
+  - A Gerrish
+  - J Chapman
+  - D Ivanov
+  - V Moskvina
+  - S Lovestone
+  - P Priotsi
+  - M Lupton
+  - C Brayne
+  - M Gill
+  - B Lawlor
+  - A Lynch
+  - D Craig
+  - B McGuinness
+  - J Johnston
+  - C Holmes
+  - G Livingston
+  - N J Bass
+  - H Gurling
+  - A McQuillin
+  - P Holmans
+  - L Jones
+  - B Devlin
+  - L Klei
+  - M M Barmada
+  - F Y Demirci
+  - S T DeKosky
+  - O L Lopez
+  - P Passmore
+  - M J Owen
+  - M C O'Donovan
+  - R Mayeux
+  - M I Kamboh
+  - J Williams
+  publisher: Molecular Psychiatry
+  date: '2011-10-18'
+  link: https://doi.org/d7vx8s
+  image: images/papers/doi_10.1038_mp.2011.125.png
+  tags:
+  - Alzheimer's disease
+  - psychosis
+  - behavioural symptoms
+  - genome-wide association study
+  - genetic
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1227/NEU.0b013e318212bc7b
+  title: Emerging Histomorphologic Phenotypes of Chronic Traumatic Encephalopathy
+    in American Athletes
+  authors:
+  - Bennet Omalu
+  - Julian Bailes
+  - Ronald L Hamilton
+  - M Ilyas Kamboh
+  - Jennifer Hammers
+  - Mary Case
+  - Robert Fitzsimmons
+  publisher: Neurosurgery
+  date: '2011-07-01'
+  link: https://doi.org/fp9nkh
+  tags:
+  - American athletes
+  - Chronic traumatic encephalopathy
+  - Histologic subtyping
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0021188
+  title: Genome-Wide Linkage Scan to Identify Loci Associated with Type 2 Diabetes
+    and Blood Lipid Phenotypes in the Sikh Diabetes Study
+  authors:
+  - Dharambir K. Sanghera
+  - Latonya F. Been
+  - Sarju Ralhan
+  - Gurpreet S. Wander
+  - Narinder K. Mehra
+  - Jai Rup Singh
+  - Robert E. Ferrell
+  - Mohammed I. Kamboh
+  - Christopher E. Aston
+  publisher: PLoS ONE
+  date: '2011-06-16'
+  link: https://doi.org/bkp3zd
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0021188/1/pone.0021188.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251025%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251025T234549Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=21acc9436858d99941b0d023193278f4a2aebecd6b719946c0a9eb999b06f8e0f1ce55ce4cab9bab063f74b6bc5db0962e0d39efd8938b1d94a37c865f3e2ceedc83ff30e213987545bd7f02d08807f658e0db8145247bf89708623c041c59f70c2df6feed55ea96bbf0ccac16a46676984316cccc747f7df18ce26501cf7ff3cdc1ec8c78a627306a4130e1bc1df139fb4fdc2a2018bcea71fb2caa37d24a8056f90e911174e0c1bf6e864178b96c68f1dec9cf116ace03b150110e5425358bcb3bdec680cbad92550fd6dc45e582273800207c7d1cc511bf89748eb6867a8355f1e9d6a601144e3b504d6202b6369128554a900f57ed62d9dd052d88c0770c
+  tags:
+  - Cholesterol
+  - Diabetes mellitus
+  - Lipid analysis
+  - Type 2 diabetes
+  - Linkage analysis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/mp.2011.52
+  title: 'APOE and Alzheimer disease: a major gene with semi-dominant inheritance'
+  authors:
+  - E Genin
+  - D Hannequin
+  - D Wallon
+  - K Sleegers
+  - M Hiltunen
+  - O Combarros
+  - M J Bullido
+  - S Engelborghs
+  - P De Deyn
+  - C Berr
+  - F Pasquier
+  - B Dubois
+  - G Tognoni
+  - "N Fi\xE9vet"
+  - N Brouwers
+  - K Bettens
+  - B Arosio
+  - E Coto
+  - M Del Zompo
+  - I Mateo
+  - J Epelbaum
+  - A Frank-Garcia
+  - S Helisalmi
+  - E Porcellini
+  - A Pilotto
+  - P Forti
+  - R Ferri
+  - E Scarpini
+  - G Siciliano
+  - V Solfrizzi
+  - S Sorbi
+  - G Spalletta
+  - F Valdivieso
+  - "S Veps\xE4l\xE4inen"
+  - V Alvarez
+  - P Bosco
+  - M Mancuso
+  - F Panza
+  - B Nacmias
+  - "P Boss\xF9"
+  - O Hanon
+  - P Piccardi
+  - G Annoni
+  - D Seripa
+  - D Galimberti
+  - F Licastro
+  - H Soininen
+  - J-F Dartigues
+  - M I Kamboh
+  - C Van Broeckhoven
+  - J C Lambert
+  - P Amouyel
+  - D Campion
+  publisher: Molecular Psychiatry
+  date: '2011-05-10'
+  link: https://doi.org/dq5nzn
+  tags:
+  - APOE
+  - genetics
+  - lifetime risks
+  - epidemiology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.31194
+  title: "Replication study of genome\u2010wide associated SNPs with late\u2010onset\
+    \ Alzheimer's disease"
+  authors:
+  - L.C. Burns
+  - R.L. Minster
+  - F.Y. Demirci
+  - M.M. Barmada
+  - M. Ganguli
+  - O.L. Lopez
+  - S.T. DeKosky
+  - M.I. Kamboh
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2011-04-07'
+  link: https://doi.org/c66rq4
+  image: images/papers/doi_10.1002_ajmg.b.31194.png
+  tags:
+  - Alzheimer's disease
+  - genome-wide association studies
+  - replication
+  - age-at-onset
+  - disease duration
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.801
+  title: Common variants at MS4A4/MS4A6E, CD2AP, CD33 and EPHA1 are associated with
+    late-onset Alzheimer's disease
+  authors:
+  - Adam C Naj
+  - Gyungah Jun
+  - Gary W Beecham
+  - Li-San Wang
+  - Badri Narayan Vardarajan
+  - Jacqueline Buros
+  - Paul J Gallins
+  - Joseph D Buxbaum
+  - Gail P Jarvik
+  - Paul K Crane
+  - Eric B Larson
+  - Thomas D Bird
+  - Bradley F Boeve
+  - Neill R Graff-Radford
+  - Philip L De Jager
+  - Denis Evans
+  - Julie A Schneider
+  - Minerva M Carrasquillo
+  - Nilufer Ertekin-Taner
+  - Steven G Younkin
+  - Carlos Cruchaga
+  - John S K Kauwe
+  - Petra Nowotny
+  - Patricia Kramer
+  - John Hardy
+  - Matthew J Huentelman
+  - Amanda J Myers
+  - Michael M Barmada
+  - F Yesim Demirci
+  - Clinton T Baldwin
+  - Robert C Green
+  - Ekaterina Rogaeva
+  - Peter St George-Hyslop
+  - Steven E Arnold
+  - Robert Barber
+  - Thomas Beach
+  - Eileen H Bigio
+  - James D Bowen
+  - Adam Boxer
+  - James R Burke
+  - Nigel J Cairns
+  - Chris S Carlson
+  - Regina M Carney
+  - Steven L Carroll
+  - Helena C Chui
+  - David G Clark
+  - Jason Corneveaux
+  - Carl W Cotman
+  - Jeffrey L Cummings
+  - Charles DeCarli
+  - Steven T DeKosky
+  - Ramon Diaz-Arrastia
+  - Malcolm Dick
+  - Dennis W Dickson
+  - William G Ellis
+  - Kelley M Faber
+  - Kenneth B Fallon
+  - Martin R Farlow
+  - Steven Ferris
+  - Matthew P Frosch
+  - Douglas R Galasko
+  - Mary Ganguli
+  - Marla Gearing
+  - Daniel H Geschwind
+  - Bernardino Ghetti
+  - John R Gilbert
+  - Sid Gilman
+  - Bruno Giordani
+  - Jonathan D Glass
+  - John H Growdon
+  - Ronald L Hamilton
+  - Lindy E Harrell
+  - Elizabeth Head
+  - Lawrence S Honig
+  - Christine M Hulette
+  - Bradley T Hyman
+  - Gregory A Jicha
+  - Lee-Way Jin
+  - Nancy Johnson
+  - Jason Karlawish
+  - Anna Karydas
+  - Jeffrey A Kaye
+  - Ronald Kim
+  - Edward H Koo
+  - Neil W Kowall
+  - James J Lah
+  - Allan I Levey
+  - Andrew P Lieberman
+  - Oscar L Lopez
+  - Wendy J Mack
+  - Daniel C Marson
+  - Frank Martiniuk
+  - Deborah C Mash
+  - Eliezer Masliah
+  - Wayne C McCormick
+  - Susan M McCurry
+  - Andrew N McDavid
+  - Ann C McKee
+  - Marsel Mesulam
+  - Bruce L Miller
+  - Carol A Miller
+  - Joshua W Miller
+  - Joseph E Parisi
+  - Daniel P Perl
+  - Elaine Peskind
+  - Ronald C Petersen
+  - Wayne W Poon
+  - Joseph F Quinn
+  - Ruchita A Rajbhandary
+  - Murray Raskind
+  - Barry Reisberg
+  - John M Ringman
+  - Erik D Roberson
+  - Roger N Rosenberg
+  - Mary Sano
+  - Lon S Schneider
+  - William Seeley
+  - Michael L Shelanski
+  - Michael A Slifer
+  - Charles D Smith
+  - Joshua A Sonnen
+  - Salvatore Spina
+  - Robert A Stern
+  - Rudolph E Tanzi
+  - John Q Trojanowski
+  - Juan C Troncoso
+  - Vivianna M Van Deerlin
+  - Harry V Vinters
+  - Jean Paul Vonsattel
+  - Sandra Weintraub
+  - Kathleen A Welsh-Bohmer
+  - Jennifer Williamson
+  - Randall L Woltjer
+  - Laura B Cantwell
+  - Beth A Dombroski
+  - Duane Beekly
+  - Kathryn L Lunetta
+  - Eden R Martin
+  - M Ilyas Kamboh
+  - Andrew J Saykin
+  - Eric M Reiman
+  - David A Bennett
+  - John C Morris
+  - Thomas J Montine
+  - Alison M Goate
+  - Deborah Blacker
+  - Debby W Tsuang
+  - Hakon Hakonarson
+  - Walter A Kukull
+  - Tatiana M Foroud
+  - Jonathan L Haines
+  - Richard Mayeux
+  - Margaret A Pericak-Vance
+  - Lindsay A Farrer
+  - Gerard D Schellenberg
+  publisher: Nature Genetics
+  date: '2011-04-03'
+  link: https://doi.org/c4z45v
+  image: images/papers/doi_10.1038_ng.801.png
+  tags:
+  - Alzheimer's disease
+  - Genetic predisposition to disease
+  - Genome-wide association studies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1001323
+  title: "Differential Genetic Associations for Systemic Lupus Erythematosus Based\
+    \ on Anti\u2013dsDNA Autoantibody Production"
+  authors:
+  - Sharon A. Chung
+  - Kimberly E. Taylor
+  - Robert R. Graham
+  - Joanne Nititham
+  - Annette T. Lee
+  - Ward A. Ortmann
+  - Chaim O. Jacob
+  - "Marta E. Alarc\xF3n-Riquelme"
+  - Betty P. Tsao
+  - John B. Harley
+  - Patrick M. Gaffney
+  - Kathy L. Moser
+  - Michelle Petri
+  - F. Yesim Demirci
+  - M. Ilyas Kamboh
+  - Susan Manzi
+  - Peter K. Gregersen
+  - Carl D. Langefeld
+  - Timothy W. Behrens
+  - Lindsey A. Criswell
+  publisher: PLoS Genetics
+  date: '2011-03-03'
+  link: https://doi.org/dsrcnv
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1001323/1/pgen.1001323.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251026T000022Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=782e0d06f8aa84c9ec85c3027014691e234539b5ed886a07836635eaeea63b9d6494a0f20bccc3ebe0a1190df1be2a6a277af2ac08c48757a0ad5eb5e3cd6175daf5a4b0b524eda9fadc995fd9e88a6788aafab9a2258924b9a1ab19c9a5e7b32fe86a6b3983c4ea509a26b5b7726860256d5de5a9ea18985fc77edff4947d036064ca00563e76c6d08b09d448a16981b3d4299780190b87a2ab2d9828e5b2b528d2798aa8ec51c0344e91eee5c7df31e36563f3fdeec3bfc4a657ff35dae26206be495aa61734ac5fbbb0111a685980ff2feebe5a79a226b6f257d86b9959460ef8020e6c841a2bd78eb8e3d48598222fd980735902ef5a3c8f6f30c7c83414
+  tags:
+  - Systemic lupus erythematosus
+  - Autoantibodies
+  - Single nucleotide polymorphisms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1001311
+  title: Risk Alleles for Systemic Lupus Erythematosus in a Large Case-Control Collection
+    and Associations with Clinical Subphenotypes
+  authors:
+  - Kimberly E. Taylor
+  - Sharon A. Chung
+  - Robert R. Graham
+  - Ward A. Ortmann
+  - Annette T. Lee
+  - Carl D. Langefeld
+  - Chaim O. Jacob
+  - M. Ilyas Kamboh
+  - "Marta E. Alarc\xF3n-Riquelme"
+  - Betty P. Tsao
+  - Kathy L. Moser
+  - Patrick M. Gaffney
+  - John B. Harley
+  - Michelle Petri
+  - Susan Manzi
+  - Peter K. Gregersen
+  - Timothy W. Behrens
+  - Lindsey A. Criswell
+  publisher: PLoS Genetics
+  date: '2011-02-17'
+  link: https://doi.org/ck8bn3
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1001311/1/pgen.1001311.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251026T000206Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=88a2f93723f23134b2c4b903a18e39affb451ce9ab23e3ea55203160edc7bc8e40f7f05aa5ec5635b94d7281b5c4f7278c31b706af392c0d18ef46bc39bf68d24ceb5ffca8ddfa1ce050d53dc239fa5fd905b74ed3ccdaa1a145f457a75a394e5f523a74e53358464fb117470d6f5a69489a3a8eeba9a7345b1210248ca7beb4265f605efec4f672ef7da3a4a797d88029dc2b3fa86520d56598d67d0deac289275dcc0d7f4b531537b7268fc2f5884329c6186cd2f74dfa462b18e7cd5064b6ac764cea9541df0199088039ab1121a73aa2174e66a99266f6e2327264bb7d5adf96096eb724c8f15303b1f3eaf81500928769925c2483d992e3d5bf7ccc670b
+  tags:
+  - Single nucleotide polymorphisms
+  - Systemic lupus erythematosus
+  - Genetic loci
+  - Antibodies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.100728
+  title: Functional Polymorphisms of the Coagulation Factor II Gene (<i>F2</i>) and
+    Susceptibility to Systemic Lupus Erythematosus
+  authors:
+  - F. YESIM K. DEMIRCI
+  - AMY S. DRESSEN
+  - CANDACE M. KAMMERER
+  - M. MICHAEL BARMADA
+  - AMY H. KAO
+  - ROSALIND RAMSEY-GOLDMAN
+  - SUSAN MANZI
+  - M. ILYAS KAMBOH
+  publisher: The Journal of Rheumatology
+  date: '2011-01-15'
+  link: https://doi.org/fp7vwr
+  tags:
+  - LUPUS
+  - PROTHROMBIN
+  - F2
+  - POLYMORPHISM
+  - A19911G
+  - G20210A
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2350-12-7
+  title: Association analysis of PON2 genetic variants with serum paraoxonase activity
+    and systemic lupus erythematosus
+  authors:
+  - Sudeshna Dasgupta
+  - F Yesim Demirci
+  - Amy S Dressen
+  - Amy H Kao
+  - Elisa Y Rhew
+  - Rosalind Ramsey-Goldman
+  - Susan Manzi
+  - Candace M Kammerer
+  - M Ilyas Kamboh
+  publisher: BMC Medical Genetics
+  date: '2011-01-11'
+  link: https://doi.org/dj72wc
+  image: images/papers/doi_10.1186_1471-2350-12-7.png
+  tags:
+  - Systemic Lupus Erythematosus
+  - Lupus Nephritis
+  - Modest Association
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/archgenpsychiatry.2010.184
+  title: Maintenance Treatment of Depression in Old Age
+  authors:
+  - Charles F. Reynolds
+  - Meryl A. Butters
+  - Oscar Lopez
+  - Bruce G. Pollock
+  - Mary Amanda Dew
+  - Benoit H. Mulsant
+  - Eric J. Lenze
+  - Margo Holm
+  - Joan C. Rogers
+  - Sati Mazumdar
+  - Patricia R. Houck
+  - Amy Begley
+  - Stewart Anderson
+  - Jordan F. Karp
+  - Mark D. Miller
+  - Ellen M. Whyte
+  - Jacqueline Stack
+  - Ariel Gildengers
+  - Katalin Szanto
+  - Salem Bensasi
+  - Daniel I. Kaufer
+  - M. Ilyas Kamboh
+  - Steven T. DeKosky
+  publisher: Archives of General Psychiatry
+  date: '2011-01-03'
+  link: https://doi.org/bzk9xq
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/psych/5307/yoa05065f3.png?Expires=1764542784&Signature=0aPg2MIsUka2UJOAflr-3X9yvgLrnmXHzgAtRHXL8KScevkqorO0knWLI9RSKU8BW42JlWGh7uYZQrNKLV~wHWLgOgXxFlpztNJ0EsbcKBdMB6tNUzhzflCJ4aPJvfZgNuwXRXwFNowC6ns~yqmIoLbsklUl0BvtER6-3dAwzv-lXa0lc~ZqQnvLruBas6fKwKn6ubUH9NstyVLkpIyrGtFfg0mq5RtkrptrebV-bUgTaqLJoZZbuASVZy5tA~xEE2v7FPYELFMISylilgpMzvtvGqpTTYTcTXZ4L52OJVaA7Kh3o9SwFGGDSu-YhyLvd9LKU733Wrsokn5FDFwl9Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/archneurol.2010.346
+  title: Meta-analysis of the Association Between Variants in SORL1 and Alzheimer
+    Disease
+  authors:
+  - Christiane Reitz
+  publisher: Archives of Neurology
+  date: '2011-01-01'
+  link: https://doi.org/fhrv2x
+  image: https://cdn.jamanetwork.com/ama/content_public/journal/neur/7798/noc05038f3.png?Expires=1763684901&Signature=ATe7Yq4PeGAy3d96C5eyv0JQE3U7n75q22vihiKvl3vtNc7N-UPxzhENm12PIHY9xhkt5xImAw4hafrN2-sXejYs9bYfSVtO3oEhkbc06z1lkyNYoJNT~S54fI10Q0etZX6~WNrowDikIddEht7Z-dDO2K329b9GN1T0S0R0DFTXRhlFXH4uo-lhSNWkv0qFmKDrNub37X32265kwrCIKz~2fT~OxRvrjakPJwRgQgupEchiyRI6~B5ejumtUYh4-7eJSqnSItJOvKWPYnn4nKA5zAjFxoPRg5FahWsNRUp8gUodHddGsMIARjjx9W865j2Fzh7n86hva6tVwdwj~A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - SORL1
+  - SORLA
+  - LR11
+  - Alzheimer's disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3109/02699052.2010.520299
+  title: APOE genetic associations with seizure development after severe traumatic
+    brain injury
+  authors:
+  - Megan A. Miller
+  - Yvette Conley
+  - Joelle M. Scanlon
+  - Dianxu Ren
+  - M. Ilyas Kamboh
+  - Christian Niyonkuru
+  - Amy K. Wagner
+  publisher: Brain Injury
+  date: '2010-10-20'
+  link: https://doi.org/dbsmkp
+  image: images/papers/doi_10.3109_02699052.2010.520299.png
+  tags:
+  - Traumatic brain injury
+  - post-traumatic seizures
+  - APOE
+  - genetic susceptibility
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/JAD-2010-100933
+  title: 'The CALHM1 P86L Polymorphism is a Genetic Modifier of Age at Onset in Alzheimer''s
+    Disease: a Meta-Analysis Study'
+  authors:
+  - Jean-Charles Lambert
+  - Kristel Sleegers
+  - "Antonio Gonz\xE1lez-P\xE9rez"
+  - Martin Ingelsson
+  - Gary W. Beecham
+  - Mikko Hiltunen
+  - Onofre Combarros
+  - Maria J. Bullido
+  - Nathalie Brouwers
+  - Karolien Bettens
+  - Claudine Berr
+  - Florence Pasquier
+  - Florence Richard
+  - Steven T. DeKosky
+  - Didier Hannequin
+  - Jonathan L. Haines
+  - Gloria Tognoni
+  - "Nathalie Fi\xE9vet"
+  - "Jean-Fran\xE7ois Dartigues"
+  - Christophe Tzourio
+  - Sebastiaan Engelborghs
+  - Beatrice Arosio
+  - Elicer Coto
+  - Peter De Deyn
+  - Maria Del Zompo
+  - Ignacio Mateo
+  - Merce Boada
+  - Carmen Antunez
+  - Jesus Lopez-Arrieta
+  - Jacques Epelbaum
+  - Brit-Maren Michaud Schjeide
+  - Ana Frank-Garcia
+  - Vilmentas Giedraitis
+  - Seppo Helisalmi
+  - Elisa Porcellini
+  - Alberto Pilotto
+  - Paola Forti
+  - Raffaele Ferri
+  - Marc Delepine
+  - Diana Zelenika
+  - Mark Lathrop
+  - Elio Scarpini
+  - Gabriele Siciliano
+  - Vincenzo Solfrizzi
+  - Sandro Sorbi
+  - Gianfranco Spalletta
+  - Giovanni Ravaglia
+  - Fernando Valdivieso
+  - "Saila Veps\xE4l\xE4inen"
+  - Victoria Alvarez
+  - Paolo Bosco
+  - Michelangelo Mancuso
+  - Francesco Panza
+  - Benedetta Nacmias
+  - "Paola Boss\xF9"
+  - Olivier Hanon
+  - Paola Piccardi
+  - Giorgio Annoni
+  - David Mann
+  - Philippe Marambaud
+  - Davide Seripa
+  - Daniela Galimberti
+  - Rudolph E Tanzi
+  - Lars Bertram
+  - Corinne Lendon
+  - Lars Lannfelt
+  - Federico Licastro
+  - Dominique Campion
+  - Margaret A. Pericak-Vance
+  - Hilkka Soininen
+  - Christine Van Broeckhoven
+  - "Annick Alp\xE9rovitch"
+  - Agustin Ruiz
+  - M. Ilyas Kamboh
+  - Philippe Amouyel
+  publisher: Journal of Alzheimer's Disease
+  date: '2010-09-28'
+  link: https://doi.org/f94d66
+  tags:
+  - Age at onset
+  - "Alzheimer\u2019s disease"
+  - apolipoprotein E
+  - CALHM1
+  - polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/JAD-2010-100630
+  title: Is the Urea Cycle Involved in Alzheimer's Disease?
+  authors:
+  - Franck Hansmannel
+  - Adeline Sillaire
+  - M. Ilyas Kamboh
+  - Corinne Lendon
+  - Florence Pasquier
+  - Didier Hannequin
+  - Geoffroy Laumet
+  - Anais Mounier
+  - Anne-Marie Ayral
+  - Steven T. DeKosky
+  - Jean-Jacques Hauw
+  - Claudine Berr
+  - David Mann
+  - Philippe Amouyel
+  - Dominique Campion
+  - Jean-Charles Lambert
+  publisher: Journal of Alzheimer's Disease
+  date: '2010-09-02'
+  link: https://doi.org/g9qxps
+  image: images/papers/doi_10.3233_JAD-2010-100630.png
+  tags:
+  - ammonium
+  - arginase
+  - citrulline NO cycle
+  - nitric oxide
+  - polyamines
+  - urea cycle
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijcard.2008.12.121
+  title: Association of Three Lipoprotein Lipase Polymorphisms with Coronary Artery
+    Disease in Chinese and Asian Indians
+  authors:
+  - Chew-Kiat Heng
+  - Xuelian He
+  - Nilmani Saha
+  - Poh S. Low
+  - F. Yesim Demirci
+  - M. Ilyas Kamboh
+  publisher: International Journal of Cardiology
+  date: '2010-09-01'
+  link: https://doi.org/dcfsqk
+  tags:
+  - Polymorphism
+  - Coronary artery disease
+  - Susceptibility
+  - Haplotype
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1939-3938.2009.01064.x
+  title: Chronic traumatic encephalopathy (CTE) in a National Football League Player
+  authors:
+  - Bennet I. Omalu
+  - Ronald L. Hamilton
+  - Ilyas M. Kamboh
+  - Steven T. DeKosky
+  - Julian Bailes
+  publisher: Journal of Forensic Nursing
+  date: '2010-03-01'
+  link: https://doi.org/ctdtsp
+  tags:
+  - Chronic traumatic encephalopathy
+  - football players
+  - forensic nursing
+  - National Football League
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1742-4658.2009.07538.x
+  title: "Functional and genetic characterization of the promoter region of apolipoprotein\
+    \ H (\u03B2<sub>2</sub>\u2010glycoprotein I)"
+  authors:
+  - Sangita Suresh
+  - F. Yesim Demirci
+  - Iliya Lefterov
+  - Candace M. Kammerer
+  - "Rosalind Ramsey\u2010Goldman"
+  - Susan Manzi
+  - M. Ilyas Kamboh
+  publisher: The FEBS Journal
+  date: '2010-01-27'
+  link: https://doi.org/dpkf6x
+  image: images/papers/doi_10.1111_j.1742-4658.2009.07538.x.png
+  tags:
+  - APOH
+  - polymorphisms
+  - promoter
+  - "\u03B22-glycoprotein I"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000273732
+  title: A Likelihood-Based Approach for Missing Genotype Data
+  authors:
+  - "Gina M. D\u2019Angelo"
+  - M. Ilyas Kamboh
+  - Eleanor Feingold
+  publisher: Human Heredity
+  date: '2010-01-01'
+  link: https://doi.org/b4sv79
+  tags:
+  - Missing data
+  - SNPs
+  - Logistic regression
+  - Likelihood-based methods
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.30986
+  title: "Sexually dimorphic effect of the Val66Met polymorphism of <i>BDNF</i> on\
+    \ susceptibility to Alzheimer's disease: New data and meta\u2010analysis"
+  authors:
+  - Noriko Fukumoto
+  - Takashi Fujii
+  - Onofre Combarros
+  - M. Ilyas Kamboh
+  - "Shin\u2010Jen Tsai"
+  - Sachio Matsushita
+  - Benedetta Nacmias
+  - David E. Comings
+  - Humberto Arboleda
+  - Martin Ingelsson
+  - Bradley T. Hyman
+  - Hiroyasu Akatsu
+  - Andrew Grupe
+  - Agnes Lumi Nishimura
+  - Mayana Zatz
+  - Kari M. Mattila
+  - Juha Rinne
+  - "Yu\u2010ichi Goto"
+  - Takashi Asada
+  - Shun Nakamura
+  - Hiroshi Kunugi
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2009-12-21'
+  link: https://doi.org/d9t5s2
+  tags:
+  - brain-derived neurotrophic factor (BDNF)
+  - meta-analysis
+  - polymorphism
+  - sex difference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000268019
+  title: Association of a Common &lt;i&gt;G6PC2&lt;/i&gt; Variant with Fasting Plasma
+    Glucose Levels in Non-Diabetic Individuals
+  authors:
+  - F.Y. Demirci
+  - A.S. Dressen
+  - R.F. Hamman
+  - C.H. Bunker
+  - C.M. Kammerer
+  - M.I. Kamboh
+  publisher: Annals of Nutrition and Metabolism
+  date: '2009-12-18'
+  link: https://doi.org/cm7hvx
+  tags:
+  - Fasting plasma glucose
+  - G6PC2
+  - Single nucleotide polymorphism
+  - rs560887
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2008.01.006
+  title: No association of DAPK1 and ABCA2 SNPs on chromosome 9 with Alzheimer's disease
+  authors:
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2009-11-01'
+  link: https://doi.org/dp8q8b
+  tags:
+  - DAPK1
+  - ABCA2
+  - Chromosome 9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbalip.2009.06.003
+  title: "Identification and characterization of a novel 5\_bp deletion in a putative\
+    \ insulin response element in the lipoprotein lipase gene"
+  authors:
+  - Li-Xia Yang
+  - Hamid Razzaghi
+  - John E. Hokanson
+  - M. Ilyas Kamboh
+  publisher: Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids
+  date: '2009-11-01'
+  link: https://doi.org/fvx65g
+  image: images/papers/doi_10.1016_j.bbalip.2009.06.003.png
+  tags:
+  - Lipoprotein lipase
+  - Exon 10 mutation
+  - Electrophoretic mobility shift assay
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.30896
+  title: "Evidence supporting a role for the calcium\u2010sensing receptor in Alzheimer\
+    \ disease"
+  authors:
+  - Yvette P. Conley
+  - Ankur Mukherjee
+  - Candace Kammerer
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  - David N. Finegold
+  - Robert E. Ferrell
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2009-06-15'
+  link: https://doi.org/cvcp53
+  image: images/papers/doi_10.1002_ajmg.b.30896.png
+  tags:
+  - CASR
+  - calcium dysregulation
+  - APOE
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/humu.20989
+  title: No association between<i>CALHM1</i>variation and risk of Alzheimer disease
+  authors:
+  - Ryan L. Minster
+  - F. Yesim Demirci
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Human Mutation
+  date: '2009-04-01'
+  link: https://doi.org/cfdnzg
+  tags:
+  - CALHM1
+  - genetic
+  - association
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/mp.2009.10
+  title: Transcriptomic and genetic studies identify IL-33 as a candidate gene for
+    Alzheimer's disease
+  authors:
+  - J Chapuis
+  - D Hot
+  - F Hansmannel
+  - O Kerdraon
+  - S Ferreira
+  - C Hubans
+  - C A Maurage
+  - L Huot
+  - F Bensemain
+  - G Laumet
+  - A M Ayral
+  - N Fievet
+  - J J Hauw
+  - S T DeKosky
+  - Y Lemoine
+  - T Iwatsubo
+  - "F Wavrant-Devri\xE8ze"
+  - J F Dartigues
+  - C Tzourio
+  - "L Bu\xE9e"
+  - F Pasquier
+  - C Berr
+  - D Mann
+  - C Lendon
+  - "A Alp\xE9rovitch"
+  - M I Kamboh
+  - P Amouyel
+  - J C Lambert
+  publisher: Molecular Psychiatry
+  date: '2009-02-10'
+  link: https://doi.org/bm6nfs
+  image: images/papers/doi_10.1038_mp.2009.10.png
+  tags:
+  - IL-33
+  - brain expression
+  - polymorphism
+  - CAA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.080482
+  title: Apolipoprotein H Promoter Polymorphisms in Relation to Lupus and Lupus-related
+    Phenotypes
+  authors:
+  - SANGITA SURESH
+  - F. YESIM K. DEMIRCI
+  - ERIN JACOBS
+  - AMY H. KAO
+  - ELISA Y. RHEW
+  - DHARAMBIR K. SANGHERA
+  - FAITH SELZER
+  - KIM SUTTON-TYRRELL
+  - DAVID McPHERSON
+  - FRANKLIN A. BONTEMPO
+  - CANDACE M. KAMMERER
+  - ROSALIND RAMSEY-GOLDMAN
+  - SUSAN MANZI
+  - M. ILYAS KAMBOH
+  publisher: The Journal of Rheumatology
+  date: '2009-02-01'
+  link: https://doi.org/dqzkdh
+  image: https://www.jrheum.org/content/jrheum/36/2/315/F1.large.jpg
+  tags:
+  - APOLIPOPROTEIN H
+  - "\xDF2-GLYCOPROTEIN I"
+  - PROMOTER
+  - LUPUS ERYTHEMATOSUS
+  - POLYMORPHISM
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3899/jrheum.080262
+  title: Genetic Variation in C-Reactive Protein (CRP) Gene May Be Associated with
+    Risk of Systemic Lupus Erythematosus and CRP Concentrations
+  authors:
+  - P. BETTY SHIH
+  - SUSAN MANZI
+  - PENNY SHAW
+  - MARGARET KENNEY
+  - AMY H. KAO
+  - FRANKLIN BONTEMPO
+  - M. MICHAEL BARMADA
+  - CANDACE KAMMERER
+  - M. ILYAS KAMBOH
+  publisher: The Journal of Rheumatology
+  date: '2008-11-01'
+  link: https://doi.org/cdzd7k
+  tags:
+  - C-REACTIVE PROTEIN
+  - SYSTEMIC LUPUS ERYTHEMATOSUS
+  - GENES
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2007.03.010
+  title: No association of dynamin binding protein (DNMBP) gene SNPs and Alzheimer's
+    disease
+  authors:
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2008-10-01'
+  link: https://doi.org/dkccxx
+  tags:
+  - DNMBP
+  - Chromosome 10
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.30851
+  title: "Association studies of 22 candidate SNPs with late\u2010onset Alzheimer's\
+    \ disease"
+  authors:
+  - Jessica A. Figgins
+  - Ryan L. Minster
+  - F. Yesim Demirci
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2008-09-08'
+  link: https://doi.org/bnphbs
+  tags:
+  - genetics
+  - age-at-onset
+  - disease duration
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.atherosclerosis.2007.12.011
+  title: Functional significance of lipoprotein lipase HindIII polymorphism associated
+    with the risk of coronary artery disease
+  authors:
+  - Qi Chen
+  - Hamid Razzaghi
+  - F. Yesim Demirci
+  - M. Ilyas Kamboh
+  publisher: Atherosclerosis
+  date: '2008-09-01'
+  link: https://doi.org/d86zwq
+  image: images/papers/doi_10.1016_j.atherosclerosis.2007.12.011.png
+  tags:
+  - Lipoprotein lipase
+  - HindIII polymorphism
+  - Electrophoretic mobility shift assay
+  - Luciferase reporter gene assay
+  - Coronary artery disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2008.05.082
+  title: No association of SORL1 SNPs with Alzheimer's disease
+  authors:
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2008-08-01'
+  link: https://doi.org/dpmm2r
+  tags:
+  - genetics
+  - SORL1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.202
+  title: Multiple polymorphisms in the TNFAIP3 region are independently associated
+    with systemic lupus erythematosus
+  authors:
+  - Stacy L Musone
+  - Kimberly E Taylor
+  - Timothy T Lu
+  - Joanne Nititham
+  - Ricardo C Ferreira
+  - Ward Ortmann
+  - Nataliya Shifrin
+  - Michelle A Petri
+  - M Ilyas Kamboh
+  - Susan Manzi
+  - Michael F Seldin
+  - Peter K Gregersen
+  - Timothy W Behrens
+  - Averil Ma
+  - Pui-Yan Kwok
+  - Lindsey A Criswell
+  publisher: Nature Genetics
+  date: '2008-08-01'
+  link: https://doi.org/b264dm
+  image: images/papers/doi_10.1038_ng.202.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2350-9-59
+  title: 'Impact of nine common type 2 diabetes risk polymorphisms in Asian Indian
+    Sikhs: PPARG2 (Pro12Ala), IGF2BP2, TCF7L2 and FTOvariants confer a significant
+    risk'
+  authors:
+  - Dharambir K Sanghera
+  - Lyda Ortega
+  - Shizhong Han
+  - Jairup Singh
+  - Sarju K Ralhan
+  - Gurpreet S Wander
+  - Narinder K Mehra
+  - John J Mulvihill
+  - Robert E Ferrell
+  - Swapan K Nath
+  - Mohammed I Kamboh
+  publisher: BMC Medical Genetics
+  date: '2008-07-03'
+  link: https://doi.org/fnhtwz
+  tags:
+  - Normal Glucose Tolerant
+  - TCF7L2 Gene
+  - Asian Indian Population
+  - Normal Glucose Tolerant Control
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1000084
+  title: Specificity of the STAT4 Genetic Association for Severe Disease Manifestations
+    of Systemic Lupus Erythematosus
+  authors:
+  - Kimberly E. Taylor
+  - Elaine F. Remmers
+  - Annette T. Lee
+  - Ward A. Ortmann
+  - Robert M. Plenge
+  - Chao Tian
+  - Sharon A. Chung
+  - Joanne Nititham
+  - Geoffrey Hom
+  - Amy H. Kao
+  - F. Yesim Demirci
+  - M. Ilyas Kamboh
+  - Michelle Petri
+  - Susan Manzi
+  - Daniel L. Kastner
+  - Michael F. Seldin
+  - Peter K. Gregersen
+  - Timothy W. Behrens
+  - Lindsey A. Criswell
+  publisher: PLoS Genetics
+  date: '2008-05-30'
+  link: https://doi.org/c8hrfx
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pgen.1000084/1/pgen.1000084.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20251027%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20251027T190234Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0c85b31c9af2b0d804d0fe72e7190e39cbe333908ca266dc1ed8dc3290f5ab6832904cba2d49b846fb7abfa48947b4d0c65920583711d4552ac79a28cfefcb7d5bae3d2e1c3ff08434d50246d30153e8036390bcabc9998d667cb8f1e1e914cc00aecbe19cbc9d1f43625d8546a5ac380854d0b3205af97a77c56c9fa3ceff322f87aa3924d7b3c2d74578d72d0d667dd17f8bcad56053eea4df6d28bd8c1cc1cf14da2e41f2baab3cce1add6e6b4c94e97907d6cef8be9c5eb9444083b1847576d6f28d461bf389fa41755e0f73531288f888d750645b5071617a06ba451c554195e2202a9917adb43c0f4e39e16db7af08e5e94b0ad94586bf42a277fcf3cf
+  tags:
+  - Single nucleotide polymorphisms
+  - Systemic lupus erythematosus
+  - Nephritis
+  - Autoantibodies
+  - Europe
+  - Haplotypes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-1809.2008.00443.x
+  title: '<i>TCF7L2</i> Polymorphisms are Associated with Type 2 Diabetes in Khatri
+    Sikhs from North India: <i>Genetic Variation Affects Lipid Levels</i>'
+  authors:
+  - D. K. Sanghera
+  - S. K. Nath
+  - L. Ortega
+  - M. Gambarelli
+  - "X. Kim\u2010Howard"
+  - J. R. Singh
+  - S. K. Ralhan
+  - G. S. Wander
+  - N. K. Mehra
+  - J. J. Mulvihill
+  - M. I. Kamboh
+  publisher: Annals of Human Genetics
+  date: '2008-04-06'
+  link: https://doi.org/b2sgtw
+  image: images/papers/doi_10.1111_j.1469-1809.2008.00443.x.png
+  tags:
+  - TCF7L2
+  - Polymorphisms
+  - Type 2 diabetes
+  - Serum cholesterol
+  - Khatri sikhs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbadis.2008.01.001
+  title: "Recombinant hepatitis B surface antigen and anionic phospholipids share\
+    \ a binding region in the fifth domain of \u03B22-glycoprotein I (apolipoprotein\
+    \ H)"
+  authors:
+  - Haider Mehdi
+  - Asma Naqvi
+  - M. Ilyas Kamboh
+  publisher: Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease
+  date: '2008-03-01'
+  link: https://doi.org/b3tjn7
+  image: images/papers/doi_10.1016_j.bbadis.2008.01.001.png
+  tags:
+  - Hepatitis B surface antigen
+  - "\u03B22-Glycoprotein I"
+  - Apolipoprotein H
+  - Anionic phospholipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa0707865
+  title: "Association of Systemic Lupus Erythematosus with<i>C8orf13\u2013BLK</i>and<i>ITGAM\u2013\
+    ITGAX</i>"
+  authors:
+  - Geoffrey Hom
+  - Robert R. Graham
+  - Barmak Modrek
+  - Kimberly E. Taylor
+  - Ward Ortmann
+  - Sophie Garnier
+  - Annette T. Lee
+  - Sharon A. Chung
+  - Ricardo C. Ferreira
+  - P.V. Krishna Pant
+  - Dennis G. Ballinger
+  - Roman Kosoy
+  - F. Yesim Demirci
+  - M. Ilyas Kamboh
+  - Amy H. Kao
+  - Chao Tian
+  - Iva Gunnarsson
+  - Anders A. Bengtsson
+  - "Solbritt Rantap\xE4\xE4-Dahlqvist"
+  - Michelle Petri
+  - Susan Manzi
+  - Michael F. Seldin
+  - "Lars R\xF6nnblom"
+  - "Ann-Christine Syv\xE4nen"
+  - Lindsey A. Criswell
+  - Peter K. Gregersen
+  - Timothy W. Behrens
+  publisher: New England Journal of Medicine
+  date: '2008-02-28'
+  link: https://doi.org/c88d7n
+  image: images/papers/doi_10.1056_NEJMoa0707865.png
+  tags:
+  - Hepatitis B surface antigen
+  - "\u03B22-Glycoprotein I"
+  - Apolipoprotein H
+  - Anionic phospholipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-1809.2007.00400.x
+  title: "Genetic Variation in the <i>Paraoxonase\u20103 (PON3)</i> Gene is Associated\
+    \ with Serum PON1 Activity"
+  authors:
+  - Dharambir K. Sanghera
+  - Susan Manzi
+  - Ryan L. Minster
+  - Penny Shaw
+  - Amy Kao
+  - Franklin Bontempo
+  - M. Ilyas Kamboh
+  publisher: Annals of Human Genetics
+  date: '2008-01-01'
+  link: https://doi.org/d32bkq
+  image: images/papers/doi_10.1111_j.1469-1809.2007.00400.x.png
+  tags:
+  - Paraoxonase-3
+  - Polymorphisms
+  - Paraoxonase activity
+  - SLE
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/sj.mp.4001974
+  title: "Evidence for the association of the S100\u03B2 gene with low cognitive performance\
+    \ and dementia in the elderly"
+  authors:
+  - J-C Lambert
+  - S Ferreira
+  - J Gussekloo
+  - L Christiansen
+  - G Brysbaert
+  - E Slagboom
+  - D Cottel
+  - T Petit
+  - J-J Hauw
+  - S T DeKosky
+  - F Richard
+  - C Berr
+  - C Lendon
+  - M Ilyas Kamboh
+  - D Mann
+  - K Christensen
+  - R Westendorp
+  - P Amouyel
+  publisher: Molecular Psychiatry
+  date: '2007-03-06'
+  link: https://doi.org/b2xcft
+  image: images/papers/doi_10.1038_sj.mp.4001974.png
+  tags:
+  - "S100\u03B2"
+  - expression
+  - polymorphism
+  - splicing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/neu.2006.0133
+  title: Apolipoprotein E4 Allele Presence and Functional Outcome after Severe Traumatic
+    Brain Injury
+  authors:
+  - Sheila Alexander
+  - Mary E. Kerr
+  - Yookyung Kim
+  - M. Ilyas Kamboh
+  - Sue R. Beers
+  - Yvette P. Conley
+  publisher: Journal of Neurotrauma
+  date: '2007-05-01'
+  link: https://doi.org/c3hgvj
+  image: images/papers/doi_10.1089_neu.2006.0133.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2006.04.005
+  title: Gender-specific association of ATP-binding cassette transporter 1 (ABCA1)
+    polymorphisms with the risk of late-onset Alzheimer's disease
+  authors:
+  - Purnima Desai Sundar
+  - Eleanor Feingold
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2007-06-01'
+  link: https://doi.org/djsq63
+  tags:
+  - ABCA1
+  - Polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-1809.2006.00336.x
+  title: Association of a Common Interferon Regulatory Factor 5 (<i>IRF5</i>) Variant
+    with Increased Risk of Systemic Lupus Erythematosus (SLE)
+  authors:
+  - F. Y. K. Demirci
+  - S. Manzi
+  - "R. Ramsey\u2010Goldman"
+  - R. L. Minster
+  - M. Kenney
+  - P. S. Shaw
+  - "C. M. Dunlop\u2010Thomas"
+  - A. H. Kao
+  - E. Rhew
+  - F. Bontempo
+  - C. Kammerer
+  - M. I. Kamboh
+  publisher: Annals of Human Genetics
+  date: '2006-12-12'
+  link: https://doi.org/dfwp64
+  tags:
+  - interferon regulatory factor 5
+  - IRF5
+  - interferon
+  - lupus
+  - SLE
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1227/01.NEU.0000245601.69451.27
+  title: CHRONIC TRAUMATIC ENCEPHALOPATHY IN A NATIONAL FOOTBALL LEAGUE PLAYER
+  authors:
+  - Bennet I. Omalu
+  - Steven T. DeKosky
+  - Ronald L. Hamilton
+  - Ryan L. Minster
+  - M. Ilyas Kamboh
+  - Abdulrezak M. Shakir
+  - Cyril H. Wecht
+  publisher: Neurosurgery
+  date: '2006-11-01'
+  link: https://doi.org/dw7xpw
+  tags:
+  - Chronic traumatic encephalopathy
+  - National Football League
+  - Professional football players
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2006.08.081
+  title: Lack of association of two chromosome 10q24 SNPs with Alzheimer's disease
+  authors:
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2006-11-01'
+  link: https://doi.org/bbggkp
+  tags:
+  - Chromosome 10
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2005.08.024
+  title: Genetic variation in the choline acetyltransferase (CHAT) gene may be associated
+    with the risk of Alzheimer's disease
+  authors:
+  - Ayla Ozturk
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2006-10-01'
+  link: https://doi.org/d9p4mg
+  tags:
+  - CHAT
+  - Age-at-onset
+  - MMSE
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2006.07.054
+  title: Lack of association of 5 SNPs in the vicinity of the insulin-degrading enzyme
+    (IDE) gene with late-onset Alzheimer's disease
+  authors:
+  - Ayla Ozturk
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2006-10-01'
+  link: https://doi.org/cm4sqz
+  tags:
+  - Genetics
+  - Polymorphisms
+  - Chromosome 10
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2005.07.015
+  title: Alpha-1-antichymotrypsin (ACT or SERPINA3) polymorphism may affect age-at-onset
+    and disease duration of Alzheimer's disease
+  authors:
+  - M. Ilyas Kamboh
+  - Ryan L. Minster
+  - Margaret Kenney
+  - Ayla Ozturk
+  - Purnima P. Desai
+  - Candace M. Kammerer
+  - Steven T. DeKosky
+  publisher: Neurobiology of Aging
+  date: '2006-10-01'
+  link: https://doi.org/bkhd22
+  image: images/papers/doi_10.1016_j.neurobiolaging.2005.07.015.png
+  tags:
+  - ACT
+  - Genetic
+  - Association
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.30403
+  title: "Association of tagSNPs in the urokinase\u2010plasminogen activator (PLAU)\
+    \ gene with Alzheimer's disease and associated quantitative traits"
+  authors:
+  - Ayla Ozturk
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2006-09-11'
+  link: https://doi.org/dt273j
+  tags:
+  - PLAU
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/art.21889
+  title: Relationship of serum paraoxonase 1 activity and paraoxonase 1 genotype to
+    risk of systemic lupus erythematosus
+  authors:
+  - Laura M. Tripi
+  - Susan Manzi
+  - Qi Chen
+  - Margaret Kenney
+  - Penny Shaw
+  - Amy Kao
+  - Franklin Bontempo
+  - Candace Kammerer
+  - M. Ilyas Kamboh
+  publisher: Arthritis &amp; Rheumatism
+  date: '2006-05-25'
+  link: https://doi.org/c6k7mg
+  image: images/papers/doi_10.1002_art.21889.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1353/hub.2006.0027
+  title: 'The Khatri Sikh Diabetes Study (SDS): Study Design, Methodology, Sample
+    Collection, and Initial Results'
+  authors:
+  - Dharambir K. Sanghera
+  - Jaswinder S. Bhatti
+  - Gurjit K. Bhatti
+  - Sarju K. Ralhan
+  - Gurpreet S. Wander
+  - Jai Rup Singh
+  - Clareann H. Bunker
+  - Daniel E. Weeks
+  - M. Ilyas Kamboh
+  - Robert E. Ferrell
+  publisher: Human Biology
+  date: '2006-01-01'
+  link: https://doi.org/bc9cb8
+  tags:
+  - non-insulin-dependent diabetes mellitus
+  - type 2 diabetes
+  - coronary heart disease
+  - Sikh Diabetes Study
+  - Khatri Sikh population
+  - India
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/sj.mp.4001775
+  title: Genetic association of ubiquilin with Alzheimer's disease and related quantitative
+    measures
+  authors:
+  - M I Kamboh
+  - R L Minster
+  - E Feingold
+  - S T DeKosky
+  publisher: Molecular Psychiatry
+  date: '2005-11-22'
+  link: https://doi.org/cvpgpz
+  image: images/papers/doi_10.1038_sj.mp.4001775.png
+  tags:
+  - ubiquilin
+  - chromosome 9
+  - haplotypes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nbd.2005.04.012
+  title: Apolipoprotein D is a component of compact but not diffuse amyloid-beta plaques
+    in Alzheimer's disease temporal cortex
+  authors:
+  - Purnima P. Desai
+  - Milos D. Ikonomovic
+  - Eric E. Abrahamson
+  - Ronald L. Hamilton
+  - Barbara A. Isanski
+  - Caroline E. Hope
+  - William E. Klunk
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Disease
+  date: '2005-11-01'
+  link: https://doi.org/chvfm7
+  image: images/papers/doi_10.1016_j.nbd.2005.04.012.png
+  tags:
+  - Amyloidosis
+  - Apolipoprotein
+  - Astrocyte
+  - Microglia
+  - Neuritic plaque
+  - Neurodegeneration
+  - Temporal cortex
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1529-8817.2005.00211.x
+  title: "Complete DNA Sequence Variation in the Apolipoprotein H (<b>\u03B2</b><sub><b>2</b></sub>\u2010\
+    glycoprotein I) Gene and Identification of Informative SNPs"
+  authors:
+  - Qi Chen
+  - M. Ilyas Kamboh
+  publisher: Annals of Human Genetics
+  date: '2005-10-31'
+  link: https://doi.org/c68h8j
+  image: images/papers/doi_10.1111_j.1529-8817.2005.00211.x.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neurobiolaging.2004.11.001
+  title: Three SNPs in the GSTO1, GSTO2 and PRSS11 genes on chromosome 10 are not
+    associated with age-at-onset of Alzheimer's disease
+  authors:
+  - Ayla Ozturk
+  - Purnima P. Desai
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2005-08-01'
+  link: https://doi.org/ctvxzz
+  tags:
+  - Chromosome 10
+  - Haplotype
+  - Age-at-onset
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2005.01.008
+  title: Investigation of the effect of brain-derived neurotrophic factor (BDNF) polymorphisms
+    on the risk of late-onset Alzheimer's disease (AD) and quantitative measures of
+    AD progression
+  authors:
+  - Purnima Desai
+  - Robert Nebes
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2005-05-01'
+  link: https://doi.org/dtmjzp
+  tags:
+  - BDNF
+  - Polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/01.WNL.0000150892.81839.D1
+  title: "Genetic association between the\n            <i>APOE</i>\n            *\n\
+    \            <i>4</i>\n            allele and Lewy bodies in Alzheimer disease"
+  authors:
+  - D. W. Tsuang
+  - R. K. Wilson
+  - O. L. Lopez
+  - E. K. Luedecking-Zimmer
+  - J. B. Leverenz
+  - S. T. DeKosky
+  - M. I. Kamboh
+  - R. L. Hamilton
+  publisher: Neurology
+  date: '2005-02-08'
+  link: https://doi.org/cwsp6v
+  image: images/papers/doi_10.1212_01.WNL.0000150892.81839.D1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00439-004-1172-0
+  title: Role of an intronic polymorphism in the PDCD1 gene with the risk of sporadic
+    systemic lupus erythematosus and the occurrence of antiphospholipid antibodies
+  authors:
+  - DharambirK. Sanghera
+  - Susan Manzi
+  - Franklin Bontempo
+  - Cara Nestlerode
+  - M.Ilyas Kamboh
+  publisher: Human Genetics
+  date: '2004-08-18'
+  link: https://doi.org/d7knmf
+  tags:
+  - Systemic Lupus Erythematosus
+  - Systemic Lupus Erythematosus Patient
+  - Allele Carrier
+  - African American Sample
+  - Intronic Polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1529-8817.2004.00110.x
+  title: "Molecular Genetics of Late\u2010Onset Alzheimer's Disease"
+  authors:
+  - M. Ilyas Kamboh
+  publisher: Annals of Human Genetics
+  date: '2004-06-28'
+  link: https://doi.org/b3xvvt
+  image: images/papers/doi_10.1046_j.1529-8817.2004.00110.x.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1529-8817.2004.00097.x
+  title: "Single Nucleotide Polymorphisms in the Coding Region of the Apolipoprotein\
+    \ H (\u03B2<sub>2</sub>\u2010Glycoprotein I) Gene and their Correlation with the\
+    \ Protein Polymorphism, Anti\u2010\u03B2<sub>2</sub>Glycoprotein I Antibodies\
+    \ and Cardiolipin Binding: Description of Novel Haplotypes and Their Evolution"
+  authors:
+  - M. Ilyas Kamboh
+  - Dharambir K. Sanghera
+  - Haider Mehdi
+  - Cara S. Nestlerode
+  - Qi Chen
+  - Osama Khalifa
+  - Asma Naqvi
+  - Susan Manzi
+  - Clareann H. Bunker
+  publisher: Annals of Human Genetics
+  date: '2004-06-28'
+  link: https://doi.org/dh3mrf
+  image: images/papers/doi_10.1046_j.1529-8817.2004.00097.x.png
+  tags:
+  - Apolipoprotein H
+  - "\u03B22-Glycoprotein I"
+  - Polymorphisms
+  - Haplotypes
+  - Antiphospholipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00439-003-1040-3
+  title: The impact of factor XIIIa V34L polymorphism on plasma factor XIII activity
+    in the Chinese and Asian Indians from Singapore
+  authors:
+  - Chew-Kiat Heng
+  - Suman Lal
+  - Nilmani Saha
+  - Poh-Sim Low
+  - M. Ilyas Kamboh
+  publisher: Human Genetics
+  date: '2004-01-01'
+  link: https://doi.org/cz5tdf
+  tags:
+  - Polymorphic Site
+  - Indian Female
+  - FXIII Activity
+  - V34L Polymorphism
+  - V34L Variation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gps.1006
+  title: "APOE is associated with age\u2010of\u2010onset, but not cognitive functioning,\
+    \ in late\u2010life depression"
+  authors:
+  - Meryl A. Butters
+  - Robert A. Sweet
+  - Benoit H. Mulsant
+  - M. Ilyas Kamboh
+  - Bruce G. Pollock
+  - Amy E. Begley
+  - Charles F. Reynolds,
+  - Steven T. DeKosky
+  publisher: International Journal of Geriatric Psychiatry
+  date: '2003-12-01'
+  link: https://doi.org/fqp86r
+  image: images/papers/doi_10.1002_gps.1006.png
+  tags:
+  - Apolipoprotein E
+  - geriatric
+  - late-life
+  - depression
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nbd.2003.08.005
+  title: "Functional analysis of plasma \u03B12-macroglobulin from Alzheimer's disease\
+    \ patients with the A2M intronic deletion"
+  authors:
+  - Caroline Hope
+  - Joseph Mettenburg
+  - Steven L Gonias
+  - Steven T DeKosky
+  - M.Ilyas Kamboh
+  - Charleen T Chu
+  publisher: Neurobiology of Disease
+  date: '2003-12-01'
+  link: https://doi.org/bmhbn6
+  image: images/papers/doi_10.1016_j.nbd.2003.08.005.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajpa.10355
+  title: "Population genetics of apolipoproteins A\u2010IV, E, and H, and the angiotensin\
+    \ converting enzyme (ACE): Associations with lipids, and apolipoprotein levels\
+    \ in American Samoans"
+  authors:
+  - Douglas E. Crews
+  - Lori J. Fitton
+  - Bruce A. Kottke
+  - M. Ilyas Kamboh
+  publisher: American Journal of Physical Anthropology
+  date: '2003-11-19'
+  link: https://doi.org/dqpr6v
+  tags:
+  - cholesterol
+  - triglyceride
+  - genotypic variation
+  - cardiovascular disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/aje/kwg230
+  title: Effects of the Hepatic Lipase Gene and Physical Activity on Coronary Heart
+    Disease Risk
+  authors:
+  - John E. Hokanson
+  - M. Ilyas Kamboh
+  - Sharon Scarboro
+  - Robert H. Eckel
+  - Richard F. Hamman
+  publisher: American Journal of Epidemiology
+  date: '2003-11-01'
+  link: https://doi.org/dd3fs5
+  image: images/papers/doi_10.1093_aje_kwg230.png
+  tags:
+  - cohort studies
+  - coronary disease
+  - genetic predisposition to disease
+  - polymorphism (genetics)
+  - risk factors
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/01.CCM.0000080484.72004.C4
+  title: Relationship between apoE4 allele and excitatory amino acid levels after
+    traumatic brain injury
+  authors:
+  - Mary E. Kerr
+  - M. Ilyas Kamboh
+  - Kim Yookyung
+  - Marilyn F. Kraus
+  - Ava M. Puccio
+  - Steven T. DeKosky
+  - Donald W. Marion
+  publisher: Critical Care Medicine
+  date: '2003-09-01'
+  link: https://doi.org/fq4zt2
+  image: images/papers/doi_10.1097_01.CCM.0000080484.72004.C4.png
+  tags:
+  - traumatic brain injury
+  - excitatory amino acids
+  - apolipoprotein; neuromonitoring
+  - cerebrospinal fluid
+  - cerebral ischemia
+  - high-performance liquid chromatography
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(03)00160-6
+  title: APOE polymorphism and angiographic coronary artery disease severity in the
+    Women's Ischemia Syndrome Evaluation (WISE) study
+  authors:
+  - Qi Chen
+  - Steven E. Reis
+  - Candace M. Kammerer
+  - Dennis M. McNamara
+  - Richard Holubkov
+  - Barry L. Sharaf
+  - George Sopko
+  - Daniel F. Pauly
+  - C.Noel Bairey Merz
+  - M.Ilyas Kamboh
+  - WISE study group
+  publisher: Atherosclerosis
+  date: '2003-07-01'
+  link: https://doi.org/bvpchz
+  image: images/papers/doi_10.1016_S0021-9150(03)00160-6.png
+  tags:
+  - Apolipoproteins
+  - Coronary disease
+  - Risk factors
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/01.CIR.0000074207.85796.36
+  title: Genetic Variation in Lectin-Like Oxidized Low-Density Lipoprotein Receptor
+    1 (LOX1) Gene and the Risk of Coronary Artery Disease
+  authors:
+  - Qi Chen
+  - Steven E. Reis
+  - Candace Kammerer
+  - Wendy Y. Craig
+  - Sue E. LaPierre
+  - Erin Luedecking Zimmer
+  - Dennis M. McNamara
+  - Daniel F. Pauly
+  - Barry Sharaf
+  - Richard Holubkov
+  - C. Noel Bairey Merz
+  - George Sopko
+  - Franklin Bontempo
+  - M. Ilyas Kamboh
+  publisher: Circulation
+  date: '2003-07-01'
+  link: https://doi.org/cskb92
+  image: images/papers/doi_10.1161_01.CIR.0000074207.85796.36.png
+  tags:
+  - risk factors
+  - coronary disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/jmg.40.6.424
+  title: "Association of 3\u2032-UTR polymorphisms of the oxidised LDL receptor 1\
+    \ (<i>OLR1</i>) gene with Alzheimer\u2019s disease"
+  authors:
+  - J-C Lambert
+  - E Luedecking-Zimmer
+  - S Merrot
+  - A Hayes
+  - U Thaker
+  - P Desai
+  - A Houzet
+  - X Hermant
+  - D Cottel
+  - A Pritchard
+  - T Iwatsubo
+  - F Pasquier
+  - B Frigard
+  - P M Conneally
+  - M-C Chartier-Harlin
+  - S T DeKosky
+  - C Lendon
+  - D Mann
+  - M I Kamboh
+  - P Amouyel
+  publisher: Journal of Medical Genetics
+  date: '2003-06-01'
+  link: https://doi.org/b2gt2t
+  image: https://jmg-bmj-com.pitt.idm.oclc.org/content/jmedgenet/40/6/424/F2.large.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1469-1809.2003.00023.x
+  title: Cladistic Analysis of Human Apolipoprotein A4 Polymorphisms in Relation to
+    Quantitative Plasma Lipid Risk Factors of Coronary Heart Disease
+  authors:
+  - G. Q. Wang
+  - M. DiPietro
+  - K. Roeder
+  - "C.\u2010K. Heng"
+  - C. H. Bunker
+  - R. F. Hamman
+  - M. I. Kamboh
+  publisher: Annals of Human Genetics
+  date: '2003-03-01'
+  link: https://doi.org/cckbz5
+  image: images/papers/doi_10.1046_j.1469-1809.2003.00023.x.png
+  tags:
+  - Apolipoprotein A4
+  - Polymorphisms
+  - Whites
+  - Hispanics
+  - Blacks
+  - Lipid Profile
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1432-1033.2003.03379.x
+  title: "A functional polymorphism at the transcriptional initiation site in \u03B2\
+    <sub>2</sub>\u2010glycoprotein I (apolipoprotein H) associated with reduced gene\
+    \ expression and lower plasma levels of \u03B2<sub>2</sub>\u2010glycoprotein I"
+  authors:
+  - Haider Mehdi
+  - Susan Manzi
+  - Purnima Desai
+  - Qi Chen
+  - Cara Nestlerode
+  - Franklin Bontempo
+  - Stephen C. Strom
+  - Reza Zarnegar
+  - M. Ilyas Kamboh
+  publisher: European Journal of Biochemistry
+  date: '2003-01-01'
+  link: https://doi.org/dmm75h
+  image: images/papers/doi_10.1046_j.1432-1033.2003.03379.x.png
+  tags:
+  - "\u03B22-glycoprotein I"
+  - apolipoprotein H
+  - anti-phospholipid antibodies
+  - polymorphism
+  - lupus
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1086/345312
+  title: "Association between the Severity of Angiographic Coronary Artery Disease\
+    \ and Paraoxonase Gene Polymorphisms in the National Heart, Lung, and Blood Institute\u2013\
+    Sponsored Women\u2019s Ischemia Syndrome Evaluation (WISE) Study"
+  authors:
+  - Qi Chen
+  - Steven E. Reis
+  - Candace M. Kammerer
+  - Dennis M. McNamara
+  - Richard Holubkov
+  - Barry L. Sharaf
+  - George Sopko
+  - Daniel F. Pauly
+  - C. Noel Bairey Merz
+  - M. Ilyas Kamboh
+  publisher: The American Journal of Human Genetics
+  date: '2003-01-01'
+  link: https://doi.org/cqtcwz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ana.10414
+  title: "Plasma and cerebrospinal fluid \u03B11\u2010antichymotrypsin levels in Alzheimer's\
+    \ disease: Correlation with cognitive impairment"
+  authors:
+  - Steven T. DeKosky
+  - Milos D. Ikonomovic
+  - Xiaoyan Wang
+  - Martin Farlow
+  - Stephen Wisniewski
+  - Oscar L. Lopez
+  - James T. Becker
+  - Judith Saxton
+  - William E. Klunk
+  - Robert Sweet
+  - Daniel I. Kaufer
+  - M. Ilyas Kamboh
+  publisher: Annals of Neurology
+  date: '2002-12-18'
+  link: https://doi.org/b2gdpk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.10798
+  title: "Genetic variation in apolipoprotein D affects the risk of Alzheimer disease\
+    \ in African\u2010Americans"
+  authors:
+  - Purnima P. Desai
+  - Hugh C. Hendrie
+  - Rebecca M. Evans
+  - Jill R. Murrell
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2002-11-27'
+  link: https://doi.org/cmn234
+  tags:
+  - apolipoprotein D
+  - APOD
+  - polymorphisms
+  - African-Americans
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.10026
+  title: "Association of the 3\u2032 UTR transcription factor LBP\u20101c/CP2/LSF\
+    \ polymorphism with late\u2010onset Alzheimer's disease"
+  authors:
+  - "Erin Luedecking\u2010Zimmer"
+  - Steven T. DeKosky
+  - Robert Nebes
+  - M. Ilyas Kamboh
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2002-10-30'
+  link: https://doi.org/chfmrm
+  tags:
+  - chromosome 12
+  - LBP-1c/CP2/LSF transcription factor
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(02)00443-3
+  title: Genetic variation in the cholesterol 24-hydroxylase (CYP46) gene and the
+    risk of Alzheimer's disease
+  authors:
+  - Purnima Desai
+  - Steven T. DeKosky
+  - M.Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2002-08-01'
+  link: https://doi.org/ddkjxk
+  tags:
+  - Cholesterol
+  - Cholesterol 24-hydroxylase
+  - Sporadic late-onset
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(02)00012-6
+  title: Genetic variation in the apolipoprotein D gene among African blacks and its
+    significance in lipid metabolism
+  authors:
+  - Purnima P. Desai
+  - Clareann H. Bunker
+  - Flora A.M. Ukoli
+  - M.Ilyas Kamboh
+  publisher: Atherosclerosis
+  date: '2002-08-01'
+  link: https://doi.org/bh3fpg
+  image: images/papers/doi_10.1016_S0021-9150(02)00012-6.png
+  tags:
+  - Apolipoprotein D
+  - Genetic variation
+  - African blacks
+  - Lipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/s0197-4580(01)00322-0
+  title: "Distribution of plasma \u03B11-antichymotrypsin levels in Alzheimer disease\
+    \ patients and controls and their genetic controls"
+  authors:
+  - Xiaoyan Wang
+  - Steven T DeKosky
+  - Milos D Ikonomovic
+  - M Ilyas Kamboh
+  publisher: Neurobiology of Aging
+  date: '2002-06-01'
+  link: https://doi.org/fnmjxb
+  tags:
+  - "\u03B11-antichymotrypsin"
+  - Plasma level
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:12019933
+  title: The APO E4 allele and cognition in New Mexico Hispanic elderly.
+  authors:
+  - Linda J Romero
+  - Mark Schuyler
+  - M Ilyas Kamboh
+  - Clifford Qualls
+  - Asenath LaRue
+  - Hwa Chi Liang
+  - Robert Rhyne
+  publisher: Ethnicity & disease
+  date: '2002-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12019933
+  tags:
+  - Apolipoprotein E
+  - Hispanic
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S1093-3263(00)00096-6
+  title: "Structure\u2013function analysis of D9N and N291S mutations in human lipoprotein\
+    \ lipase using molecular modelling"
+  authors:
+  - Hamid Razzaghi
+  - Billy W Day
+  - Richard J McClure
+  - M.Ilyas Kamboh
+  publisher: Journal of Molecular Graphics and Modelling
+  date: '2001-12-01'
+  link: https://doi.org/bdjgpv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/1522-2683(200108)22:13<2665::AID-ELPS2665>3.0.CO;2-A
+  title: A highly sensitive and nonradioactive mutation detection method based on
+    vertical gradient temperature single-strand conformation polymorphism
+  authors:
+  - Hamid Razzaghi
+  - M. Ilyas Kamboh
+  publisher: ELECTROPHORESIS
+  date: '2001-08-01'
+  link: https://doi.org/d3vnmf
+  tags:
+  - Single-strand conformation polymorphism
+  - Mutation detection
+  - Gradient temperature
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(01)02033-X
+  title: Genetic polymorphism in the cathepsin G gene and the risk of Alzheimer's
+    disease
+  authors:
+  - Tejal J. Bhojak
+  - Steven T. DeKosky
+  - Mary Ganguli
+  - M.Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2001-08-01'
+  link: https://doi.org/dhr2kc
+  tags:
+  - Cathepsin G
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390100549
+  title: "Chimpanzee apolipoprotein\_H (\u03B22-glycoprotein\_I): report on the gene\
+    \ structure, a common polymorphism, and a high prevalence of antiphospholipid\
+    \ antibodies"
+  authors:
+  - D. Sanghera
+  - C. Nestlerode
+  - R. Ferrell
+  - M. Kamboh
+  publisher: Human Genetics
+  date: '2001-07-01'
+  link: https://doi.org/c45ms9
+  tags:
+  - Anticardiolipin Antibody
+  - Anionic Phospholipid
+  - Complement Control Protein
+  - Recurrent Fetal Loss
+  - Lys210Glu Mutation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1176/appi.ajp.158.6.878
+  title: Relationship of Deep White Matter Hyperintensities and Apolipoprotein E Genotype
+    to Depressive Symptoms in Older Adults Without Clinical Depression
+  authors:
+  - Robert D. Nebes
+  - Illa J. Vora
+  - Carolyn C. Meltzer
+  - Melanie B. Fukui
+  - Robert L. Williams
+  - M. Ilyas Kamboh
+  - Judith Saxton
+  - Patricia R. Houck
+  - Steven T. DeKosky
+  - Charles F. Reynolds
+  publisher: American Journal of Psychiatry
+  date: '2001-06-01'
+  link: https://doi.org/c9p23f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390000445
+  title: "Lack of association between \u03B12-macroglobulin polymorphisms and Alzheimer's\
+    \ disease"
+  authors:
+  - Xiaoyan Wang
+  - Erin Luedecking
+  - Ryan Minster
+  - Mary Ganguli
+  - Steven DeKosky
+  - M. Kamboh
+  publisher: Human Genetics
+  date: '2001-03-01'
+  link: https://doi.org/dh33pp
+  tags:
+  - Allele Frequency
+  - Deletion Polymorphism
+  - Ile1000Val Polymorphism
+  - Intronic Deletion
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1086/316935
+  title: 'Population Structure in Admixed Populations: Effect of Admixture Dynamics
+    on the Pattern of Linkage Disequilibrium'
+  authors:
+  - C.L. Pfaff
+  - E.J. Parra
+  - C. Bonilla
+  - K. Hiester
+  - P.M. McKeigue
+  - M.I. Kamboh
+  - R.G. Hutchinson
+  - R.E. Ferrell
+  - E. Boerwinkle
+  - M.D. Shriver
+  publisher: The American Journal of Human Genetics
+  date: '2001-01-01'
+  link: https://doi.org/bfw874
+  image: images/papers/doi_10.1086_316935.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0895-4356(00)00260-2
+  title: Prospective association of lipoprotein(a) concentrations and apo(a) size
+    with coronary heart disease among men in the Multiple Risk Factor Intervention
+    Trial
+  authors:
+  - Rhobert W Evans
+  - Ofer Shpilberg
+  - B.Jessica Shaten
+  - Shabnam Ali
+  - M.Ilyas Kamboh
+  - Lewis H Kuller
+  publisher: Journal of Clinical Epidemiology
+  date: '2001-01-01'
+  link: https://doi.org/dtv6dn
+  tags:
+  - Lipoprotein(a)
+  - Isoform
+  - Cardiovascular disease
+  - MRFIT
+  - Prospective
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1353/hub.2001.0006
+  title: Genetic Effect of Two APOA Repeat Polymorphisms (Kringle 4 and Pentanucleotide
+    Repeats) on Plasma Lp(a) Levels in American Samoans
+  authors:
+  - Kristin DePrince
+  - Stephen T. McGarvey
+  - Andrea E. McAllister
+  - Linda Bausserman
+  - Christopher E. Aston
+  - Robert E. Ferrell
+  - M. Ilyas Kamboh
+  publisher: Human Biology
+  date: '2001-01-01'
+  link: https://doi.org/cp3ms9
+  image: images/papers/doi_10.1353_hub.2001.0006.png
+  tags:
+  - APOA
+  - LP(A)
+  - Polymorphisms
+  - American Samoans
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/1096-8644(200101)114:1<18::AID-AJPA1002>3.0.CO;2-2
+  title: Ancestral proportions and admixture dynamics in geographically defined African
+    Americans living in South Carolina
+  authors:
+  - E.J. Parra
+  - R.A. Kittles
+  - G. Argyropoulos
+  - C.L. Pfaff
+  - K. Hiester
+  - C. Bonilla
+  - N. Sylvester
+  - D. Parrish-Gause
+  - W.T. Garvey
+  - L. Jin
+  - P.M. McKeigue
+  - M.I. Kamboh
+  - R.E. Ferrell
+  - W.S. Pollitzer
+  - M.D. Shriver
+  publisher: American Journal of Physical Anthropology
+  date: '2001-01-01'
+  link: https://doi.org/bd9tcf
+  image: images/papers/doi_10.1002_1096-8644(200101)114.png
+  tags:
+  - South Carolina
+  - African Americans
+  - admixture
+  - admixture linkage disequilibrium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/WNL.55.12.1854
+  title: "Research evaluation and diagnosis of probable  Alzheimer\u2019s disease\
+    \ over the last two decades: I"
+  authors:
+  - O.L. Lopez
+  - J.T. Becker
+  - W. Klunk
+  - J. Saxton
+  - R.L. Hamilton
+  - D.I. Kaufer
+  - R.A. Sweet
+  - C. Cidis Meltzer
+  - S. Wisniewski
+  - M.I. Kamboh
+  - S.T. DeKosky
+  publisher: Neurology
+  date: '2000-12-26'
+  link: https://doi.org/g98bgq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/1531-8249(200011)48:5<817::AID-ANA22>3.0.CO;2-S
+  title: Genetic association studies of interleukin-1 (IL-1A and IL-1B) and interleukin-1
+    receptor antagonist genes and the risk of Alzheimer's disease
+  authors:
+  - Ryan L. Minster
+  - Steven T. DeKosky
+  - Mary Ganguli
+  - Steven Belle
+  - M. Ilyas Kamboh
+  publisher: Annals of Neurology
+  date: '2000-11-01'
+  link: https://doi.org/fkcmxm
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:11126727
+  title: Apolipoprotein A polymorphisms and plasma lipoprotein(a) concentrations in
+    non-Hispanic Whites and Hispanics.
+  authors:
+  - L Chiu
+  - R F Hamman
+  - M I Kamboh
+  publisher: Human biology
+  date: '2000-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/11126727
+  image: images/papers/pubmed_11126727.png
+  tags:
+  - KRINGLE PENTANUCLEOTIDE REPEATS
+  - PLASMA LP(A)
+  - CHD
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390000367
+  title: Genetic screening of the lipoprotein lipase gene for mutations associated
+    with high triglyceride/low HDL-cholesterol levels
+  authors:
+  - H. Razzaghi
+  - C. E. Aston
+  - R. F. Hamman
+  - M. I. Kamboh
+  publisher: Human Genetics
+  date: '2000-09-25'
+  link: https://doi.org/dznc38
+  image: images/papers/doi_10.1007_s004390000367.png
+  tags:
+  - Lipase
+  - Lipoprotein Lipase
+  - Nonsense Mutation
+  - Mutation Detection
+  - Lipoprotein Particle
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(99)00459-1
+  title: DNA sequence variation in human apolipoprotein C4 gene and its effect on
+    plasma lipid profile
+  authors:
+  - M.Ilyas Kamboh
+  - Christopher E. Aston
+  - Richard F. Hamman
+  publisher: Atherosclerosis
+  date: '2000-09-01'
+  link: https://doi.org/cq5vmk
+  image: images/papers/doi_10.1016_S0021-9150(99)00459-1.png
+  tags:
+  - ApoC-IV
+  - Genetic variation
+  - Lipid
+  - Linkage disequilibrium
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(00)01185-X
+  title: Genetic polymorphisms in the cathespin D and interleukin-6 genes and the
+    risk of Alzheimer's disease
+  authors:
+  - Tejal J Bhojak
+  - Steven T DeKosky
+  - Mary Ganguli
+  - M.Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '2000-07-01'
+  link: https://doi.org/d384wc
+  tags:
+  - Polymorphism
+  - Cathepsin D
+  - Interleukin-6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/archneur.57.6.824
+  title: Apolipoprotein E Polymorphism and Alzheimer Disease
+  authors:
+  - Mary Ganguli
+  - Vijay Chandra
+  - M. Ilyas Kamboh
+  - Janet M. Johnston
+  - Hiroko H. Dodge
+  - B. K. Thelma
+  - Ramesh C. Juyal
+  - Rajesh Pandav
+  - Steven H. Belle
+  - Steven T. DeKosky
+  publisher: Archives of Neurology
+  date: '2000-06-01'
+  link: https://doi.org/dn42t6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390000313
+  title: "Analysis of genetic polymorphisms in the transforming growth factor-\u03B2\
+    1 gene and the risk of Alzheimer's disease"
+  authors:
+  - Erin K. Luedecking
+  - Steven T. DeKosky
+  - Haider Mehdi
+  - Mary Ganguli
+  - M. Ilyas Kamboh
+  publisher: Human Genetics
+  date: '2000-05-01'
+  link: https://doi.org/b3sg6s
+  tags:
+  - APOE Gene
+  - Dual Luciferase Assay
+  - Luciferase Level
+  - Linkage Disequilib
+  - Transform Growth Factor Type
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:10803663
+  title: Plasma lipoprotein(a) distribution and its correlates among Samoans.
+  authors:
+  - M I Kamboh
+  - S T McGarvey
+  - C E Aston
+  - R E Ferrell
+  - L Bausserman
+  publisher: Human biology
+  date: '2000-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10803663
+  tags:
+  - LIPOPROTEIN (A)
+  - SAMOANS
+  - CORRELATION
+  - CHOLESTEROL
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1432-1327.2000.01174.x
+  title: "A hydrophobic sequence at position 313\u2013316 (Leu\u2010Ala\u2010Phe\u2010\
+    Trp) in the fifth domain of apolipoprotein H (\u03B2<sub>2</sub>\u2010glycoprotein\
+    \ I) is crucial for cardiolipin binding"
+  authors:
+  - Haider Mehdi
+  - Asma Naqvi
+  - M. Ilyas Kamboh
+  publisher: European Journal of Biochemistry
+  date: '2000-03-01'
+  link: https://doi.org/djxhkp
+  image: images/papers/doi_10.1046_j.1432-1327.2000.01174.x.png
+  tags:
+  - apolipoprotein H
+  - cardiolipin binding
+  - "\u03B22-glycoprotein I"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/1098-2272(200012)19:4<440::AID-GEPI14>3.0.CO;2-8
+  title: Racial and genetic determinants of plasma factor XIII activity
+  authors:
+  - Nilmani Saha
+  - Christopher E. Aston
+  - Poh S. Low
+  - M. Ilyas Kamboh
+  publisher: Genetic Epidemiology
+  date: '2000-01-01'
+  link: https://doi.org/dg89hv
+  image: images/papers/doi_10.1002_1098-2272(200012)19.png
+  tags:
+  - Factor X III activity
+  - factor X IIIA and B polymorphisms
+  - genetic association
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000026271
+  title: "Relationships between Cerebrovascular Events, APOE Polymorphism and Alzheimer\u2019\
+    s Disease in a Community Sample"
+  authors:
+  - Janet M. Johnston
+  - Valle Nazar-Stewart
+  - Sheryl F. Kelsey
+  - M. Ilyas Kamboh
+  - Mary Ganguli
+  publisher: Neuroepidemiology
+  date: '2000-01-01'
+  link: https://doi.org/chv6f5
+  tags:
+  - Apolipoprotein E
+  - Stroke
+  - Transient ischemic attack
+  - Cerebrovascular disease
+  - Effect modification
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1191/096120399678840909
+  title: "Genetic variation in apolipoprotein H (\u03B22-glycoprotein I) affects the\
+    \                 occurrence of antiphospholipid antibodies and apolipoprotein\
+    \ H concentrations in                 systemic lupus erythematosus"
+  authors:
+  - M Ilyas Kamboh
+  - Susan Manzi
+  - Haider Mehdi
+  - Shirley Fitzgerald
+  - Dharambir K Sanghera
+  - Lewis H Kuller
+  - Christopher E Atson
+  publisher: Lupus
+  date: '1999-11-01'
+  link: https://doi.org/cfwhkz
+  image: images/papers/doi_10.1191_096120399678840909.png
+  tags:
+  - apolipoprotein H
+  - B2-glycoprotein I
+  - SLE
+  - antiphospholipid antibodies
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0022-3476(99)70018-1
+  title: 'Correlates of lipoprotein(a) levels in a biracial cohort of young girls:
+    The NHLBI Growth and Health Study'
+  authors:
+  - Sue Y.S. Kimm
+  - Araxi Pasagian-Macaulay
+  - Christopher E. Aston
+  - Andrea E. McAllister
+  - Nancy W. Glynn
+  - M.Ilyas Kamboh
+  - Robert E. Ferrell
+  publisher: The Journal of Pediatrics
+  date: '1999-08-01'
+  link: https://doi.org/dvc7b2
+  image: images/papers/doi_10.1016_S0022-3476(99)70018-1.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004399900089
+  title: "Genetic variation in the apolipoprotein\_H (\u03B22-glycoprotein\_I) gene\
+    \ affects plasma apolipoprotein\_H concentrations"
+  authors:
+  - H. Mehdi
+  - C.E. Aston
+  - D.K. Sanghera
+  - R.F. Hamman
+  - M.I. Kamboh
+  publisher: Human Genetics
+  date: '1999-06-28'
+  link: https://doi.org/d57chx
+  image: images/papers/doi_10.1007_s004399900089.png
+  tags:
+  - Genotypic Classis
+  - Complement Control Protein
+  - Include Lipid Metabolism
+  - Significant Heteroscedasticity
+  - Valley Diabetes Study
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(99)00129-9
+  title: A novel mutation in the apolipoprotein E gene (APOE*4 Pittsburgh) is associated
+    with the risk of late-onset Alzheimer's disease
+  authors:
+  - M.Ilyas Kamboh
+  - Christopher E Aston
+  - Jordi Perez-Tur
+  - Emre Kokmen
+  - Robert E Ferrell
+  - John Hardy
+  - Steven T DeKosky
+  publisher: Neuroscience Letters
+  date: '1999-03-01'
+  link: https://doi.org/b7nd2q
+  image: images/papers/doi_10.1016_S0304-3940(99)00129-9.png
+  tags:
+  - APOE*4 Pittsburg
+  - Late-onset Alzheimer's disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(99)00025-7
+  title: "Genetic polymorphism in the persyn (\u03B3-synuclein) gene and the risk\
+    \ of Alzheimer's disease"
+  authors:
+  - Erin K. Luedecking
+  - Mary Ganguli
+  - Steven T. Dekosky
+  - M.Ilyas Kamboh
+  publisher: Neuroscience Letters
+  date: '1999-02-01'
+  link: https://doi.org/ftnst6
+  tags:
+  - Persyn
+  - Sporadic late-onset
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/(SICI)1098-2272(1999)16:2<205::AID-GEPI7>3.0.CO;2-P
+  title: Genetic association of five apolipoprotein polymorphisms with serum lipoprotein-lipid
+    levels in African blacks
+  authors:
+  - M. Ilyas Kamboh
+  - Clareann H. Bunker
+  - Christopher E. Aston
+  - Cara S. Nestlerode
+  - Andrea E. McAllister
+  - Flora A. Ukoli
+  publisher: Genetic Epidemiology
+  date: '1999-01-01'
+  link: https://doi.org/cqbdb8
+  tags:
+  - apolipoproteins
+  - polymorphisms
+  - Africans
+  - Nigerians
+  - socioeconomic status
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1046/j.1432-1327.1999.00063.x
+  title: "Structure of the human \u03B2<sub>2</sub>\u2010glycoprotein I (apolipoprotein\
+    \ H) gene*"
+  authors:
+  - Henrik Okkels
+  - Thomas E. Rasmussen
+  - Dharambir K. Sanghera
+  - M. Ilyas Kamboh
+  - Torsten Kristensen
+  publisher: European Journal of Biochemistry
+  date: '1999-01-01'
+  link: https://doi.org/bvc5jn
+  image: images/papers/doi_10.1046_j.1432-1327.1999.00063.x.png
+  tags:
+  - beta-2-glycoprotein I
+  - apolipoprotein H
+  - gene structure
+  - short consensus repeat
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1001/archneur.55.10.1335
+  title: Dopamine Receptor Genetic Variation, Psychosis, and Aggression in Alzheimer
+    Disease
+  authors:
+  - Robert A. Sweet
+  - Vishwajit L. Nimgaonkar
+  - M. Ilyas Kamboh
+  - Oscar L. Lopez
+  - Feng Zhang
+  - Steven T. DeKosky
+  publisher: Archives of Neurology
+  date: '1998-10-01'
+  link: https://doi.org/d2vwk6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ana.410440316
+  title: "Genetic association of two chromosome 14 genes (presenilin 1 and \u03B1\
+    <sub>1</sub>\u2010Antichymotrypsin) with Alzheimer's disease"
+  authors:
+  - Xiaoyan Wang
+  - Steven T. DeKosky
+  - Stephen Wisniewski
+  - Christopher E. Aston
+  - M. Ilyas Kamboh
+  publisher: Annals of Neurology
+  date: '1998-09-01'
+  link: https://doi.org/bqh3wx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/(SICI)1096-9861(19980713)396:4<511::AID-CNE7>3.0.CO;2-4
+  title: 'Expression of differential immune factors in temporal cortex and cerebellum:
+    The role of ?-1-antichymotrypsin, apolipoprotein E, and reactive glia in the progression
+    of Alzheimer''s disease'
+  authors:
+  - Scot D. Styren
+  - M. Ilyas Kamboh
+  - Steven T. Dekosky
+  publisher: The Journal of Comparative Neurology
+  date: '1998-07-13'
+  link: https://doi.org/brbbf5
+  image: images/papers/doi_10.1002_(SICI)1096-9861(19980713)396.png
+  tags:
+  - "\u03B2 amyloid"
+  - microglia
+  - astrocytes
+  - ultrastructural
+  - diffuse plaques
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:9599940
+  title: Apolipoprotein A kringle 4 polymorphism and serum lipoprotein (a) concentrations
+    in African blacks.
+  authors:
+  - S Ali
+  - C H Bunker
+  - C E Aston
+  - F A Ukoli
+  - M I Kamboh
+  publisher: Human biology
+  date: '1998-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9599940
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0304-3940(98)00141-4
+  title: Genetic association studies between Alzheimer's disease and two polymorphisms
+    in the low density lipoprotein receptor-related protein gene
+  authors:
+  - M.Ilyas Kamboh
+  - Robert E Ferrell
+  - Steven T DeKosky
+  publisher: Neuroscience Letters
+  date: '1998-03-01'
+  link: https://doi.org/bknm27
+  tags:
+  - Low density lipoprotein receptor-related protein
+  - Sporadic late-onset
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(97)00230-X
+  title: Racial differences in the distribution of a low density lipoprotein receptor-related
+    protein (LRP) polymorphism and its association with serum lipoprotein, lipid and
+    apolipoprotein levels
+  authors:
+  - Meagan R Harris
+  - Clareann H Bunker
+  - Richard F Hamman
+  - Dharambir K Sanghera
+  - Christopher E Aston
+  - M.Ilyas Kamboh
+  publisher: Atherosclerosis
+  date: '1998-03-01'
+  link: https://doi.org/bvk7d9
+  tags:
+  - LRP
+  - Polymorphism
+  - Lipoprotein-lipids
+  - Apolipoproteins
+  - Blacks
+  - Hispanics
+  - Non-Hispanic whites
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng0398-211
+  title: Bleomycin hydrolase is associated with risk of sporadic Alzheimer's disease
+  authors:
+  - Susana E. Montoya
+  - Christopher E. Aston
+  - Steven T. DeKosky
+  - M. Ilyas Kamboh
+  - John S. Lazo
+  - Robert E. Ferrell
+  publisher: Nature Genetics
+  date: '1998-03-01'
+  link: https://doi.org/dnqpnq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/096120339800700203
+  title: "Genetics of apolipoprotein H (\u03B22-glycoprotein I) and anionic phospholipid\
+    \ binding"
+  authors:
+  - MI Kamboh
+  - H Mehdi
+  publisher: Lupus
+  date: '1998-02-01'
+  link: https://doi.org/fk3cmk
+  image: images/papers/doi_10.1177_096120339800700203.png
+  tags:
+  - apolipoprotein H
+  - "\u03B22-glycoprotein I"
+  - anionic phospholipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(97)00206-2
+  title: The codon 55 polymorphism in the paraoxonase 1 gene is not associated with
+    the risk of coronary heart disease in Asian Indians and Chinese
+  authors:
+  - Dharambir K Sanghera
+  - Nilmani Saha
+  - M.Ilyas Kamboh
+  publisher: Atherosclerosis
+  date: '1998-02-01'
+  link: https://doi.org/cjsrh7
+  tags:
+  - Paraoxonase
+  - Genetic polymorphisms
+  - Asian Indians
+  - Chinese
+  - CHD risk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0037-1615218
+  title: "Heterogeneity and Immunochemical Properties of Anti-\u03B22-glycoprotein\
+    \ I Autoantibodies"
+  authors:
+  - V. Regnault
+  - E. Hachulla
+  - L. Darnige
+  - B. Roussel
+  - J. C. Bensa
+  - J. Arvieux
+  publisher: Thrombosis and Haemostasis
+  date: '1998-01-01'
+  link: https://doi.org/g98g26
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1055/s-0037-1615360
+  title: "The Prevalence of a Non-phospholipid-binding Form of \u03B22-Glycoprotein\
+    \ I in Human Plasma"
+  authors:
+  - Erica van Oort
+  - "Mari\xEBlle Tempelman"
+  - Ronald Derksen
+  - Philip de Groot
+  - "Dani\xEBlle Horbach"
+  publisher: Thrombosis and Haemostasis
+  date: '1998-01-01'
+  link: https://doi.org/g98g27
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000007939
+  title: "Apolipoprotein E Polymorphism in Alzheimer\u2019s Disease: A Comparative\
+    \ Study of Two Research Populations from Spain and the United States"
+  authors:
+  - Oscar L. Lopez
+  - Secundino Lopez-Pousa
+  - M. Ilyas Kamboh
+  - Rosa Adroer
+  - Rafael Oliva
+  - Manuela Lozano-Gallego
+  - James T. Becker
+  - Steven T. DeKosky
+  publisher: European Neurology
+  date: '1998-01-01'
+  link: https://doi.org/c3pbqx
+  tags:
+  - Dementia
+  - Apolipoprotein E
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1086/301669
+  title: DNA Polymorphisms in Two Paraoxonase Genes (PON1 and PON2) Are Associated
+    with the Risk of Coronary Heart Disease
+  authors:
+  - Dharambir K. Sanghera
+  - Christopher E. Aston
+  - Nilmani Saha
+  - M. Ilyas Kamboh
+  publisher: The American Journal of Human Genetics
+  date: '1998-01-01'
+  link: https://doi.org/c8m592
+  image: images/papers/doi_10.1086_301669.png
+  tags:
+  - Polymorphism(s)
+  - Paraoxonase
+  - Asian Indians
+  - Coronary heart disease, risk
+  - PON1 gene
+  - PON2 gene
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000022822
+  title: Genetic Polymorphisms of Apolipoproteins A-IV, E and H in Koreans
+  authors:
+  - Hyun Sup Kim
+  - M. Ilyas Kamboh
+  publisher: Human Heredity
+  date: '1998-01-01'
+  link: https://doi.org/fsz56q
+  image: images/papers/doi_10.1159_000022822.png
+  tags:
+  - APOA-IV
+  - APOE
+  - APOH
+  - Koreans
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:9353975
+  title: Relationship of two apolipoprotein B polymorphisms with serum lipoprotein
+    and lipid levels in African blacks.
+  authors:
+  - J L Anderson
+  - C H Bunker
+  - C E Aston
+  - M I Kamboh
+  publisher: Human biology
+  date: '1997-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9353975
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/WNL.49.3.794
+  title: "The apolipoprotein E \u03F54 allele is not associated with psychiatric symptoms\
+    \ or extrapyramidal signs in probable Alzheimer's disease"
+  authors:
+  - O. L. Lopez
+  - M. I. Kamboh
+  - J. T. Becker
+  - D. I. Kaufer
+  - S. T. DeKosky
+  publisher: Neurology
+  date: '1997-09-01'
+  link: https://doi.org/g98g3b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s004390050465
+  title: "Molecular basis of the apolipoprotein H (\u03B2 2 -glycoprotein I) protein\
+    \ polymorphism"
+  authors:
+  - Dharambir K. Sanghera
+  - Torsten Kristensen
+  - Richard F. Hamman
+  - M. I. Kamboh
+  publisher: Human Genetics
+  date: '1997-06-19'
+  link: https://doi.org/drk9bx
+  tags:
+  - Codon
+  - Missense Mutation
+  - Allele Carrier
+  - Essential Cofactor
+  - Anionic Phospholipid
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(97)06112-1
+  title: Influence of two apo A4 polymorphisms at codons 347 and 360 on non-fasting
+    plasma lipoprotein-lipids and apolipoproteins in asian Indians
+  authors:
+  - N Saha
+  - G Wang
+  - S Vasisht
+  - M.I Kamboh
+  publisher: Atherosclerosis
+  date: '1997-06-01'
+  link: https://doi.org/d4kqv9
+  tags:
+  - apo A4 polymorphisms
+  - Codon 347
+  - Codon 360
+  - North Indians
+  - Non-fasting lipid levels
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/01.ATV.17.6.1067
+  title: Genetic Polymorphism of Paraoxonase and the Risk of Coronary Heart Disease
+  authors:
+  - Dharambir K. Sanghera
+  - Nilmani Saha
+  - Christopher E. Aston
+  - M. Ilyas Kamboh
+  publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
+  date: '1997-06-01'
+  link: https://doi.org/cs28p9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/hmg/6.2.311
+  title: "Identification of Structural Mutations in the Fifth Domain of Apolipoprotein\
+    \ H (\_2-Glycoprotein I) Which Affect Phospholipid Binding"
+  authors:
+  - D. K. Sanghera
+  - D. R. Wagenknecht
+  - J. A. McIntyre
+  - M. I. Kamboh
+  publisher: Human Molecular Genetics
+  date: '1997-02-01'
+  link: https://doi.org/cqm68c
+  tags:
+  - amino acids
+  - glycoproteins
+  - codon nucleotides
+  - heterozygote
+  - homozygote
+  - phospholipids
+  - beta 2-glycoprotein i
+  - binding (molecular function)
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:9066897
+  title: Mitochondrial versus nuclear admixture estimates demonstrate a past history
+    of directional mating.
+  authors:
+  - D A Merriwether
+  - S Huston
+  - S Iyengar
+  - R Hamman
+  - J M Norris
+  - S M Shetterly
+  - M I Kamboh
+  - R E Ferrell
+  publisher: American journal of physical anthropology
+  date: '1997-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/9066897
+  tags:
+  - mtDNA
+  - serological markers
+  - admixture
+  - Hispanics
+  - Amerindians
+  plugin: sources.py
+  file: sources.yaml
