@@ -122,6 +122,7 @@
     - PLA2G6
     - iPLA2
 
+- id: doi:10.2139/ssrn.5375257
 
 # 2024 Publications
 
@@ -1868,3 +1869,434 @@
     - admixture
     - Hispanics
     - Amerindians
+
+- id: doi:10.1002/(SICI)1098-2272(1997)14:2<169::AID-GEPI6>3.0.CO;2-2
+  tags:
+    - APOE
+    - α1-antichymotrypsin
+    - interaction
+    - Caucasians
+    - Nigerian Blacks
+
+# 1996 publications
+
+- id: pubmed:8993481
+
+- id: doi:10.1016/S0021-9150(96)05966-7
+  tags:
+    - Apolipoprotein A-I
+    - Haplotypes
+    - Linkage disequilibrium
+    - Non-smokers
+    - US Whites
+    - +83 bp
+    - −75 bp
+
+- id: doi:10.1016/0021-9150(96)05891-1
+  tags:
+    - Genetic polymorphism
+    - African American disease risk
+    - Plasma lipoproteins
+    - Apolipoprotein E
+    - LDL-cholesterol
+
+- id: pubmed:8838914
+
+- id: doi:10.1093/ajcn/63.1.87
+
+# 1995 publications
+
+- id: doi:10.1016/0021-9150(95)05559-F
+  tags:
+    - Apo(a)
+    - Apo E
+    - Polymorphisms
+    - Lp(a)
+    - Apo B, Apo A-I and cholesterol levels
+    - American Blacks
+
+- id: doi:10.1038/ng0895-486
+
+- id: pubmed:7729825
+
+- id: doi:10.1007/BF00208960
+  tags:
+    - Monoclonal Antibody
+    - Significant Role
+    - Ethnic Group
+    - Metabolic Disease
+
+- id: pubmed:7772075
+
+- id: doi:10.1002/gepi.1370120308
+  tags:
+    - age
+    - apolipoprotein E
+
+# 1994 publications
+
+- id: pubmed:7958503
+
+- id: pubmed:8001911
+
+- id: pubmed:7918311
+
+- id: pubmed:8088751
+
+- id: doi:10.1161/01.ATV.14.5.656
+
+- id: doi:10.1161/01.ATV.14.5.663
+
+- id: doi:10.1016/0009-3084(94)90148-1
+  image: images/papers/doi_10.1016_0009-3084(94)90148-1.png
+  tags:
+    - Apolipoprotein(a)
+    - Polymorphism
+    - Blacks
+    - Whites
+
+# 1993 publications
+
+- id: pubmed:7905375
+
+- id: pubmed:8406412
+
+- id: pubmed:8449482
+
+- id: doi:10.1016/S0022-2275(20)40733-3
+  tags:
+    - polymerase chain reaction
+    - restriction fragment length polymorphism
+    - triglyceride levels
+    - NIDDM
+    - Hispanic Americans
+
+- id: doi:10.1002/ajhb.1310050108
+
+- id: doi:10.1002/elps.11501401165
+  image: images/papers/doi_10.1002_elps.11501401165.png
+
+- id: doi:10.1002/gepi.1370100104
+  tags:
+    - apolipoprotein E phenotype
+    - total cholesterol
+    - LDL cholesterol
+    - age
+
+- id: doi:10.1016/0021-9150(93)90129-I
+  tags:
+    - Apoliproprotein E
+    - Lipoprotein-lipid levels
+    - Hispanics
+    - Non-Hispanics whites
+
+- id: pubmed:8167541
+  tags:
+    - Apo H
+    - Apoliproprotein
+    - Lipoprotein
+    - Chinese
+    - Dravidian Indians
+
+# 1992 publications
+
+- id: doi:10.1007/BF00210773
+  tags:
+    - Polymerase Chain Reaction
+    - Lipase
+    - Polyacrylamide
+    - Metabolic Disease
+
+- id: pubmed:1644427
+
+- id: pubmed:1644426
+
+- id: doi:10.1016/0026-0495(92)90066-J
+
+- id: pubmed:1729885
+
+- id: doi:10.1002/gepi.1370090503
+  tags:
+    - Polymerase Chain Reaction
+    - genotypes
+    - haplotypes
+
+- id: doi:10.1002/gepi.1370090602
+  tags:
+    - Polymerase Chain Reaction
+    - DNA sequencing
+    - Polymorphism
+
+- id: doi:10.1002/elps.11501301185
+
+- id: doi:10.1002/gepi.1370090403
+  tags:
+    - Apolipoprotein E
+    - measured genotype
+    - genetic epidemiology
+    - cardiovascular disease
+
+# 1991 publications
+
+- id: pubmed:1746550
+
+- id: pubmed:1842218
+
+- id: pubmed:1928089
+
+- id: doi:10.1161/01.ATV.11.5.1330
+
+- id: pubmed:2019410
+
+- id: doi:10.1002/ajpa.1330840206
+  tags:
+    - Phenotypic differences
+    - Lipid metabolism
+    - Polynesians
+    - Apolipoprotein polymorphisms
+
+- id: pubmed:1842537
+  tags:
+    - Admixture
+    - Ethnic Variation of Diseases
+    - Measuremental Error
+    - Private Variants
+
+- id: pubmed:1932210
+
+- id: doi:10.1111/j.1399-0004.1991.tb02981.x
+  tags:
+    - APOE
+    - cholesterol
+    - Mayans
+    - polymorphism
+
+- id: doi:10.1159/000153976
+  tags:
+    - Apolipoprotein E
+    - olymorphisms
+    - Apo E methods
+    - Apo E screening
+
+# 1990 publications
+
+- id: doi:10.1007/BF02555885
+  tags:
+    - Alpha2-HS
+    - AHSG
+    - Osteoporosis
+    - Estrogens
+    - Bone measures
+
+- id: doi:10.1002/ajhb.1310020103
+
+- id: doi:10.1002/elps.1150110408
+
+- id: pubmed:2199367
+  tags:
+    - Apolipoproteins
+    - Polymorphisms
+    - Isoelectric focusing
+    - Immunoblotting
+
+- id: pubmed:2344296
+
+- id: pubmed:2365371
+  tags:
+    - Apolipoprotein C-III
+    - Quantitative polymorphism
+    - Mayans
+
+- id: doi:10.1016/S0022-2275(20)42767-1
+
+- id: doi:10.1520/JFS12817J
+
+# 1989 publications
+
+- id: pubmed:2491016
+
+- id: doi:10.1016/S0022-2275(20)38260-2
+
+- id: pubmed:2741945
+  image: images/papers/pubmed_2741945.png
+
+- id: pubmed:2722186
+  tags:
+    - Lipid
+    - Cholesterol
+    - Triglyceride
+    - Total Cholesterol
+    - Lipid Level
+
+- id: pubmed:2591981
+  tags:
+    - Corticosteroid-binding globulin
+    - Transcortin
+    - Variant allele
+
+- id: doi:10.1159/000463078
+  tags:
+    - Complement component Cl
+    - C1R
+    - CIS
+    - Linkage
+    - Population genetics
+
+- id: doi:10.1016/0888-7543(89)90317-0
+  image: images/papers/doi_10.1016_0888-7543(89)90317-0.png
+
+- id: pubmed:2786461
+
+- id: pubmed:2714047
+
+- id: doi:10.1002/gepi.1370060404
+  tags:
+    - APO A-IV phenotypic means
+    - lipids
+    - perimenopausal women
+
+- id: doi:10.1002/gepi.1370060605
+  tags:
+    - apolipoprotein phenotypes
+    - premenopausal women
+    - cardiovascular risk factors
+
+- id: pubmed:2535773
+
+- id: doi:10.1002/elps.1150100113
+
+- id: doi:10.1002/gepi.1370060202
+  tags:
+    - β2-glycoprotein I
+    - lipid
+    - women
+    - lipoprotein
+
+# 1988 publications
+
+- id: pubmed:3198132
+
+- id: pubmed:3143263
+
+- id: doi:10.1016/S0022-2275(20)38431-5
+
+- id: pubmed:3348213
+
+- id: doi:10.1159/000153745
+  tags:
+    - Superoxide dismutase
+    - Isoelectric focusing
+    - Unique allele
+    - Population migration
+    - OD A *2 allele
+
+- id: doi:10.1111/j.1469-1809.1988.tb01074.x
+
+# 1987 publications
+
+- id: pubmed:3661561
+
+- id: pubmed:3631077
+
+- id: doi:10.1111/j.1744-313X.1987.tb00385.x
+
+- id: pubmed:3618592
+  image: images/papers/pubmed_3618592.png
+
+- id: doi:10.1007/BF00498960
+
+- id: doi:10.1159/000153680
+  tags:
+    - Transferrin
+    - Isoelectric focussing
+    - Polymorphism
+    - World distribution
+    - Selection
+
+- id: doi:10.1159/000153721
+  tags:
+    - Alpha-1 acid glycoprotein
+    - Orosomucoid
+    - Isoelectric focusing
+    - Urea
+    - Polymorphism
+
+- id: doi:10.1002/elps.1150080805
+
+# 1986 publications
+
+- id: doi:10.1007/BF00554524
+  tags:
+    - zinc-α2-glycoprotein
+    - isoelectric focusing
+    - immunoblotting
+    - microheterogeneity
+    - genetic variation
+
+- id: pubmed:3026176
+
+- id: pubmed:3467588
+
+- id: doi:10.1007/BF00290950
+  tags:
+    - Human Population
+    - Unique Variant
+    - Distinct Population
+    - Ethnic Variation
+    - Marked Variation
+
+- id: doi:10.1007/BF00502794
+  tags:
+    - immunoblotting
+    - thyroxin-binding globulin
+    - X chromosome
+    - protein polymorphism
+
+- id: doi:10.1378/chest.89.2.206
+  image: images/papers/doi_10.1378_chest.89.2.206.png
+ 
+# 1985 publications
+
+- id: doi:10.1002/elps.1150060408
+
+# 1984 publications
+
+- id: doi:10.1007/BF00291395
+  tags:
+    - Genetic Affinity
+    - Pacific Population
+    - Isoelectric Focussing
+    - Sunda Island
+    - Lesser Sunda Island
+
+- id: doi:10.1016/0009-8981(84)90193-1
+  tags:
+    - Thyroxine-binding globulin
+    - α1 - Antitrypsin
+    - Isoelectric focusing
+
+- id: pubmed:6428221
+
+- id: pubmed:6242530
+
+- id: doi:10.1080/03014468400007081
+
+# 1983 publications
+
+- id: doi:10.1159/000153384
+  tags:
+    - Transferrin C subtypes
+    - New allele
+    - Asia
+    - Pacific
+    - Australia
+    - Population
+
+- id: doi:10.1007/BF00289480
+  tags:
+    - Starch
+    - Internal Medicine
+    - Thin Layer
+    - Polyacrylamide
+    - Metabolic Disease
+

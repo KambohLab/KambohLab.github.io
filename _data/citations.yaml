@@ -715,6 +715,35 @@
   - iPLA2
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2139/ssrn.5375257
+  title: 'Lifespan Estrogen Exposure and Neuroprotection: Timing of Hormone Therapies
+    Modulates Brain Structure in Older Women'
+  authors:
+  - Robyn Honea
+  - Amber Watts
+  - Shannon  D. Donofry
+  - Cristina Molina-Hidalgo
+  - Hayley  S. Ripperger
+  - Sarah  L. Aghjayan
+  - Chaeryon Kang
+  - Swathi Gujral
+  - Lauren  E. Oberlin
+  - George Grove
+  - Haiqing Huang
+  - Bradley  P. Sutton
+  - Jeffrey  M. Burns
+  - Eric Vidoni
+  - Arthur  F. Kramer
+  - Edward McAuley
+  - Charles  H. Hillman
+  - Anna  L. Marsland
+  - M. Ilyas Kamboh
+  - Kirk Erickson
+  publisher: Elsevier BV
+  date: '2025-01-01'
+  link: https://doi.org/g9863k
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1177/13872877241303926
   title: Multimodal neuroimaging biomarkers and subtle cognitive decline in a population-based
     cohort without dementia
@@ -13392,5 +13421,1465 @@
   - admixture
   - Hispanics
   - Amerindians
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/(SICI)1098-2272(1997)14:2<169::AID-GEPI6>3.0.CO;2-2
+  title: "Gender-specific nonrandom association between the \u03B11-antichymotrypsin\
+    \ and apolipoprotein E polymorphisms in the general population and its implication\
+    \ for the risk of Alzheimer's disease"
+  authors:
+  - M. Ilyas Kamboh
+  - Dharambir K. Sanghera
+  - Christopher E. Aston
+  - Clareann H. Bunker
+  - Richard F. Hamman
+  - Robert E. Ferrell
+  - Steven T. DeKosky
+  publisher: Genetic Epidemiology
+  date: '1997-01-01'
+  link: https://doi.org/ds5xpm
+  tags:
+  - APOE
+  - "\u03B11-antichymotrypsin"
+  - interaction
+  - Caucasians
+  - Nigerian Blacks
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8993481
+  title: 'Polygenic determinants of Alzheimer''s disease: modulation of the risk by
+    alpha-1-antichymotrypsin.'
+  authors:
+  - S T DeKosky
+  - C E Aston
+  - M I Kamboh
+  publisher: Annals of the New York Academy of Sciences
+  date: '1996-12-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8993481
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0021-9150(96)05966-7
+  title: Haplotype analysis of two APOA1/MspI polymorphisms in relation to plasma
+    levels of Apo A-I and HDL-cholesterol
+  authors:
+  - M.Ilyas Kamboh
+  - Christopher E. Aston
+  - Cara M. Nestlerode
+  - Andrea E. McAllister
+  - Richard F. Hamman
+  publisher: Atherosclerosis
+  date: '1996-12-01'
+  link: https://doi.org/b46jgp
+  tags:
+  - Apolipoprotein A-I
+  - Haplotypes
+  - Linkage disequilibrium
+  - Non-smokers
+  - US Whites
+  - +83 bp
+  - "\u221275 bp"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0021-9150(96)05891-1
+  title: "Quantitative effects of the apolipoprotein E polymorphism in a biracial\
+    \ sample of 9\u201310-year-old girls"
+  authors:
+  - D.K. Sanghera
+  - R.E. Ferrell
+  - C.E. Aston
+  - A.E. McAllister
+  - M.I. Kamboh
+  - S.Y.S. Kimm
+  publisher: Atherosclerosis
+  date: '1996-09-01'
+  link: https://doi.org/bxb8d7
+  tags:
+  - Genetic polymorphism
+  - African American disease risk
+  - Plasma lipoproteins
+  - Apolipoprotein E
+  - LDL-cholesterol
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8838914
+  title: Population distributions of APOE, APOH, and APOA4 polymorphisms and their
+    relationships with quantitative plasma lipid levels among the Evenki herders of
+    Siberia.
+  authors:
+  - M I Kamboh
+  - M H Crawford
+  - C E Aston
+  - W R Leonard
+  publisher: Human biology
+  date: '1996-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8838914
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ajcn/63.1.87
+  title: Associations between dietary factors and serum lipids by apolipoprotein E
+    polymorphism
+  authors:
+  - JA Marshall
+  - MI Kamboh
+  - DH Bessesen
+  - S Hoag
+  - RF Hamman
+  - RE Ferrell
+  publisher: The American Journal of Clinical Nutrition
+  date: '1996-01-01'
+  link: https://doi.org/g98g3m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0021-9150(95)05559-F
+  title: Genetic effect of apolipoprotein(a) and apolipoprotein E polymorphisms on
+    plasma quantitative risk factors for coronary heart disease in American Black
+    women
+  authors:
+  - M.Ilyas Kamboh
+  - Rhobert W. Evans
+  - Christopher E. Aston
+  publisher: Atherosclerosis
+  date: '1995-09-01'
+  link: https://doi.org/bzv3wr
+  tags:
+  - Apo(a)
+  - Apo E
+  - Polymorphisms
+  - Lp(a)
+  - Apo B, Apo A-I and cholesterol levels
+  - American Blacks
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng0895-486
+  title: "A4POE*4-associated Alzheimer's disease risk is modified by \u03B11\u2013\
+    antichymotrypsin polymorphism"
+  authors:
+  - M. Ilyas Kamboh
+  - Dharambir K. Sanghera
+  - Robert E. Ferrell
+  - Steven T. DeKosky
+  publisher: Nature Genetics
+  date: '1995-08-01'
+  link: https://doi.org/b3tt9j
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:7729825
+  title: Apolipoprotein E polymorphism and susceptibility to Alzheimer's disease.
+  authors:
+  - M I Kamboh
+  publisher: Human biology
+  date: '1995-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7729825
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00208960
+  title: Heterogeneity of the apolipoprotein H *3 allele and its role in affecting
+    the binding of apolipoprotein H (?2-glycoprotein I) to anionic phospholipids
+  authors:
+  - M.Ilyas Kamboh
+  - DawnR. Wagenknecht
+  - JohnA. McIntyre
+  publisher: Human Genetics
+  date: '1995-04-01'
+  link: https://doi.org/cqkzq7
+  tags:
+  - Monoclonal Antibody
+  - Significant Role
+  - Ethnic Group
+  - Metabolic Disease
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:7772075
+  title: The relationship of APOE polymorphism and cholesterol levels in normoglycemic
+    and diabetic subjects in a biethnic population from the San Luis Valley, Colorado.
+  authors:
+  - M I Kamboh
+  - C E Aston
+  - R F Hamman
+  publisher: Atherosclerosis
+  date: '1995-01-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7772075
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370120308
+  title: 'Dementia among elderly apolipoprotein E type 4/4 homozygotes: A prospective
+    study'
+  authors:
+  - Mary Ganguli
+  - Jane A. Cauley
+  - Steven T. Dekosky
+  - M. Ilyas Kamboh
+  publisher: Genetic Epidemiology
+  date: '1995-01-01'
+  link: https://doi.org/cd5jqs
+  tags:
+  - age
+  - apolipoprotein E
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:7958503
+  title: ApoA-IV polymorphism associated with myocardial infarction in obese NIDDM
+    patients. The San Luis Valley Diabetes Study.
+  authors:
+  - M Rewers
+  - M I Kamboh
+  - S Hoag
+  - S M Shetterly
+  - R E Ferrell
+  - R F Hamman
+  publisher: Diabetes
+  date: '1994-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7958503
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8001911
+  title: Genetic characterization of American and Western Samoans.
+  authors:
+  - R Deka
+  - S T Mc Garvey
+  - R E Ferrell
+  - M I Kamboh
+  - L M Yu
+  - C E Aston
+  - L Jin
+  - R Chakraborty
+  publisher: Human biology
+  date: '1994-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8001911
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:7918311
+  title: Association of apolipoprotein(a) phenotypes in children with family history
+    of premature coronary artery disease.
+  authors:
+  - S Islam
+  - B Gutin
+  - C Smith
+  - F Treiber
+  - M I Kamboh
+  publisher: 'Arteriosclerosis and thrombosis : a journal of vascular biology'
+  date: '1994-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7918311
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8088751
+  title: 'Genetic polymorphism of apolipoprotein A-IV in the chimpanzee: common deletion
+    of a conserved 12-nucleotide tandem repeat.'
+  authors:
+  - M I Kamboh
+  - L J Kelly
+  - Y I Ahn
+  - R E Ferrell
+  publisher: Human biology
+  date: '1994-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8088751
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/01.ATV.14.5.656
+  title: A common deletion polymorphism in the apolipoprotein A4 gene and its significance
+    in lipid metabolism.
+  authors:
+  - M I Kamboh
+  - J S Friedlaender
+  - Y I Ahn
+  - R E Ferrell
+  publisher: 'Arteriosclerosis and Thrombosis: A Journal of Vascular Biology'
+  date: '1994-05-01'
+  link: https://doi.org/fdtk6p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/01.ATV.14.5.663
+  title: Role of common genetic polymorphisms in the LDL receptor gene in affecting
+    plasma cholesterol levels in the general population.
+  authors:
+  - Y I Ahn
+  - M I Kamboh
+  - C E Aston
+  - R E Ferrell
+  - R F Hamman
+  publisher: 'Arteriosclerosis and Thrombosis: A Journal of Vascular Biology'
+  date: '1994-05-01'
+  link: https://doi.org/bv3d55
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0009-3084(94)90148-1
+  title: Hypervariable polymorphism of APO(a) in blacks and whites as reflected by
+    phenotyping
+  authors:
+  - M.Ilyas Kamboh
+  - Cara M. Svitko
+  - Edward R. Williams
+  - Robert E. Ferrell
+  - William S. Pollitzer
+  publisher: Chemistry and Physics of Lipids
+  date: '1994-01-01'
+  link: https://doi.org/cqk6gv
+  image: images/papers/doi_10.1016_0009-3084(94)90148-1.png
+  tags:
+  - Apolipoprotein(a)
+  - Polymorphism
+  - Blacks
+  - Whites
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:7905375
+  title: Association of lipoprotein lipase gene variation with the physiological components
+    of the insulin-resistance syndrome in the population of the San Luis Valley, Colorado.
+  authors:
+  - Y I Ahn
+  - R E Ferrell
+  - R F Hamman
+  - M I Kamboh
+  publisher: Diabetes care
+  date: '1993-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/7905375
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8406412
+  title: 'Hemopexin: a unique genetic polymorphism in populations of African ancestry.'
+  authors:
+  - M I Kamboh
+  - C H Bunker
+  - M U Nwankwo
+  - R E Ferrell
+  publisher: Human biology
+  date: '1993-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8406412
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8449482
+  title: 'Population genetics of apolipoprotein A-4, E, and H polymorphisms in Yanomami
+    Indians of northwestern Brazil: associations with lipids, lipoproteins, and carbohydrate
+    metabolism.'
+  authors:
+  - D E Crews
+  - M I Kamboh
+  - J J Mancilha-Carvalho
+  - B Kottke
+  publisher: Human biology
+  date: '1993-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8449482
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0022-2275(20)40733-3
+  title: Two DNA polymorphisms in the lipoprotein lipase gene and their associations
+    with factors related to cardiovascular disease.
+  authors:
+  - YI Ahn
+  - MI Kamboh
+  - RF Hamman
+  - SA Cole
+  - RE Ferrell
+  publisher: Journal of Lipid Research
+  date: '1993-03-01'
+  link: https://doi.org/g983w8
+  tags:
+  - polymerase chain reaction
+  - restriction fragment length polymorphism
+  - triglyceride levels
+  - NIDDM
+  - Hispanic Americans
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajhb.1310050108
+  title: 'Apolipoprotein polymorphisms and phenotypic variability in American Samoans:
+    Preliminary data'
+  authors:
+  - Douglas E. Crews
+  - James R. Bindon
+  - Mohammad I. Kamboh
+  publisher: American Journal of Human Biology
+  date: '1993-01-01'
+  link: https://doi.org/bmcxm4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.11501401165
+  title: "Apolipoprotein (a): A comparison of isoforms identified by sodium dodecyl\
+    \ sulfate\u2010polyacrylamide gel electrophoresis or by sodium dodecyl sulfate\u2010\
+    agarose gel electrophoresis"
+  authors:
+  - Wendy Y. Craig
+  - Sue E. Poulin
+  - Thomas B. Ledue
+  - M. Ilyas Kamboh
+  publisher: ELECTROPHORESIS
+  date: '1993-01-01'
+  link: https://doi.org/fdtn3g
+  image: images/papers/doi_10.1002_elps.11501401165.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370100104
+  title: "Apo E allele frequencies in younger (age 42\u201350) vs older (age 65\u2013\
+    90) women"
+  authors:
+  - Jane A. Cauley
+  - June E. Eichner
+  - M. Ilyas Kamboh
+  - Robert E. Ferrell
+  - Lewis H. Kuller
+  publisher: Genetic Epidemiology
+  date: '1993-01-01'
+  link: https://doi.org/cb8wpf
+  tags:
+  - apolipoprotein E phenotype
+  - total cholesterol
+  - LDL cholesterol
+  - age
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0021-9150(93)90129-I
+  title: Impact of apolipoprotein E polymorphism in determining interindividual variation
+    in total cholesterol and low density lipoprotein cholesterol in Hispanics and
+    non-Hispanic whites
+  authors:
+  - M.Ilyas Kamboh
+  - Christopher E Aston
+  - Robert E Ferrell
+  - Richard F Hamman
+  publisher: Atherosclerosis
+  date: '1993-01-01'
+  link: https://doi.org/cqs6sd
+  tags:
+  - Apoliproprotein E
+  - Lipoprotein-lipid levels
+  - Hispanics
+  - Non-Hispanics whites
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:8167541
+  title: Apolipoprotein H polymorphism and serum lipoprotein and apolipoprotein levels
+    in two Asian populations.
+  authors:
+  - N Saha
+  - M I Kamboh
+  - Y A Ahn
+  - J S Tay
+  - R E Ferrell
+  publisher: Ethnicity & disease
+  date: '1993-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/8167541
+  tags:
+  - Apo H
+  - Apoliproprotein
+  - Lipoprotein
+  - Chinese
+  - Dravidian Indians
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00210773
+  title: Two new alleles in the tetranucleotide repeat polymorphism at the lipoprotein
+    lipase (LPL) locus
+  authors:
+  - YoungI. Ahn
+  - M.Ilyas Kamboh
+  - RobertE. Ferrell
+  publisher: Human Genetics
+  date: '1992-09-01'
+  link: https://doi.org/cxrfwp
+  tags:
+  - Polymerase Chain Reaction
+  - Lipase
+  - Polyacrylamide
+  - Metabolic Disease
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1644427
+  title: Apolipoprotein H (beta-2-glycoprotein I) polymorphism in Asians.
+  authors:
+  - N Saha
+  - M I Kamboh
+  - L J Kelly
+  - R E Ferrell
+  - J S Tay
+  publisher: Human biology
+  date: '1992-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1644427
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1644426
+  title: Apolipoprotein A-IV genetic polymorphism and its impact on quantitative traits
+    in normoglycemic and non-insulin-dependent diabetic Hispanics from the San Luis
+    Valley, Colorado.
+  authors:
+  - M I Kamboh
+  - S Iyengar
+  - C E Aston
+  - R F Hamman
+  - R E Ferrell
+  publisher: Human biology
+  date: '1992-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1644426
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0026-0495(92)90066-J
+  title: 'The impact of the apolipoprotein E polymorphism on the lipoprotein profile
+    in insulin-dependent diabetes: The pittsburgh epidemiology of diabetes complications
+    study IX'
+  authors:
+  - June E. Eichner
+  - Robert E. Ferrell
+  - Mohammad I. Kamboh
+  - Lewis H. Kuller
+  - Dorothy J. Becker
+  - Allan L. Drash
+  - Evan A. Stein
+  - Trevor J. Orchard
+  publisher: Metabolism
+  date: '1992-04-01'
+  link: https://doi.org/b6hp23
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1729885
+  title: 'Caucasian genes in American blacks: new data.'
+  authors:
+  - R Chakraborty
+  - M I Kamboh
+  - M Nwankwo
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1992-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1729885
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370090503
+  title: "Two common polymorphisms in the APO A\u2010IV coding gene: Their evolution\
+    \ and linkage disequilibrium"
+  authors:
+  - M. Ilyas kamboh
+  - Richard F. Hamman
+  - Robert E. Ferrell
+  - John J. Mulvihill
+  publisher: Genetic Epidemiology
+  date: '1992-01-01'
+  link: https://doi.org/bvrhtt
+  tags:
+  - Polymerase Chain Reaction
+  - genotypes
+  - haplotypes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370090602
+  title: "Molecular basis of a unique African Variant (A\u2010IV 5) of human apolipoprotein\
+    \ A\u2010IV and its significance in lipid metabolism"
+  authors:
+  - M. Ilyas Kamboh
+  - Edward R. Williams
+  - John C. Law
+  - Christopher E. Aston
+  - Clareann H. Bunker
+  - Robert E. Ferrell
+  - William S. Pollitzer
+  publisher: Genetic Epidemiology
+  date: '1992-01-01'
+  link: https://doi.org/ckrhxh
+  tags:
+  - Polymerase Chain Reaction
+  - DNA sequencing
+  - Polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.11501301185
+  title: "Genetic polymorphism of apolipoprotein H (\u03B2<sub>2</sub>\u2010glycoprotein\
+    \ I) in African blacks from the Ivory Coast"
+  authors:
+  - Hartwig Cleve
+  - Ulrike Vogt
+  - M. Ilyas Kamboh
+  publisher: ELECTROPHORESIS
+  date: '1992-01-01'
+  link: https://doi.org/c953sf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370090403
+  title: "Estimation of the frequency of isoform\u2013genotype discrepancies at the\
+    \ apolipoprotein E locus in heterozygotes for the isoforms"
+  authors:
+  - F. Mailly
+  - P. Moll
+  - B. A. Kottke
+  - M. I. Kamboh
+  - S. E. Humphries
+  - R. E. Ferrell
+  - Aravinda Chakravarti
+  publisher: Genetic Epidemiology
+  date: '1992-01-01'
+  link: https://doi.org/dg8xzr
+  tags:
+  - Apolipoprotein E
+  - measured genotype
+  - genetic epidemiology
+  - cardiovascular disease
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1746550
+  title: Genetic studies of human apolipoproteins. XX. Genetic polymorphism of apolipoprotein
+    J and its impact on quantitative lipid traits in normolipidemic subjects.
+  authors:
+  - M I Kamboh
+  - J A Harmony
+  - B Sepehrnia
+  - M Nwankwo
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1991-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1746550
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1842218
+  title: The gender-specific apolipoprotein E genotype influence on the distribution
+    of lipids and apolipoproteins in the population of Rochester, MN. I. Pleiotropic
+    effects on means and variances.
+  authors:
+  - S L Reilly
+  - R E Ferrell
+  - B A Kottke
+  - M I Kamboh
+  - C F Sing
+  publisher: American journal of human genetics
+  date: '1991-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1842218
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1928089
+  title: Expressed hypervariable polymorphism of apolipoprotein (a).
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  - B A Kottke
+  publisher: American journal of human genetics
+  date: '1991-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1928089
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1161/01.ATV.11.5.1330
+  title: Effects of polymorphisms in apolipoproteins E, A-IV, and H on quantitative
+    traits related to risk for cardiovascular disease.
+  authors:
+  - J Kaprio
+  - R E Ferrell
+  - B A Kottke
+  - M I Kamboh
+  - C F Sing
+  publisher: 'Arteriosclerosis and Thrombosis: A Journal of Vascular Biology'
+  date: '1991-09-01'
+  link: https://doi.org/d8hjrk
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2019410
+  title: Genetic studies of human apolipoproteins. XVIII. Apolipoprotein polymorphisms
+    in Australian Aborigines.
+  authors:
+  - M I Kamboh
+  - S W Serjeantson
+  - R E Ferrell
+  publisher: Human biology
+  date: '1991-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2019410
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajpa.1330840206
+  title: 'Genetic studies of human apolipoproteins. XVII: Population genetics of apolipoprotein
+    polymorphisms in American Samoa'
+  authors:
+  - Douglas E. Crews
+  - Mohammad I. Kamboh
+  - James R. Bindon
+  - Robert E. Ferrell
+  publisher: American Journal of Physical Anthropology
+  date: '1991-02-01'
+  link: https://doi.org/fmq2j4
+  tags:
+  - Phenotypic differences
+  - Lipid metabolism
+  - Polynesians
+  - Apolipoprotein polymorphisms
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1842537
+  title: '''Unique'' alleles in admixed populations: a strategy for determining ''hereditary''
+    population differences of disease frequencies.'
+  authors:
+  - R Chakraborty
+  - M I Kamboh
+  - R E Ferrell
+  publisher: Ethnicity & disease
+  date: '1991-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1842537
+  tags:
+  - Admixture
+  - Ethnic Variation of Diseases
+  - Measuremental Error
+  - Private Variants
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:1932210
+  title: Genetic studies of human apolipoproteins. XIX. Apolipoproteins E and A-IV
+    phenotyping from whole blood and blood stains.
+  authors:
+  - L J Kelly
+  - M I Kamboh
+  - R E Ferrell
+  publisher: 'Applied and theoretical electrophoresis : the official journal of the
+    International Electrophoresis Society'
+  date: '1991-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/1932210
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1399-0004.1991.tb02981.x
+  title: Genetic studies of human apolipoproteins. XVI. APOE polymorphism and cholesterol
+    levels in the Mayans of the Yucatan Peninsula, Mexico
+  authors:
+  - M. I. Kamboh
+  - K. M. Weiss
+  - R. E. Ferrell
+  publisher: Clinical Genetics
+  date: '1991-01-01'
+  link: https://doi.org/bxtgds
+  tags:
+  - APOE
+  - cholesterol
+  - Mayans
+  - polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000153976
+  title: A Simplified Method for Screening the Apolipoprotein E Polymorphism
+  authors:
+  - J.E. Eichner
+  - L.H. Kuller
+  - R.E. Ferrell
+  - M.I. Kamboh
+  publisher: Human Heredity
+  date: '1991-01-01'
+  link: https://doi.org/d27hfv
+  tags:
+  - Apolipoprotein E
+  - olymorphisms
+  - Apo E methods
+  - Apo E screening
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF02555885
+  title: Alpha2-HS glycoprotein phenotypes and quantitative hormone and bone measures
+    in postmenopausal women
+  authors:
+  - June E. Eichner
+  - Christopher A. Friedrich
+  - Jane A. Cauley
+  - Mohammad I. Kamboh
+  - James P. Gutai
+  - Lewis H. Kuller
+  - Robert E. Ferrell
+  publisher: Calcified Tissue International
+  date: '1990-12-01'
+  link: https://doi.org/bkgffs
+  tags:
+  - Alpha2-HS
+  - AHSG
+  - Osteoporosis
+  - Estrogens
+  - Bone measures
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajhb.1310020103
+  title: 'Genetic studies of human apolipoproteins: XII. Population genetics of apolipoproteins
+    in Papua New Guinea'
+  authors:
+  - M. I. Kamboh
+  - Kuldeep K. Bhatia
+  - R. E. Ferrell
+  publisher: American Journal of Human Biology
+  date: '1990-01-01'
+  link: https://doi.org/bvgc8x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.1150110408
+  title: 'Genetic studies of human apolipoproteins: XIV. A simple agarose isoelectric
+    focusing gel method for apolipoprotein E phenotyping'
+  authors:
+  - Mohammad I. Kamboh
+  - Lori J. Kelly
+  - Robert E. Ferrell
+  publisher: ELECTROPHORESIS
+  date: '1990-01-01'
+  link: https://doi.org/fch9hb
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2199367
+  title: Genetic studies of human apolipoproteins. XV. An overview of IEF immunoblotting
+    methods to screen apolipoprotein polymorphisms.
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  publisher: Human heredity
+  date: '1990-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2199367
+  tags:
+  - Apolipoproteins
+  - Polymorphisms
+  - Isoelectric focusing
+  - Immunoblotting
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2344296
+  title: Phenotypic effects of apolipoprotein structural variation on lipid profiles.
+    III. Contribution of apolipoprotein E phenotype to prediction of total cholesterol,
+    apolipoprotein B, and low density lipoprotein cholesterol in the healthy women
+    study.
+  authors:
+  - J E Eichner
+  - L H Kuller
+  - R E Ferrell
+  - E N Meilahn
+  - M I Kamboh
+  publisher: Arteriosclerosis (Dallas, Tex.)
+  date: '1990-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2344296
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2365371
+  title: "Genetic studies of human apolipoproteins. XIII. Quantitative polymorphism\
+    \ of apolipoprotein C-III in the Mayans of the Yucat\xE1n Peninsula."
+  authors:
+  - R E Ferrell
+  - M I Kamboh
+  - P P Majumder
+  - R Valdez
+  - K M Weiss
+  publisher: Human heredity
+  date: '1990-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2365371
+  tags:
+  - Apolipoprotein C-III
+  - Quantitative polymorphism
+  - Mayans
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0022-2275(20)42767-1
+  title: Highly polymorphic apolipoprotein A-IV locus in the baboon.
+  authors:
+  - RE Ferrell
+  - B Sepehrnia
+  - MI Kamboh
+  - JL VandeBerg
+  publisher: Journal of Lipid Research
+  date: '1990-01-01'
+  link: https://doi.org/g983x8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1520/JFS12817J
+  title: An Improved Method for Complement Subcomponent C1R Typing
+  authors:
+  - MI Kamboh
+  - RE Ferrell
+  publisher: Journal of Forensic Sciences
+  date: '1990-01-01'
+  link: https://doi.org/g983zb
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2491016
+  title: Genetic studies of human apolipoproteins. X. The effect of the apolipoprotein
+    E polymorphism on quantitative levels of lipoproteins in Nigerian blacks.
+  authors:
+  - B Sepehrnia
+  - M I Kamboh
+  - L L Adams-Campbell
+  - C H Bunker
+  - M Nwankwo
+  - P P Majumder
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1989-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2491016
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0022-2275(20)38260-2
+  title: Genetic studies of human apolipoproteins. XI. The effect of the apolipoprotein
+    C-II polymorphism on lipoprotein levels in Nigerian blacks.
+  authors:
+  - B Sepehrnia
+  - M I Kamboh
+  - L L Adams-Campbell
+  - C H Bunker
+  - M Nwankwo
+  - P P Majumder
+  - R E Ferrell
+  publisher: Journal of Lipid Research
+  date: '1989-09-01'
+  link: https://doi.org/g983zd
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2741945
+  title: Genetic studies of human apolipoproteins. IX. Apolipoprotein D polymorphism
+    and its relation to serum lipoprotein lipid levels.
+  authors:
+  - M I Kamboh
+  - J J Albers
+  - P P Majumder
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1989-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2741945
+  image: images/papers/pubmed_2741945.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2722186
+  title: Genetic studies of human apolipoproteins. VIII. Role of the apolipoprotein
+    H polymorphism in relation to serum lipoprotein concentrations.
+  authors:
+  - B Sepehrnia
+  - M I Kamboh
+  - L L Adams-Campbell
+  - C H Bunker
+  - M Nwankwo
+  - P P Majumder
+  - R E Ferrell
+  publisher: Human genetics
+  date: '1989-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2722186
+  tags:
+  - Lipid
+  - Cholesterol
+  - Triglyceride
+  - Total Cholesterol
+  - Lipid Level
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2591981
+  title: Genetic studies of low-abundance human plasma proteins. XII. A new variant
+    of corticosteroid-binding globulin detected by isoelectric focusing/immunoblotting.
+  authors:
+  - J E Eichner
+  - M I Kamboh
+  - T Cook
+  - R E Ferrell
+  publisher: Human heredity
+  date: '1989-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2591981
+  tags:
+  - Corticosteroid-binding globulin
+  - Transcortin
+  - Variant allele
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000463078
+  title: Genetic Studies of Low-Abundance Human Plasma Proteins
+  authors:
+  - L.A. Lyons
+  - M.I. Kamboh
+  - R.E. Ferrell
+  publisher: Complement and Inflammation
+  date: '1989-01-01'
+  link: https://doi.org/g983zg
+  tags:
+  - Complement component Cl
+  - C1R
+  - CIS
+  - Linkage
+  - Population genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0888-7543(89)90317-0
+  title: Frequent recombination is observed in the distal end of the long arm of chromosome
+    14
+  authors:
+  - Yusuke Nakamura
+  - Mark Lathrop
+  - Peter O'Connell
+  - Mark Leppert
+  - M.I. Kamboh
+  - Jean-Marc Lalouel
+  - Ray White
+  publisher: Genomics
+  date: '1989-01-01'
+  link: https://doi.org/cf4xcs
+  image: images/papers/doi_10.1016_0888-7543(89)90317-0.png
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2786461
+  title: 'Alpha-1-antitrypsin (PI) and vitamin-D binding globulin (GC) phenotypes
+    in rheumatoid arthritis: absence of an association.'
+  authors:
+  - L E Kahl
+  - M I Kamboh
+  - S Decroo
+  - R E Ferrell
+  publisher: Disease markers
+  date: '1989-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2786461
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2714047
+  title: Genetic studies of human apolipoproteins. VI. Common polymorphism of apolipoprotein
+    E in blacks.
+  authors:
+  - M I Kamboh
+  - B Sepehrnia
+  - R E Ferrell
+  publisher: Disease markers
+  date: '1989-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2714047
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370060404
+  title: "Phenotypic effects of apolipoprotein structural variation on lipid profiles:\
+    \ II. Apolipoprotein A\u2010IV and quantitative lipid measures in the healthy\
+    \ women study"
+  authors:
+  - J. E. Eichner
+  - L. H. Kuller
+  - R. E. Ferrell
+  - M. I. Kamboh
+  - D. C. Rao
+  publisher: Genetic Epidemiology
+  date: '1989-01-01'
+  link: https://doi.org/dbgx75
+  tags:
+  - APO A-IV phenotypic means
+  - lipids
+  - perimenopausal women
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370060605
+  title: Phenotypic effects of apolipoprotein structural variation on lipid profiles.
+    IV. Apolipoprotein polymorphisms in a small group of black women from the Healthy
+    Women Study
+  authors:
+  - J. E. Eichner
+  - L. H. Kuller
+  - R. E. Ferrell
+  - M. I. Kamboh
+  - G. P. Vogler
+  - D. C. Rao
+  publisher: Genetic Epidemiology
+  date: '1989-01-01'
+  link: https://doi.org/csq8k3
+  tags:
+  - apolipoprotein phenotypes
+  - premenopausal women
+  - cardiovascular risk factors
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:2535773
+  title: Genetic studies of low-abundance human plasma proteins. XIII. Population
+    genetics of C1R complement subcomponent and description of new variants.
+  authors:
+  - M I Kamboh
+  - L A Lyons
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1989-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/2535773
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.1150100113
+  title: "Genetic studies of low\u2010abundance human plasma proteins: X. Coagulation\
+    \ factor XIIIB variants in blacks"
+  authors:
+  - Mohammad I. Kamboh
+  - Robert E. Ferrell
+  publisher: ELECTROPHORESIS
+  date: '1989-01-01'
+  link: https://doi.org/bwt3x4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/gepi.1370060202
+  title: Phenotypic effects of apolipoprotein structural variation on lipid profiles.
+    I. APO H and quantitative lipid measures in the healthy women study
+  authors:
+  - J. E. Eichner
+  - L. H. Kuller
+  - M. I. Kamboh
+  - R. E. Ferrell
+  - G. P. Vogler
+  - D. C. Rao
+  publisher: Genetic Epidemiology
+  date: '1989-01-01'
+  link: https://doi.org/d3c2vg
+  tags:
+  - "\u03B22-glycoprotein I"
+  - lipid
+  - women
+  - lipoprotein
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3198132
+  title: Genetic studies of low-abundance human plasma proteins. IX. A new allele
+    at the complement subcomponent C1R structural locus.
+  authors:
+  - M I Kamboh
+  - L Lyons
+  - R E Ferrell
+  publisher: Human genetics
+  date: '1988-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3198132
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3143263
+  title: Genetic studies of human apolipoproteins. VII. Population distribution of
+    polymorphisms of apolipoproteins A-I, A-II, A-IV, C-II, E, and H in Nigeria.
+  authors:
+  - B Sepehrnia
+  - M I Kamboh
+  - L L Adams-Campbell
+  - M Nwankwo
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1988-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3143263
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0022-2275(20)38431-5
+  title: Genetic studies of human apolipoproteins. V. A novel rapid procedure to screen
+    apolipoprotein E polymorphism
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  - B Kottke
+  publisher: Journal of Lipid Research
+  date: '1988-11-01'
+  link: https://doi.org/g986xj
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3348213
+  title: Genetic studies of human apolipoproteins. IV. Structural heterogeneity of
+    apolipoprotein H (beta 2-glycoprotein I).
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  - B Sepehrnia
+  publisher: American journal of human genetics
+  date: '1988-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3348213
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000153745
+  title: 'Isoelectric Focusing of Superoxide Dismutase: Report of the Unique SODA*2
+    Allele in a US White Population'
+  authors:
+  - S. DeCroo
+  - M.I. Kamboh
+  - M. Leppert
+  - R.E. Ferrell
+  publisher: Human Heredity
+  date: '1988-01-01'
+  link: https://doi.org/cdbf4f
+  tags:
+  - Superoxide dismutase
+  - Isoelectric focusing
+  - Unique allele
+  - Population migration
+  - OD A *2 allele
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1469-1809.1988.tb01074.x
+  title: Genetic studies of low abundance human plasma proteins VIII. Inherited structural
+    variation in antithrombin III
+  authors:
+  - M. I. KAMBOH
+  - R. E. FERRELL
+  publisher: Annals of Human Genetics
+  date: '1988-01-01'
+  link: https://doi.org/b5c5p2
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3661561
+  title: Genetic studies of low-abundance human plasma proteins. VI. Polymorphism
+    of hemopexin.
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1987-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3661561
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3631077
+  title: Genetic studies of low-abundance human plasma proteins. V. Evidence for a
+    second orosomucoid structural locus (ORM2) expressed in plasma.
+  authors:
+  - M H Escallon
+  - R E Ferrell
+  - M I Kamboh
+  publisher: American journal of human genetics
+  date: '1987-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3631077
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1744-313X.1987.tb00385.x
+  title: "GENETIC STUDIES OF LOW\u2010ABUNDANCE HUMAN PLASMA PROTEINS: VII. HETEROGENEITY\
+    \ OF THE C1, SUBCOMPONENT OF THE FIRST COMPLEMENT COMPONENT"
+  authors:
+  - M. I. Kamboh
+  - R. E. Ferrell
+  publisher: International Journal of Immunogenetics
+  date: '1987-08-01'
+  link: https://doi.org/dhcnqb
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3618592
+  title: Genetic studies of human apolipoproteins. I. Polymorphism of apolipoprotein
+    A-IV.
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1987-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3618592
+  image: images/papers/pubmed_3618592.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00498960
+  title: Analysis of the reported relationship between thyroxin-binding globulin and
+    alpha-1-antitrypsin heterogeneity
+  authors:
+  - Mohammad I. Kamboh
+  - Robert E. Ferrell
+  publisher: Biochemical Genetics
+  date: '1987-02-01'
+  link: https://doi.org/c43pn5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000153680
+  title: Human Transferrin Polymorphism
+  authors:
+  - M.I. Kamboh
+  - R.E. Ferrell
+  publisher: Human Heredity
+  date: '1987-01-01'
+  link: https://doi.org/b9wtdv
+  tags:
+  - Transferrin
+  - Isoelectric focussing
+  - Polymorphism
+  - World distribution
+  - Selection
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000153721
+  title: Genetic Studies of Low-Abundance Human Plasma Proteins IV. Improved Typing
+    of Alpha-1 Acid Glycoprotein (Orosomucoid) by Isoelectric Focusing and Immunoblotting
+  authors:
+  - M.H. Escallon
+  - R.E. Ferrell
+  - M.I. Kamboh
+  publisher: Human Heredity
+  date: '1987-01-01'
+  link: https://doi.org/drgbfv
+  tags:
+  - Alpha-1 acid glycoprotein
+  - Orosomucoid
+  - Isoelectric focusing
+  - Urea
+  - Polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.1150080805
+  title: "Genetic studies of human apolipoproteins. II. A rapid one\u2010dimensional\
+    \ isoelectric focusing technique to characterize apolipoproteins A\u2010I, A\u2010\
+    II, A\u2010IV and C\u2010II of unfractionated plasma"
+  authors:
+  - Mohammad I. Kamboh
+  - Robert E. Ferrell
+  - Bahman Sepehrnia
+  publisher: ELECTROPHORESIS
+  date: '1987-01-01'
+  link: https://doi.org/ffqb73
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00554524
+  title: Genetic studies of low-abundance human plasma proteins. I. Microheterogeneity
+    of zinc-?2-glycoprotein in biological fluids
+  authors:
+  - Mohammad I. Kamboh
+  - Robert E. Ferrell
+  publisher: Biochemical Genetics
+  date: '1986-12-01'
+  link: https://doi.org/dmzmwx
+  tags:
+  - "zinc-\u03B12-glycoprotein"
+  - isoelectric focusing
+  - immunoblotting
+  - microheterogeneity
+  - genetic variation
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3026176
+  title: Genetic studies of low abundance human plasma proteins. III. Polymorphism
+    of the C1R subcomponent of the first complement component.
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1986-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3026176
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:3467588
+  title: Genetic studies of low abundance human plasma proteins. II. Population genetics
+    of coagulation factor XIIIB.
+  authors:
+  - M I Kamboh
+  - R E Ferrell
+  publisher: American journal of human genetics
+  date: '1986-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/3467588
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00290950
+  title: 'Ethnic variation in vitamin D-binding protein (GC): a review of isoelectric
+    focusing studies in human populations'
+  authors:
+  - M. I. Kamboh
+  - R. E. Ferrell
+  publisher: Human Genetics
+  date: '1986-04-01'
+  link: https://doi.org/fcxb8w
+  tags:
+  - Human Population
+  - Unique Variant
+  - Distinct Population
+  - Ethnic Variation
+  - Marked Variation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00502794
+  title: A sensitive immunoblotting technique to identify thyroxin-binding globulin
+    protein heterogeneity after isoelectric focusing
+  authors:
+  - Mohammad I. Kamboh
+  - Robert E. Ferrell
+  publisher: Biochemical Genetics
+  date: '1986-04-01'
+  link: https://doi.org/d5dfsv
+  tags:
+  - immunoblotting
+  - thyroxin-binding globulin
+  - X chromosome
+  - protein polymorphism
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1378/chest.89.2.206
+  title: Genetic Studies in Familial Fibrosing Alveolitis
+  authors:
+  - A.W. Musk
+  - P.J. Zilko
+  - P. Manners
+  - P.H. Kay
+  - M.I. Kamboh
+  publisher: Chest
+  date: '1986-02-01'
+  link: https://doi.org/fggpzf
+  image: images/papers/doi_10.1378_chest.89.2.206.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/elps.1150060408
+  title: 'Heterogeneity of factor XIIIB: A new method for the determination of factor
+    XIIIB phenotypes by isoelectric focusing in 6 <scp>M</scp> urea'
+  authors:
+  - Mohammad I. Kamboh
+  publisher: ELECTROPHORESIS
+  date: '1985-01-01'
+  link: https://doi.org/cxj7ws
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00291395
+  title: 'Population genetics of the vitamin D binding protein (GC) subtypes in the
+    Asian-Pacific area: Description of new alleles at the GC locus'
+  authors:
+  - M. I. Kamboh
+  - P. R. Ranford
+  - R. L. Kirk
+  publisher: Human Genetics
+  date: '1984-09-01'
+  link: https://doi.org/cdrwk8
+  tags:
+  - Genetic Affinity
+  - Pacific Population
+  - Isoelectric Focussing
+  - Sunda Island
+  - Lesser Sunda Island
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/0009-8981(84)90193-1
+  title: "Re-evaluation of the proposed interrelationship between thyroxine-binding\
+    \ globulin (TBG) and \u03B11-antitrypsin (PI)"
+  authors:
+  - Mohammad I. Kamboh
+  - Philip G. Board
+  - Carole Kirwood
+  publisher: Clinica Chimica Acta
+  date: '1984-05-01'
+  link: https://doi.org/btqgq3
+  tags:
+  - Thyroxine-binding globulin
+  - "\u03B11 - Antitrypsin"
+  - Isoelectric focusing
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:6428221
+  title: Genetic polymorphism of thyroxin-binding globulin (TBG) in the Pacific area.
+  authors:
+  - M I Kamboh
+  - C Kirwood
+  publisher: American journal of human genetics
+  date: '1984-05-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/6428221
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:6242530
+  title: Population genetic studies of PI, Tf, Gc and PGM1 subtypes among various
+    caste groups in North India.
+  authors:
+  - M I Kamboh
+  publisher: Acta anthropogenetica
+  date: '1984-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/6242530
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/03014468400007081
+  title: 'Genetic studies of PGM1 subtypes: population data from the Asian-Pacific
+    area'
+  authors:
+  - M.I. Kamboh
+  - R.L. Kirk
+  publisher: Annals of Human Biology
+  date: '1984-01-01'
+  link: https://doi.org/fpzpqm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1159/000153384
+  title: 'Distribution of Transferrin (Tf) Subtypes in Asian, Pacific and Australian
+    Aboriginal Populations: Evidence for the Existence of a New Subtype Tf&lt;sup&gt;c&lt;/sup&gt;&lt;sup&gt;6&lt;/sup&gt;'
+  authors:
+  - M.I. Kamboh
+  - R.L. Kirk
+  publisher: Human Heredity
+  date: '1983-01-01'
+  link: https://doi.org/ff5frs
+  tags:
+  - Transferrin C subtypes
+  - New allele
+  - Asia
+  - Pacific
+  - Australia
+  - Population
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/BF00289480
+  title: Investigation of PGM13, PGM16, and PGM17 variants by isoelectric focussing.
+    Evidence for new subtypes of the PGM 1 3 and PGM 1 7 alleles
+  authors:
+  - M. I. Kamboh
+  - R. L. Kirk
+  publisher: Human Genetics
+  date: '1983-07-01'
+  link: https://doi.org/dzccd5
+  tags:
+  - Starch
+  - Internal Medicine
+  - Thin Layer
+  - Polyacrylamide
+  - Metabolic Disease
   plugin: sources.py
   file: sources.yaml
