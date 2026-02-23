@@ -67,6 +67,158 @@
   - Polygenic risk score (PRS)
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1177/13872877251407211
+  title: Hearing loss in the young-old is associated with increased risk for Alzheimer's
+    disease and vascular dementia
+  authors:
+  - Lily Francis
+  - Alexa Beiser
+  - Sophia Lu
+  - Sharon G Kujawa
+  - Nancy Heard-Costa
+  - Francis B Kolo
+  - M Ilyas Kamboh
+  - Rebecca Bernal
+  - D Bradley Welling
+  - Richard L Alcabes
+  - Jayandra J Himali
+  - Sudha Seshadri
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2026-01-20'
+  link: https://doi.org/hbp94t
+  image: images/papers/doi_10.1177_13872877251407211.png
+  tags:
+  - Alzheimer's disease
+  - cohort study
+  - dementia
+  - hearing loss
+  - vascular dementia
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/13872877251410964
+  title: The associations between sedentary behavior and cognition in a population
+    cohort of older adults
+  authors:
+  - Marissa A Gogniat
+  - Yueting Wang
+  - Chung-Chou H Chang
+  - Joseph Storey
+  - Erin Jacobsen
+  - Isabella Wood
+  - Amy Carper
+  - M Ilyas Kamboh
+  - Ann D Cohen
+  - Mary Ganguli
+  - Beth Snitz
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2026-01-22'
+  link: https://doi.org/hbp94v
+  image: images/papers/doi_10.1177_13872877251410964.png
+  tags:
+  - "Alzheimer\u2019s disease"
+  - cognition
+  - older adult
+  - population study
+  - sedentary
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11033-026-11520-8
+  title: Molecular characterization and vaccine matching of foot-and-mouth disease
+    virus in Khyber Pakhtunkhwa, Pakistan
+  authors:
+  - Muhammad Sajid
+  - Muhammad Ali Syed
+  - Abdul Kabir
+  - Asghar Ali Kamboh
+  - Muhammad Mumtaz Khan
+  publisher: Molecular Biology Reports
+  date: '2026-02-02'
+  link: https://doi.org/hbp94w
+  image: images/papers/doi_10.1007_s11033-026-11520-8.png
+  tags:
+  - Foot-and-mouth disease (FMD)
+  - Serotype a
+  - A-Iran-05 lineage
+  - Vaccine mismatch
+  - Molecular surveillance
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70985
+  title: "Plasma biomarkers, brain amyloid\u2010beta pathology, and cortical thickness\
+    \ in a non\u2010Hispanic White and Black/African American middle\u2010aged community\
+    \ cohort: The HCP\u2010CoBRA study"
+  authors:
+  - Shayna T. Brodman
+  - Nicholas Heaton
+  - "Gallen Triana\u2010Baltzer"
+  - Xuemei Zeng
+  - Alexandra Gogola
+  - M. Ilyas Kamboh
+  - Victor L. Villemagne
+  - Oscar L. Lopez
+  - Hartmuth Kolb
+  - Rebecca A. Deek
+  - Ann D. Cohen
+  - Thomas K. Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hbp94x
+  image: images/papers/doi_10.1002_alz.70985.png
+  tags:
+  - Alzheimer's disease
+  - amyloid-beta pathology
+  - neurodegeneration
+  - neuroimaging
+  - plasma biomarkers
+  - racial disparities Simoa
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.70922
+  title: "Alzheimer's disease multi\u2010ancestry genome\u2010wide interaction and\
+    \ stratified study with smoking"
+  authors:
+  - Ryan Dacey
+  - Lei Hou
+  - Ashita Gurnani
+  - Xudong Han
+  - "Mackenzie R. Paller\u2010Moore"
+  - Jaeyoon Chung
+  - Shruti Durape
+  - Max Rosenthaler
+  - Madeline Uretsky
+  - Bobak Abdolmohammadi
+  - Annie J. Lee
+  - Adam M. Brickman
+  - Timothy J. Hohman
+  - Michael L. Cuccaro
+  - David A. Bennett
+  - Paul K. Crane
+  - M. Ilyas Kamboh
+  - Walter A. Kukull
+  - Gyungah Jun
+  - Thor D. Stein
+  - Ann C. McKee
+  - Jonathan L. Haines
+  - "Margaret A. Pericak\u2010Vance"
+  - "Li\u2010San Wang"
+  - Gerard D. Schellenberg
+  - Richard Mayeux
+  - Kathryn L. Lunetta
+  - Lindsay A. Farrer
+  - Jesse Mez
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-11-01'
+  link: https://doi.org/hbp94z
+  image: images/papers/doi_10.1002_alz.70922.png
+  tags:
+  - Alzheimer's disease
+  - cigarette smoking
+  - gene expression
+  - "gene\u2013environment interaction"
+  - genome-wide association study
+  - multi-ancestry RNA-sequencing
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13195-025-01803-w
   title: Plasma biomarkers identify brain ATN abnormalities in a dementia-free population-based
     cohort
@@ -436,7 +588,7 @@
   - Rebecca A. Deek
   - Ann D. Cohen
   - Thomas K. Karikari
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-07-11'
   link: https://doi.org/g95ccp
   image: images/papers/doi_10.1101_2025.07.10.25331312.png
@@ -2208,10 +2360,12 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.07.06.23292311
-  title: "Multi-ancestry genome-wide meta-analysis of 56,241 individuals identifies<i>LRRC4C,\
-    \ LHX5-AS1</i>and nominates ancestry-specific loci<i>PTPRK</i>,<i>GRB14</i>, and<i>KIAA0825</i>as\
-    \ novel risk loci for Alzheimer\u2019s disease: the Alzheimer\u2019s Disease Genetics\
-    \ Consortium"
+  title: "Multi-ancestry genome-wide meta-analysis of 56,241 individuals identifies\n\
+    \                  <i>LRRC4C, LHX5-AS1</i>\n                  and nominates ancestry-specific\
+    \ loci\n                  <i>PTPRK</i>\n                  ,\n                \
+    \  <i>GRB14</i>\n                  , and\n                  <i>KIAA0825</i>\n\
+    \                  as novel risk loci for Alzheimer\u2019s disease: the Alzheimer\u2019\
+    s Disease Genetics Consortium"
   authors:
   - Farid Rajabli
   - Penelope Benchek
@@ -2484,7 +2638,7 @@
   - Gyungah R. Jun
   - Christiane Reitz
   - Adam C. Naj
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-08'
   link: https://doi.org/g95zd7
   image: https://www.medrxiv.org/content/medrxiv/early/2023/07/08/2023.07.06.23292311/F1.large.jpg
@@ -2602,8 +2756,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.02.27.23286048
-  title: "Novel<i>CYP1B1-RMDN2</i>Alzheimer\u2019s disease locus identified by genome-wide\
-    \ association analysis of cerebral tau deposition on PET"
+  title: "Novel\n                  <i>CYP1B1-RMDN2</i>\n                  Alzheimer\u2019\
+    s disease locus identified by genome-wide association analysis of cerebral tau\
+    \ deposition on PET"
   authors:
   - Kwangsik Nho
   - Shannon L. Risacher
@@ -2663,7 +2818,7 @@
   - Jonathan Mill
   - Michael W. Weiner
   - Andrew J. Saykin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-01'
   link: https://doi.org/g953g2
   image: https://www.medrxiv.org/content/medrxiv/early/2023/03/22/2023.02.27.23286048/F1.large.jpg
@@ -5394,7 +5549,7 @@
   - GD Schellenberg
   - JC Lambert
   - MA Pericak-Vance
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-04-04'
   link: https://doi.org/gkwrr5
   image: https://www.biorxiv.org/content/biorxiv/early/2018/04/05/294629/F1.large.jpg
@@ -11645,8 +11800,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1056/NEJMoa0707865
-  title: "Association of Systemic Lupus Erythematosus with<i>C8orf13\u2013BLK</i>and<i>ITGAM\u2013\
-    ITGAX</i>"
+  title: "Association of Systemic Lupus Erythematosus with\n                    <i>C8orf13\u2013\
+    BLK</i>\n                    and\n                    <i>ITGAM\u2013ITGAX</i>"
   authors:
   - Geoffrey Hom
   - Robert R. Graham
