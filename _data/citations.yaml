@@ -143,6 +143,27 @@
   - Molecular surveillance
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/alz70862_110112
+  title: 'Longitudinal Trajectories of Cognitive Impairment: Predictors of Tau and
+    Amyloid Resistance &amp; Resilience'
+  authors:
+  - "Daniel Willie\u2010Permor"
+  - Oscar L Lopez
+  - Steven E. Reis
+  - Anum Saeed
+  - Beth E. Snitz
+  - Brian J Lopresti
+  - Victor L Villemagne
+  - M. Ilyas Kamboh
+  - Neelesh Nadkarni
+  - C. Elizabeth Shaaban
+  - Ann D Cohen
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hbqc95
+  image: images/papers/doi_10.1002_alz70862_110112.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/alz.70985
   title: "Plasma biomarkers, brain amyloid\u2010beta pathology, and cortical thickness\
     \ in a non\u2010Hispanic White and Black/African American middle\u2010aged community\
