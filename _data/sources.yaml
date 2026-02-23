@@ -28,7 +28,56 @@
     - Genomic variation
     - Polygenic risk score (PRS)
 
+# 2026 Publications
+
+- id: doi:10.1177/13872877251407211
+  image: images/papers/doi_10.1177_13872877251407211.png
+  tags:
+    - Alzheimer's disease
+    - cohort study
+    - dementia
+    - hearing loss
+    - vascular dementia
+
+- id: doi:10.1177/13872877251410964
+  image: images/papers/doi_10.1177_13872877251410964.png
+  tags:
+    - Alzheimer’s disease
+    - cognition
+    - older adult
+    - population study
+    - sedentary
+
+- id: doi:10.1007/s11033-026-11520-8
+  image: images/papers/doi_10.1007_s11033-026-11520-8.png
+  tags:
+  - Foot-and-mouth disease (FMD)
+  - Serotype a
+  - A-Iran-05 lineage
+  - Vaccine mismatch
+  - Molecular surveillance
+
 # 2025 Publications
+
+- id: doi:10.1002/alz.70985
+  image: images/papers/doi_10.1002_alz.70985.png
+  tags:
+  - Alzheimer's disease
+  - amyloid-beta pathology
+  - neurodegeneration
+  - neuroimaging
+  - plasma biomarkers
+  - racial disparities Simoa
+
+- id: doi:10.1002/alz.70922
+  image: images/papers/doi_10.1002_alz.70922.png
+  tags:
+  - Alzheimer's disease
+  - cigarette smoking
+  - gene expression
+  - gene–environment interaction
+  - genome-wide association study
+  - multi-ancestry RNA-sequencing
 
 - id: doi:10.1186/s13195-025-01803-w
   image: images/papers/doi_10.1186_s13195-025-01803-w.png
