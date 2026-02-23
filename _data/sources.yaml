@@ -59,6 +59,10 @@
 
 # 2025 Publications
 
+- id: doi:10.1002/alz70862_110112
+  image: images/papers/doi_10.1002_alz70862_110112.png
+
+
 - id: doi:10.1002/alz.70985
   image: images/papers/doi_10.1002_alz.70985.png
   tags:
