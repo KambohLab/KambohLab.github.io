@@ -240,6 +240,123 @@
   - multi-ancestry RNA-sequencing
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/alz.70760
+  title: "Genome\u2010wide association studies of TDP\u201043 proteinopathy and hippocampal\
+    \ sclerosis reveal shared genetic associations with APOE and TMEM106B"
+  authors:
+  - Dana Godrich
+  - Jeremy Pasteris
+  - Eden R. Martin
+  - Brian Kunkle
+  - Adam C. Naj
+  - Kara Hamilton
+  - Hui Wang
+  - "Wan\u2010Ping Lee"
+  - Logan Dumitrescu
+  - Timothy J. Hohman
+  - Richard Mayeux
+  - Eric B. Larson
+  - Paul K. Crane
+  - C. Dirk Keene
+  - Caitlin Latimer
+  - Shubhabrata Mukherjee
+  - Julia Kofler
+  - M. Ilyas Kamboh
+  - David A. Bennett
+  - "Laura Molina\u2010Porcel"
+  - Gerard Schellenberg
+  - "Margaret A. Pericak\u2010Vance"
+  - Michael Cuccaro
+  - William K. Scott
+  - Tatjana Rundek
+  - Walter Kukull
+  - Thomas Montine
+  - Gary W. Beecham
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-11-01'
+  link: https://doi.org/hbqdbq
+  image: images/papers/doi_10.1002_alz.70760.png
+  tags:
+  - dementia
+  - genetics
+  - genomics
+  - hippocampal sclerosis
+  - neuropathology
+  - TDP-43 proteinopathy
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jagp.2025.10.005
+  title: 'Association Between the Genetic Risk for Attention-Deficit/Hyperactivity
+    Disorder and Cognitive Function in Older Age: The MYHAT Population-Based Study'
+  authors:
+  - Douglas Teixeira Leffa
+  - Yingjin Zhang
+  - Yueting Wang
+  - Esther G. Teverovsky
+  - Erin Jacobsen
+  - Bruna Bellaver
+  - Pamela C.L. Ferreira
+  - Kang-Hsien Fan
+  - M. Ilyas Kamboh
+  - Thomas K. Karikari
+  - Chung-Chou H. Chang
+  - Beth E. Snitz
+  - Brooke S.G. Molina
+  - Tharick A. Pascoal
+  - Mary Ganguli
+  publisher: The American Journal of Geriatric Psychiatry
+  date: '2025-10-01'
+  link: https://doi.org/hbqdbr
+  image: images/papers/doi_10.1016_j.jagp.2025.10.005.png
+  tags:
+  - ADHD
+  - cognitive function
+  - older adults
+  - polygenic risk scores
+  - blood-based biomarkers
+  - population-based cohort
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/trc2.70187
+  title: "Association between 24\u2010h time\u2010use composition and brain age: The\
+    \ IGNITE study"
+  authors:
+  - Audrey M. Collins
+  - Maddison L. Mellow
+  - Lu Wan
+  - Ashleigh E. Smith
+  - Lauren E. Oberlin
+  - Kelsey R. Sewell
+  - Neha P. Gothe
+  - Jason Fanning
+  - Jairo H. Migueles
+  - Dorothea Dumuid
+  - Aaron Miatke
+  - John M. Jakicic
+  - Chaeryon Kang
+  - George Grove
+  - Haiqing Huang
+  - Bradley P. Sutton
+  - Anna L. Marsland
+  - M. Ilyas Kamboh
+  - Arthur F. Kramer
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Jeffrey M. Burns
+  - Edward McAuley
+  - Kirk I. Erickson
+  publisher: 'Alzheimer''s &amp; Dementia: Translational Research &amp; Clinical Interventions'
+  date: '2025-10-01'
+  link: https://doi.org/hbqdbs
+  image: images/papers/doi_10.1002_trc2.70187.png
+  tags:
+  - brain age
+  - compositional data analysis
+  - physical activity
+  - sedentary behavior
+  - sleep
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13195-025-01803-w
   title: Plasma biomarkers identify brain ATN abnormalities in a dementia-free population-based
     cohort
