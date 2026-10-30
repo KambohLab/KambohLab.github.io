@@ -305,7 +305,7 @@
   - Tharick A. Pascoal
   - Mary Ganguli
   publisher: The American Journal of Geriatric Psychiatry
-  date: '2025-10-01'
+  date: '2026-08-01'
   link: https://doi.org/hbqdbr
   image: images/papers/doi_10.1016_j.jagp.2025.10.005.png
   tags:
@@ -7603,8 +7603,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1520779112
-  title: <i>HLA-DRB1*11</i>and variants of the MHC class II locus are strong risk
-    factors for systemic juvenile idiopathic arthritis
+  title: "<i>HLA-DRB1*11</i>\n                    and variants of the MHC class II\
+    \ locus are strong risk factors for systemic juvenile idiopathic arthritis"
   authors:
   - Michael J. Ombrello
   - Elaine F. Remmers
@@ -12068,8 +12068,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1469-1809.2006.00336.x
-  title: Association of a Common Interferon Regulatory Factor 5 (<i>IRF5</i>) Variant
-    with Increased Risk of Systemic Lupus Erythematosus (SLE)
+  title: "Association of a Common Interferon Regulatory Factor 5 (\n             \
+    \       <i>IRF5</i>\n                    ) Variant with Increased Risk of Systemic\
+    \ Lupus Erythematosus (SLE)"
   authors:
   - F. Y. K. Demirci
   - S. Manzi
@@ -14662,7 +14663,7 @@
   - M.I. Kamboh
   - R.E. Ferrell
   publisher: Complement and Inflammation
-  date: '1989-01-01'
+  date: '2017-08-11'
   link: https://doi.org/g983zg
   tags:
   - Complement component Cl
