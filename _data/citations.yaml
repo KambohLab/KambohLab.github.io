@@ -67,6 +67,28 @@
   - Polygenic risk score (PRS)
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/ana.78366
+  title: "Memory and Plasma\n                    <scp>pTau217</scp>\n            \
+    \        Refine Prognosis in Down Syndrome"
+  authors:
+  - Casey R. Vanderlip
+  - Sigan L. Hartley
+  - "Sharon Krinsky\u2010McHale"
+  - Christy Hom
+  - Adam M. Brickman
+  - Melissa E. Petersen
+  - Elizabeth Head
+  - Craig E.L. Stark
+  publisher: Annals of Neurology
+  date: '2026-10-02'
+  link: https://doi.org/hcqq44
+  image: images/papers/doi_10.1002_ana.78366.png
+  tags:
+  - Down syndrome (DS)
+  - "Alzheimer Biomarker Consortium\u2010Down Syndrome (ABC\u2010DS)"
+  - pTau217
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1177/13872877251407211
   title: Hearing loss in the young-old is associated with increased risk for Alzheimer's
     disease and vascular dementia
