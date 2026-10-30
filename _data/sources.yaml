@@ -31,10 +31,16 @@
 # 2026 Publications
 
 - id: doi:10.1002/ana.78366
-  image: images/papers/doi_10.1002_ana.78366.png
+  image:
   tags:
     - Down syndrome (DS)
-    - Alzheimer Biomarker Consortium‐Down Syndrome (ABC‐DS)
+    - Alzheimer Biomarker Consortium - Down Syndrome (ABC - DS)
+    - pTau217
+
+- id: doi:10.64898/2026.08.08.26359816
+  image:
+  tags:
+    - ADRC
     - pTau217
 
 - id: doi:10.1177/13872877251407211
