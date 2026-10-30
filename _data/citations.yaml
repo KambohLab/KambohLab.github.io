@@ -82,10 +82,43 @@
   publisher: Annals of Neurology
   date: '2026-10-02'
   link: https://doi.org/hcqq44
-  image: images/papers/doi_10.1002_ana.78366.png
+  image: null
   tags:
   - Down syndrome (DS)
-  - "Alzheimer Biomarker Consortium\u2010Down Syndrome (ABC\u2010DS)"
+  - Alzheimer Biomarker Consortium - Down Syndrome (ABC - DS)
+  - pTau217
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.08.08.26359816
+  title: Association of age with clinical progression across plasma p-tau217 levels
+  authors:
+  - Ruyu Shi
+  - Lamia T. Choity
+  - Shayna T. Brodman
+  - Xuemei Zeng
+  - Marissa F. Farinas
+  - Michel N. Nafash
+  - Alexandra Gogola
+  - Brian Lopresti
+  - Dana L. Tudorascu
+  - Sarah B. Berman
+  - Robert A. Sweet
+  - Victor L. Villemagne
+  - Julia Kofler
+  - C. Elizabeth Shaaban
+  - Milos D. Ikonomovic
+  - Tharick A. Pascoal
+  - Ann D. Cohen
+  - Oscar L. Lopez
+  - Beth E. Snitz
+  - M. Ilyas Kamboh
+  - Thomas K. Karikari
+  publisher: openRxiv
+  date: '2026-08-10'
+  link: https://doi.org/hcqq58
+  image: null
+  tags:
+  - ADRC
   - pTau217
   plugin: sources.py
   file: sources.yaml
