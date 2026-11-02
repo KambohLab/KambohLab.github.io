@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # ruby
-ruby "3.3.13"
+ruby "3.4.2"
 
 # jekyll
 gem "jekyll", "~> 4.3"
