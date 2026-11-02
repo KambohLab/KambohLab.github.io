@@ -44,7 +44,7 @@ Dr. M. Ilyas Kamboh leads the laboratory, with Annie Bedison serving as the lab 
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/annie_bedison.jpg"
   caption="Annie Bedison, MS"
 %}
 
@@ -59,7 +59,6 @@ Dr. M. Ilyas Kamboh leads the laboratory, with Annie Bedison serving as the lab 
 {% endcapture %}
 
 {% capture col2 %}
-
 
 {% endcapture %}
 

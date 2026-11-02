@@ -24,9 +24,9 @@ They collaborate to investigate the genetic architecture of complex diseases, pa
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/Vibha_Acharya.jpg" caption="Vibha Acharya, Postdoctoral" link="https://scholar.google.com/citations?user=TmiLyzcAAAAJ&hl=en" %}
+{% include figure.html image="images/Asma_N_Cheema.jpg" caption="Asma N Cheema, Postdoctoral" link="https://scholar.google.com/citations?hl=en&user=5Tr99DEAAAAJ&view_op=list_works&sortby=pubdate" %}
+{% include figure.html image="images/narges_zafari.jpg" caption="Narges Zafari, PhD" link="https://scholar.google.com/citations?user=949UI0QAAAAJ&hl=en"%}
 
 {% endcapture %}
 
