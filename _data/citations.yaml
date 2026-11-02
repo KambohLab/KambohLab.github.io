@@ -649,6 +649,10 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxxv
+  tags:
+  - plasma biomarkers
+  - cognitive decline
+  - incident dementia
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106863
@@ -685,6 +689,10 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxxw
+  tags:
+  - plasma biomarkers
+  - type 2 diabetes
+  - diabetes mellitus
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106784
@@ -720,6 +728,9 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxxz
+  tags:
+  - p-tau217
+  - memory clinic
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106865
@@ -748,6 +759,10 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxx2
+  tags:
+  - dried plasma spot
+  - NULISA
+  - biomarker quantification
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106807
@@ -778,6 +793,10 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxx3
+  tags:
+  - brain-derived tau
+  - blood-based biomarkers
+  - brain injury
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106861
@@ -808,6 +827,11 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxx4
+  tags:
+  - autosomal dominant Alzheimer's disease
+  - PSEN1
+  - proteomics
+  - neurodegeneration
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70856_106497
@@ -837,42 +861,11 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxx5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/alz70856_106816
-  title: "Plasma Biomarkers Modulate\n                    <i>APOE4</i>\n         \
-    \           Genotype Risk in Cognitive Decline: Insights from a Large Memory Clinic\
-    \ Cohort"
-  authors:
-  - Xuemei Zeng
-  - Rebecca A Deek
-  - Michel N Nafash
-  - Jeremy M. Gu
-  - Lamia Choity
-  - Tara K Lafferty
-  - Marissa F Farinas
-  - Margaret A Bedison
-  - Rocco B Mercurio
-  - Cristy Matan
-  - Alexandra Gogola
-  - Julia K. Kofler
-  - Dana L Tudorascu
-  - C. Elizabeth Shaaban
-  - Jennifer H Lingler
-  - Tharick A Pascoal
-  - William E Klunk
-  - Victor L. Villemagne
-  - Milos D. Ikonomovic
-  - Sarah B Berman
-  - Robert Sweet
-  - Beth E. Snitz
-  - Ann D Cohen
-  - M. Ilyas Kamboh
-  - Oscar L Lopez
-  - Thomas K Karikari
-  publisher: Alzheimer's &amp; Dementia
-  date: '2025-12-01'
-  link: https://doi.org/hcqxx6
+  tags:
+  - plasma versus serum
+  - proteomics
+  - NULISA
+  - blood biomarkers
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.64898/2026.10.08.26364972
@@ -896,6 +889,10 @@
   date: '2026-10-11'
   link: https://doi.org/hcqxx7
   image: images/papers/doi_10.64898_2026.10.08.26364972.png
+  tags:
+  - APOE
+  - plasma biomarkers
+  - prognosis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.64898/2026.09.29.26363951
@@ -920,6 +917,10 @@
   date: '2026-10-05'
   link: https://doi.org/hcqxzr
   image: images/papers/doi_10.64898_2026.09.29.26363951.png
+  tags:
+  - eMTBR-tau
+  - plasma biomarkers
+  - tau pathology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/13872877251407211
@@ -1031,6 +1032,10 @@
   publisher: Alzheimer's &amp; Dementia
   date: '2025-12-01'
   link: https://doi.org/hcqxzs
+  tags:
+  - p-tau217
+  - cognitive aging
+  - biomarker risk
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70860_107660
@@ -1052,6 +1057,12 @@
   date: '2025-12-01'
   link: https://doi.org/hcqxzt
   image: images/papers/doi_10.1002_alz70860_107660.png
+  tags:
+  - tau
+  - amyloid
+  - physical activity
+  - cognitive activity
+  - resilience
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70862_110112
@@ -1073,6 +1084,12 @@
   date: '2025-12-01'
   link: https://doi.org/hbqc95
   image: images/papers/doi_10.1002_alz70862_110112.png
+  tags:
+  - tau
+  - amyloid
+  - cognitive impairment
+  - longitudinal study
+  - resilience
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz70861_108310
@@ -1104,6 +1121,12 @@
   date: '2025-12-01'
   link: https://doi.org/hcqxzv
   image: images/papers/doi_10.1002_alz70861_108310.png
+  tags:
+  - estrogen
+  - brain health
+  - older women
+  - menopause
+  - IGNITE study
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz.70985
@@ -1974,6 +1997,9 @@
   publisher: Elsevier BV
   date: '2025-01-01'
   link: https://doi.org/g9863k
+  tags:
+  - Alzheimer's disease
+  - biomarkers
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/13872877241303926
@@ -2036,6 +2062,11 @@
   date: '2024-12-10'
   link: https://doi.org/g8t9xt
   image: https://bjsm.bmj.com/content/bjsports/59/3/167/F2.large.jpg
+  tags:
+  - exercise
+  - brain health
+  - physical activity
+  - cognition
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz.14430
@@ -2602,6 +2633,10 @@
   publisher: Arthritis &amp; Rheumatology
   date: '2024-08-09'
   link: https://doi.org/g95gzh
+  tags:
+  - autoimmunity
+  - inflammation
+  - rheumatology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz.14115

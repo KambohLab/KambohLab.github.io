@@ -44,7 +44,7 @@
     - pTau217
     - Clinical Dementia Rating global score (CDR-GS)
 
-- id: doi:10.21203/rs.3.rs-10057599/v1 
+- id: doi:10.21203/rs.3.rs-10057599/v1
   image: images/papers/doi_10.21203_rs.3.rs-10057599_v1.png
   tags:
     - Estradiol
@@ -177,26 +177,61 @@
     - Depression Symptoms
 
 - id: doi:10.1002/alz70856_106702
+  tags:
+    - plasma biomarkers
+    - cognitive decline
+    - incident dementia
  
 - id: doi:10.1002/alz70856_106863
+  tags:
+    - plasma biomarkers
+    - type 2 diabetes
+    - diabetes mellitus
 
 - id: doi:10.1002/alz70856_106784
+  tags:
+    - p-tau217
+    - memory clinic
 
 - id: doi:10.1002/alz70856_106865
+  tags:
+    - dried plasma spot
+    - NULISA
+    - biomarker quantification
 
 - id: doi:10.1002/alz70856_106807
+  tags:
+    - brain-derived tau
+    - blood-based biomarkers
+    - brain injury
  
 - id: doi:10.1002/alz70856_106861
+  tags:
+    - autosomal dominant Alzheimer's disease
+    - PSEN1
+    - proteomics
+    - neurodegeneration
 
 - id: doi:10.1002/alz70856_106497
-
-- id: doi:10.1002/alz70856_106816
+  tags:
+    - plasma versus serum
+    - proteomics
+    - NULISA
+    - blood biomarkers
 
 - id: doi:10.64898/2026.10.08.26364972
   image: images/papers/doi_10.64898_2026.10.08.26364972.png
+  tags:
+    - APOE
+    - plasma biomarkers
+    - prognosis
 
 - id: doi:10.64898/2026.09.29.26363951
   image: images/papers/doi_10.64898_2026.09.29.26363951.png
+  tags:
+    - eMTBR-tau
+    - plasma biomarkers
+    - tau pathology
 
 - id: doi:10.1177/13872877251407211
   image: images/papers/doi_10.1177_13872877251407211.png
@@ -228,17 +263,37 @@
 # 2025 Publications
 
 - id: doi:10.1002/alz70856_103605
+  tags:
+    - p-tau217
+    - cognitive aging
+    - biomarker risk
 
 - id: doi:10.1002/alz70860_107660
   image: images/papers/doi_10.1002_alz70860_107660.png
+  tags:
+    - tau
+    - amyloid
+    - physical activity
+    - cognitive activity
+    - resilience
 
 - id: doi:10.1002/alz70862_110112
   image: images/papers/doi_10.1002_alz70862_110112.png
+  tags:
+    - tau
+    - amyloid
+    - cognitive impairment
+    - longitudinal study
+    - resilience
 
 - id: doi:10.1002/alz70861_108310
   image: images/papers/doi_10.1002_alz70861_108310.png
-
-- id: doi:10.1002/alz70856_106702
+  tags:
+    - estrogen
+    - brain health
+    - older women
+    - menopause
+    - IGNITE study
 
 - id: doi:10.1002/alz.70985
   image: images/papers/doi_10.1002_alz.70985.png
@@ -382,6 +437,9 @@
     - iPLA2
 
 - id: doi:10.2139/ssrn.5375257
+  tags:
+    - Alzheimer's disease
+    - biomarkers
 
 # 2024 Publications
 
@@ -395,6 +453,11 @@
 
 - id: doi:10.1136/bjsports-2024-108257
   image: https://bjsm.bmj.com/content/bjsports/59/3/167/F2.large.jpg
+  tags:
+    - exercise
+    - brain health
+    - physical activity
+    - cognition
 
 - id: doi:10.1002/alz.14430
   image: images/papers/doi_10.1002_alz.14430.png
@@ -434,6 +497,10 @@
   image: images/papers/doi_10.1038_s41467-024-52298-2.png
 
 - id: doi:10.1002/art.42938
+  tags:
+    - autoimmunity
+    - inflammation
+    - rheumatology
   
 - id: doi:10.1002/alz.14115
   image: images/papers/doi_10.1002_alz.14115.png
