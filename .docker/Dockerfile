@@ -1,5 +1,5 @@
 # start with official ruby docker image as base
-FROM ruby:3.1.2
+FROM ruby:3.3-bundler
 
 # set working directory within container
 WORKDIR /usr/src/app
@@ -12,13 +12,22 @@ RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
     gem install bundler --version ${VERSION} && \
     bundle _${VERSION}_ install
 
-# install python
-RUN apt update && apt install -y python3 python3-pip
+# Use the official Python image with your desired version
+FROM python:3.12-slim
 
-# install python packages
-RUN python3 -m pip install --no-cache-dir --upgrade --requirement requirements.txt
+# Set the working directory
+WORKDIR /workspace
 
-# install python package for listening for file changes
+# Install system dependencies if your requirements need compilation tools
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy and install python packages
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade --requirement requirements.txt
+
+# Install watchdog
 RUN pip install "watchdog[watchmedo]==3.0.0"
 
 # ports used by jekyll

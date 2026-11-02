@@ -31,17 +31,172 @@
 # 2026 Publications
 
 - id: doi:10.1002/ana.78366
-  image:
+  image: images/papers/doi_10.1002_ana.78366.png
   tags:
     - Down syndrome (DS)
     - Alzheimer Biomarker Consortium - Down Syndrome (ABC - DS)
     - pTau217
 
 - id: doi:10.64898/2026.08.08.26359816
-  image:
+  image: images/papers/doi_10.64898_2026.08.08.26359816.png
   tags:
     - ADRC
     - pTau217
+    - Clinical Dementia Rating global score (CDR-GS)
+
+- id: doi:10.21203/rs.3.rs-10057599/v1 
+  image: images/papers/doi_10.21203_rs.3.rs-10057599_v1.png
+  tags:
+    - Estradiol
+    - APOE4
+    - Hippocampal Functional Connectivity (HFC)
+    - Functional Magnetic Resonance Imaging (fMRI)
+
+- id: doi:10.1002/alz.71743
+  image: images/papers/doi_10.1002_alz.71743.png
+  tags:
+    - IGNITE study
+    - NfL
+    - pTau217
+    - Glial Fibrillary Acidic Protein (GFAP)
+
+- id: doi:10.1002/alz.71627
+  image: images/papers/doi_10.1002_alz.71627.png
+  tags:
+    - IGNITE study
+    - Choroid Plexus (ChP)
+    - Pittsburgh Sleep Quality Index (PSQI)
+
+- id: doi:10.1002/alz.71635
+  image: images/papers/doi_10.1002_alz.71635.png
+  tags:
+    - APOE4
+    - Amyloid β-42 (Aβ42)
+    - amyloid β-40 (Aβ40)
+    - p-tau181
+    - p-tau231
+
+- id: doi:10.1371/journal.pgen.1012170
+  image: images/papers/doi_10.1371_journal.pgen.1012170.png
+  tags:
+    - GWAS
+    - APOE
+    - TDP-43
+
+- id: doi:10.1016/j.bbih.2026.101291
+  image: images/papers/doi_10.1016_j.bbih.2026.101291.png
+  tags:
+    - IGNITE study
+    - Cardiorespiratory fitness (CRF)
+
+- id: doi:10.1002/oby.70229
+  image: images/papers/doi_10.1002_oby.70229.png
+  tags:
+    - Down syndrome (DS)
+    - Alzheimer Biomarkers Consortium-DS (ABC-DS)
+    - Obesity
+
+- id: doi:10.64898/2026.05.18.26353208
+  image: images/papers/doi_10.64898_2026.05.18.26353208.png
+  tags:
+    - amyloid-beta (Aβ)
+    - p-tau217
+    - central nervous system (CNS)
+
+- id: doi:10.1212/WNL.0000000000214833
+  image: images/papers/doi_10.1212_WNL.0000000000214833.png
+  tags:
+    - Cognitive aging
+    - Cognitive Disorders/Dementia
+    - Imaging
+    - MRI
+    - PET
+
+- id: doi:10.1016/j.neuroimage.2026.121974
+  image: images/papers/doi_10.1016_j.neuroimage.2026.121974.png
+  tags:
+    - Estrogen
+    - Brain aging
+    - Menopause
+    - Neuroimaging
+    - Women
+    - Hormone therapy
+    - Protection
+    - Aging
+    - Brain volume
+    - Brain thickness
+
+- id: doi:10.1002/alz.71484
+  image: images/papers/doi_10.1002_alz.71484.png
+  tags:
+    - aerobic fitness
+    - amyloid positron emission tomography
+    - cognition
+    - episodic memory
+    - executive function
+    - modifiable risk factor
+    - neuropathology
+    - physical activity
+    - plasma biomarkers
+    - preclinical Alzheimer's disease
+
+- id: doi:10.1186/s12974-026-03800-8
+  image: images/papers/doi_10.1186_s12974-026-03800-8.png
+  tags:
+    - Alzheimer's disease
+    - Dementia
+    - Brain
+    - Biomarkers
+    - Neuroimmunology
+    - Predictive markers
+    - Infectious Contributions to Alzheimer's Disease Pathogenesis
+
+- id: doi:10.1097/WAD.0000000000000730
+  tags:
+    - Lewy Body disease (LBD)
+    - Olfaction
+    - Brief Smell Identification Test (BSIT)
+    - REM sleep behavior disorder (RBD)
+
+- id: doi:10.1080/13803395.2026.2647965
+  image: images/papers/doi_10.1080_13803395.2026.2647965.png
+  tags:
+    - Anxiety
+    - Worry
+    - Cognition
+    - APOE4
+    - Menopause
+
+- id: doi:10.1016/j.inpsyc.2026.100201
+  image: images/papers/doi_10.1016_j.inpsyc.2026.100201.png
+  tags:
+    - Attention-deficit/hyperactivity disorder
+    - Cognitive functioning
+    - Functional status
+    - Genetic predisposition
+    - Depression Symptoms
+
+- id: doi:10.1002/alz70856_106702
+ 
+- id: doi:10.1002/alz70856_106863
+
+- id: doi:10.1002/alz70856_106784
+
+- id: doi:10.1002/alz70856_106865
+
+- id: doi:10.1002/alz70856_106807
+ 
+- id: doi:10.1002/alz70856_106861
+
+- id: doi:10.1002/alz70856_106497
+
+- id: doi:10.1002/alz70856_106816
+
+- id: doi:10.64898/2026.10.08.26364972
+  image: images/papers/doi_10.64898_2026.10.08.26364972.png
+
+- id: doi:10.64898/2026.09.29.26363951
+  image: images/papers/doi_10.64898_2026.09.29.26363951.png
 
 - id: doi:10.1177/13872877251407211
   image: images/papers/doi_10.1177_13872877251407211.png
@@ -72,8 +227,18 @@
 
 # 2025 Publications
 
+- id: doi:10.1002/alz70856_103605
+
+- id: doi:10.1002/alz70860_107660
+  image: images/papers/doi_10.1002_alz70860_107660.png
+
 - id: doi:10.1002/alz70862_110112
   image: images/papers/doi_10.1002_alz70862_110112.png
+
+- id: doi:10.1002/alz70861_108310
+  image: images/papers/doi_10.1002_alz70861_108310.png
+
+- id: doi:10.1002/alz70856_106702
 
 - id: doi:10.1002/alz.70985
   image: images/papers/doi_10.1002_alz.70985.png

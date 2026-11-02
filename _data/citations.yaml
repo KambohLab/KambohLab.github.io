@@ -82,7 +82,7 @@
   publisher: Annals of Neurology
   date: '2026-10-02'
   link: https://doi.org/hcqq44
-  image: null
+  image: images/papers/doi_10.1002_ana.78366.png
   tags:
   - Down syndrome (DS)
   - Alzheimer Biomarker Consortium - Down Syndrome (ABC - DS)
@@ -116,10 +116,810 @@
   publisher: openRxiv
   date: '2026-08-10'
   link: https://doi.org/hcqq58
-  image: null
+  image: images/papers/doi_10.64898_2026.08.08.26359816.png
   tags:
   - ADRC
   - pTau217
+  - Clinical Dementia Rating global score (CDR-GS)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21203/rs.3.rs-10057599/v1
+  title: 'Estradiol and memory circuitry in the postmenopause: Modification by APOE4'
+  authors:
+  - Rachel Schroeder
+  - Rebecca Thurston
+  - Minjie Wu
+  - Howard Aizenstein
+  - Thomas Karikari
+  - M. Ilyas Kamboh
+  - Ann Cohen
+  - Pauline Maki
+  publisher: Springer Science and Business Media LLC
+  date: '2026-08-04'
+  link: https://doi.org/hcqtk3
+  image: images/papers/doi_10.21203_rs.3.rs-10057599_v1.png
+  tags:
+  - Estradiol
+  - APOE4
+  - Hippocampal Functional Connectivity (HFC)
+  - Functional Magnetic Resonance Imaging (fMRI)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.71743
+  title: Neurobiological markers across joint profiles of subjective cognitive decline
+    and objective cognitive function in older adults
+  authors:
+  - Lu Wan
+  - Chaeryon Kang
+  - Rae Harrison
+  - "Patricio Solis\u2010Urra"
+  - Kelsey R. Sewell
+  - Lauren E. Oberlin
+  - Shivangi Jain
+  - Haiqing Huang
+  - George Grove
+  - M. Ilyas Kamboh
+  - Bradley P. Sutton
+  - Beth E. Snitz
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Anna L. Marsland
+  - Thomas K. Karikari
+  - Jill Morris
+  - Kirk I. Erickson
+  publisher: Alzheimer's &amp; Dementia
+  date: '2026-08-01'
+  link: https://doi.org/hcqtk6
+  image: images/papers/doi_10.1002_alz.71743.png
+  tags:
+  - IGNITE study
+  - NfL
+  - pTau217
+  - Glial Fibrillary Acidic Protein (GFAP)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.71627
+  title: 'Greater choroid plexus volume is linked to poor sleep, neurodegeneration,
+    and cognitive deficits in older adults: Evidence from the IGNITE Study'
+  authors:
+  - "Miranda G. Chappel\u2010Farley"
+  - Kelsey R. Sewell
+  - Audrey M. Collins
+  - "Cristina Molina\u2010Hidalgo"
+  - Shivangi Jain
+  - Haiqing Huang
+  - "Patricio Solis\u2010Urra"
+  - Lauren E. Oberlin
+  - George Grove
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles Hillman
+  - Eric D. Vidoni
+  - Bradley P. Sutton
+  - Anna L. Marsland
+  - M. Ilyas Kamboh
+  - Chaeryon Kang
+  - Lu Wan
+  - Kirk I. Erickson
+  - Kristine A. Wilckens
+  publisher: Alzheimer's &amp; Dementia
+  date: '2026-07-01'
+  link: https://doi.org/hcqtk7
+  image: images/papers/doi_10.1002_alz.71627.png
+  tags:
+  - IGNITE study
+  - Choroid Plexus (ChP)
+  - Pittsburgh Sleep Quality Index (PSQI)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.71635
+  title: "Evidence of\n                    <i>APOE4\u2010</i>\n                  \
+    \  related brain vulnerabilities in verbal memory systems in midlife women"
+  authors:
+  - Katrina A. Wugalter
+  - Rebecca C. Thurston
+  - Minjie Wu
+  - Howard J. Aizenstein
+  - M. Ilyas Kamboh
+  - Thomas K. Karikari
+  - Pauline M. Maki
+  publisher: Alzheimer's &amp; Dementia
+  date: '2026-06-27'
+  link: https://doi.org/hcqtk8
+  image: images/papers/doi_10.1002_alz.71635.png
+  tags:
+  - APOE4
+  - "Amyloid \u03B2-42 (A\u03B242)"
+  - "amyloid \u03B2-40 (A\u03B240)"
+  - p-tau181
+  - p-tau231
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1012170
+  title: "Genome wide association study meta-analysis of neuropathologic lesions of\
+    \ Alzheimer\u2019s disease and related dementias in a multi-site autopsy cohort"
+  authors:
+  - Brenna Cholerton
+  - Dana Godrich
+  - Jeremy Pasteris
+  - Joe Rivero
+  - Eden R. Martin
+  - Brian W. Kunkle
+  - Adam C. Naj
+  - Kara L. Hamilton-Nelson
+  - Hui Wang
+  - Wan-Ping Lee
+  - Logan Dumitrescu
+  - Timothy J. Hohman
+  - Richard Mayeux
+  - Eric B. Larson
+  - Paul K. Crane
+  - C. Dirk Keene
+  - Caitlin S. Latimer
+  - Shubhabrata Mukherjee
+  - Julia K. Kofler
+  - M. Ilyas Kamboh
+  - David A. Bennett
+  - Laura Molina-Porcel
+  - Michael Cuccaro
+  - Margaret A. Pericak-Vance
+  - Tatjana Rundek
+  - William K. Scott
+  - Walter Kukull
+  - Gerard Schellenberg
+  - Gary W. Beecham
+  - Thomas J. Montine
+  publisher: PLOS Genetics
+  date: '2026-06-29'
+  link: https://doi.org/hcfsmx
+  image: images/papers/doi_10.1371_journal.pgen.1012170.png
+  tags:
+  - GWAS
+  - APOE
+  - TDP-43
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbih.2026.101291
+  title: 'Inflammatory, metabolic, and vascular pathways linking cardiorespiratory
+    fitness to cognition: Results from the IGNITE study'
+  authors:
+  - Patricio Solis-Urra
+  - Kelsey R. Sewell
+  - Audrey M. Collins
+  - Chaeryon Kang
+  - Haiqing Huang
+  - George Grove
+  - Lu Wan
+  - Amani M. Norling
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Anna L. Marsland
+  - M. Ilyas Kamboh
+  - Amanda Szabo-Reed
+  - Renee J. Rogers
+  - Daniel E. Forman
+  - Sandra A. Billinger
+  - John M. Jakicic
+  - Kirk I. Erickson
+  - Lauren E. Oberlin
+  publisher: Brain, Behavior, &amp; Immunity - Health
+  date: '2026-08-01'
+  link: https://doi.org/hcqtk9
+  image: images/papers/doi_10.1016_j.bbih.2026.101291.png
+  tags:
+  - IGNITE study
+  - Cardiorespiratory fitness (CRF)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/oby.70229
+  title: Inflammation Associated With Obesity, Aging, and Amyloid Burden in Adults
+    With Down Syndrome
+  authors:
+  - "Victoria L. Fleming\u2010Batayneh"
+  - Brian C. Helsel
+  - Lauren T. Ptomey
+  - Benjamin L. Handen
+  - Mark Mapstone
+  - Melissa Petersen
+  - "Sharon J. Krinsky\u2010McHale"
+  - Christy L. Hom
+  - Davneet Minhas
+  - Weiquan Luo
+  - Charles Laymon
+  - Joseph H. Lee
+  - Annie Cohen
+  - Beau M. Ances
+  - Adam M. Brickman
+  - Margaret Pulsifer
+  - H. Diana Rosas
+  - Florencia Lai
+  - Shahid H. Zaman
+  - Elizabeth Head
+  - Dana Tudorascu
+  - Julie Price
+  - Fredrick Schmitt
+  - Bradley T. Christian
+  - Ozioma Okonkwo
+  - Sigan L. Hartley
+  publisher: Obesity
+  date: '2026-06-05'
+  link: https://doi.org/hcqtmb
+  image: images/papers/doi_10.1002_oby.70229.png
+  tags:
+  - Down syndrome (DS)
+  - Alzheimer Biomarkers Consortium-DS (ABC-DS)
+  - Obesity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.05.18.26353208
+  title: "CNS-selective plasma p-tau217 accurately captures Alzheimer\u2019s disease\
+    \ pathology and progression"
+  authors:
+  - Xuemei Zeng
+  - Marissa F. Farinas
+  - Michel N. Nafash
+  - Denis S. Smirnov
+  - Brian J. Lopresti
+  - Cristy Matan
+  - Dana L. Tudorascu
+  - Sarah B. Berman
+  - Robert A. Sweet
+  - C. Elizabeth Shaaban
+  - Beth E. Snitz
+  - Julia K. Kofler
+  - Neelesh K. Nadkarni
+  - Howard J. Aizenstein
+  - Milos D. Ikonomovic
+  - Tharick A. Pascoal
+  - Victor L. Villemagne
+  - M. Ilyas Kamboh
+  - Ann D. Cohen
+  - Oscar L. Lopez
+  - Thomas K. Karikari
+  publisher: openRxiv
+  date: '2026-05-21'
+  link: https://doi.org/hcqtn7
+  image: images/papers/doi_10.64898_2026.05.18.26353208.png
+  tags:
+  - "amyloid-beta (A\u03B2)"
+  - p-tau217
+  - central nervous system (CNS)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1212/WNL.0000000000214833
+  title: "Cognitive and Brain Reserve as Modifiers of Early Alzheimer Disease\u2013\
+    Related Cognitive Vulnerability"
+  authors:
+  - Kelsey R. Sewell
+  - Patricio Solis-Urra
+  - Haiqing Huang
+  - Thomas K. Karikari
+  - George Grove
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Jill K. Morris
+  - Anna L. Marsland
+  - Chaeryon Kang
+  - Bradley P. Sutton
+  - Lu Wan
+  - M. Ilyas Kamboh
+  - Peter J. Gianaros
+  - Jermon A. Drake
+  - Yaakov Stern
+  - Lauren E. Oberlin
+  - Kirk I. Erickson
+  publisher: Neurology
+  date: '2026-05-12'
+  link: https://doi.org/hb39nz
+  image: images/papers/doi_10.1212_WNL.0000000000214833.png
+  tags:
+  - Cognitive aging
+  - Cognitive Disorders/Dementia
+  - Imaging
+  - MRI
+  - PET
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2026.121974
+  title: Lifespan exposure to hormone therapies and structural brain morphometry in
+    older women
+  authors:
+  - Robyn A. Honea
+  - Amber Watts
+  - Shannon D. Donofry
+  - Cristina Molina-Hidalgo
+  - Hayley S Ripperger
+  - Sarah L. Aghjayan
+  - Chaeryon Kang
+  - Swathi Gujral
+  - Lauren E. Oberlin
+  - George Grove
+  - Haiqing Huang
+  - Bradley P. Sutton
+  - Jeffrey M. Burns
+  - Eric D. Vidoni
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Charles H. Hillman
+  - Anna L. Marsland
+  - M. Ilyas Kamboh
+  - Kirk I. Erickson
+  publisher: NeuroImage
+  date: '2026-07-01'
+  link: https://doi.org/hcqtn9
+  image: images/papers/doi_10.1016_j.neuroimage.2026.121974.png
+  tags:
+  - Estrogen
+  - Brain aging
+  - Menopause
+  - Neuroimaging
+  - Women
+  - Hormone therapy
+  - Protection
+  - Aging
+  - Brain volume
+  - Brain thickness
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz.71484
+  title: 'Physical activity, aerobic fitness, and AD blood biomarkers: The IGNITE
+    study'
+  authors:
+  - Lauren E. Oberlin
+  - "Patricio Solis\u2010Urra"
+  - Kelsey R. Sewell
+  - Audrey M. Collins
+  - Chaeryon Kang
+  - Haiqing Huang
+  - George Grove
+  - Lu Wan
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Jeffrey M. Burns
+  - Charles H. Hillman
+  - Eric D. Vidoni
+  - Anna L. Marsland
+  - M. Ilyas Kamboh
+  - "Amanda Szabo\u2010Reed"
+  - Renee J. Rogers
+  - Jill Morris
+  - Xuemei Zeng
+  - Thomas K. Karikari
+  - John M. Jakicic
+  - Kirk I. Erickson
+  publisher: Alzheimer's &amp; Dementia
+  date: '2026-05-01'
+  link: https://doi.org/hcqtpb
+  image: images/papers/doi_10.1002_alz.71484.png
+  tags:
+  - aerobic fitness
+  - amyloid positron emission tomography
+  - cognition
+  - episodic memory
+  - executive function
+  - modifiable risk factor
+  - neuropathology
+  - physical activity
+  - plasma biomarkers
+  - preclinical Alzheimer's disease
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12974-026-03800-8
+  title: CMV titer associations with cognition and the plasma proteome implicate FLT1
+    and neurovascular mechanisms as potential moderators
+  authors:
+  - Michael R. Duggan
+  - Erin Jacobsen
+  - Shuojia Yang
+  - Xuemei Zeng
+  - Sridhar Kandala
+  - Cassandra M. Joynes
+  - Thomas K. Karikari
+  - Vishwajit L. Nimgaonkar
+  - M. Ilyas Kamboh
+  - Beth E. Snitz
+  - Luigi Ferrucci
+  - Robert Yolken
+  - Mary Ganguli
+  - Keenan A. Walker
+  publisher: Journal of Neuroinflammation
+  date: '2026-04-16'
+  link: https://doi.org/hcqtpc
+  image: images/papers/doi_10.1186_s12974-026-03800-8.png
+  tags:
+  - Alzheimer's disease
+  - Dementia
+  - Brain
+  - Biomarkers
+  - Neuroimmunology
+  - Predictive markers
+  - Infectious Contributions to Alzheimer's Disease Pathogenesis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/WAD.0000000000000730
+  title: Olfaction, Cognition, and Early Signs of Neurodegenerative Disease in a Community-Based
+    Sample of Older Adults
+  authors:
+  - Erin Jacobsen
+  - Yingjin Zhang
+  - Mary Ganguli
+  - Chung-Chou H. Chang
+  - M. Ilyas Kamboh
+  - Thomas K. Karikari
+  - Sarah B. Berman
+  - Beth E. Snitz
+  publisher: Alzheimer Disease &amp; Associated Disorders
+  date: '2026-04-01'
+  link: https://doi.org/hcqtpd
+  tags:
+  - Lewy Body disease (LBD)
+  - Olfaction
+  - Brief Smell Identification Test (BSIT)
+  - REM sleep behavior disorder (RBD)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/13803395.2026.2647965
+  title: "Associations of anxiety and worry symptoms with cognitive performance among\
+    \ midlife women: importance of\n                    <i>APOE4</i>\n           \
+    \         genotype status"
+  authors:
+  - Emma M. Harrison
+  - Pauline M. Maki
+  - Yuefang Chang
+  - Minjie Wu
+  - M. Ilyas Kamboh
+  - Howard Aizenstein
+  - Rebecca C. Thurston
+  publisher: Journal of Clinical and Experimental Neuropsychology
+  date: '2026-03-27'
+  link: https://doi.org/hcqtpf
+  image: images/papers/doi_10.1080_13803395.2026.2647965.png
+  tags:
+  - Anxiety
+  - Worry
+  - Cognition
+  - APOE4
+  - Menopause
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.inpsyc.2026.100201
+  title: Functioning and mood of older adults with elevated genetic risk for attention-deficit/hyperactivity
+    disorder
+  authors:
+  - Esther Teverovsky
+  - D.T. Leffa
+  - Yueting Wang
+  - Erin Jacobsen
+  - Chung-Chou H. Chang
+  - M. Ilyas Kamboh
+  - Brooke S.G. Molina
+  - Mary Ganguli
+  publisher: International Psychogeriatrics
+  date: '2026-03-01'
+  link: https://doi.org/hcqxxt
+  image: images/papers/doi_10.1016_j.inpsyc.2026.100201.png
+  tags:
+  - Attention-deficit/hyperactivity disorder
+  - Cognitive functioning
+  - Functional status
+  - Genetic predisposition
+  - Depression Symptoms
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106702
+  title: 'Plasma biomarkers predict incident cognitive decline up to 29 years prior
+    to disease onset: a memory clinic cohort study of 4,073 participants'
+  authors:
+  - Xuemei Zeng
+  - Rebecca A Deek
+  - Michel N Nafash
+  - Jeremy M. Gu
+  - Lamia Choity
+  - Tara K Lafferty
+  - Marissa F Farinas
+  - Margaret A Bedison
+  - Rocco B Mercurio
+  - Cristy Matan
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Milos D. Ikonomovic
+  - Sarah B Berman
+  - Robert Sweet
+  - Beth E. Snitz
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxxv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106863
+  title: Alzheimer's disease plasma biomarkers are differentially affected by Type
+    II Diabetes Mellitus based on those with Alzheimer's disease
+  authors:
+  - John Grizzanti
+  - Xuemei Zeng
+  - Rebecca A Deek
+  - Michel N Nafash
+  - Jeremy M. Gu
+  - Lamia Choity
+  - Tara K Lafferty
+  - Marissa F Farinas
+  - Margaret A Bedison
+  - Rocco B Mercurio
+  - Cristy Matan
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Milos D. Ikonomovic
+  - Sarah B Berman
+  - Robert Sweet
+  - Beth E. Snitz
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxxw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106784
+  title: "Diagnostic Performance of Plasma Phospho\u2010tau217 for Alzheimer's Disease\
+    \ in a Large Memory Clinic Cohort"
+  authors:
+  - Anuradha Sehrawat
+  - Xuemei Zeng
+  - Rebecca A Deek
+  - Michel N Nafash
+  - Jeremy M. Gu
+  - Lamia Choity
+  - Tara K Lafferty
+  - Marissa F Farinas
+  - Rocco B Mercurio
+  - Cristy Matan
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Sarah B Berman
+  - Robert Sweet
+  - Milos D. Ikonomovic
+  - Beth E. Snitz
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxxz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106865
+  title: 'Potential of dried plasma spot: a comparative study of plasma biomarker
+    quantification using NULISA'
+  authors:
+  - "You\u2010Rim Lee"
+  - Xuemei Zeng
+  - Jeremy M. Gu
+  - Marissa F Farinas
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Sarah B Berman
+  - Robert Sweet
+  - Beth E. Snitz
+  - Milos D. Ikonomovic
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Ann D Cohen
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxx2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106807
+  title: "Development of a Novel Blood\u2010Based Brain\u2010Derived Tau Biomarker\
+    \ for Alzheimer's Disease and Brain Injury"
+  authors:
+  - Wasiu Gbolahan Balogun
+  - Michel N Nafash
+  - Anuradha Sehrawat
+  - Xuemei Zeng
+  - Sarah E. Svirsky
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Sarah B Berman
+  - Beth E. Snitz
+  - Milos D. Ikonomovic
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Ava M Puccio
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxx3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106861
+  title: "Plasma Proteomic Profiling of Neurodegenerative Proteins in Autosomal Dominant\
+    \ Alzheimer's Disease with\n                    <i>PSEN1</i>\n               \
+    \     Mutations Relative to Sporadic Alzheimer's Disease and Cognitively Unimpaired\
+    \ Controls"
+  authors:
+  - Alexandra M Izydorczak
+  - Marissa F Farinas
+  - Xuemei Zeng
+  - Anuradha Sehrawat
+  - William E Klunk
+  - Tharick A Pascoal
+  - Ann D Cohen
+  - Victor L. Villemagne
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Beth E. Snitz
+  - Eric E Abrahamson
+  - Sarah B Berman
+  - Julia K. Kofler
+  - Milos D. Ikonomovic
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxx4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106497
+  title: 'Plasma versus serum: which is better for proteomic blood biomarker analysis?
+    Evaluation of the novel NULISA platform'
+  authors:
+  - Marissa F Farinas
+  - Yijun Chen
+  - Xuemei Zeng
+  - Michel N Nafash
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Sarah B Berman
+  - Robert Sweet
+  - M. Ilyas Kamboh
+  - Milos D. Ikonomovic
+  - Beth E. Snitz
+  - Ann D Cohen
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxx5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70856_106816
+  title: "Plasma Biomarkers Modulate\n                    <i>APOE4</i>\n         \
+    \           Genotype Risk in Cognitive Decline: Insights from a Large Memory Clinic\
+    \ Cohort"
+  authors:
+  - Xuemei Zeng
+  - Rebecca A Deek
+  - Michel N Nafash
+  - Jeremy M. Gu
+  - Lamia Choity
+  - Tara K Lafferty
+  - Marissa F Farinas
+  - Margaret A Bedison
+  - Rocco B Mercurio
+  - Cristy Matan
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L. Villemagne
+  - Milos D. Ikonomovic
+  - Sarah B Berman
+  - Robert Sweet
+  - Beth E. Snitz
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxx6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.10.08.26364972
+  title: "Clinical utility of plasma APOE proteotyping for Alzheimer\u2019s disease\
+    \ risk and prognosis"
+  authors:
+  - Ruyu Shi
+  - Lamia T. Choity
+  - Marissa F. Farinas
+  - Xuemei Zeng
+  - James E. Emanuel
+  - Anum Saeed
+  - Steven E. Reis
+  - Oscar L. Lopez
+  - Ilyas M. Kamboh
+  - Ann D. Cohen
+  - Ariel G. Gildengers
+  - Kristine A. Wilckens
+  - Thomas K. Karikari
+  publisher: openRxiv
+  date: '2026-10-11'
+  link: https://doi.org/hcqxx7
+  image: images/papers/doi_10.64898_2026.10.08.26364972.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.09.29.26363951
+  title: "Plasma eMTBR-tau as a robust biomarker for Alzheimer\u2019s disease tangle\
+    \ pathology up to 10 years before death"
+  authors:
+  - Ruyu Shi
+  - Xuemei Zeng
+  - Marissa F. Farinas
+  - Michel N. Nafash
+  - Denis S. Smirnov
+  - M. Ilyas Kamboh
+  - Beth E. Snitz
+  - Julia K. Kofler
+  - Ann D. Cohen
+  - Tharick A. Pascoal
+  - Milos D. Ikonomovic
+  - Henrik Zetterberg
+  - Oscar L. Lopez
+  - Thomas K. Karikari
+  publisher: openRxiv
+  date: '2026-10-05'
+  link: https://doi.org/hcqxzr
+  image: images/papers/doi_10.64898_2026.09.29.26363951.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/13872877251407211
@@ -198,6 +998,62 @@
   - Molecular surveillance
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/alz70856_103605
+  title: "High\n                    <i>p</i>\n                    \u2010Tau217 Levels\
+    \ Nullify Age\u2010related Cognitive Protection in Younger Older Adults"
+  authors:
+  - Lamia Choity
+  - Xuemei Zeng
+  - Rebecca A Deek
+  - Jeremy M. Gu
+  - Marissa F Farinas
+  - Michel N Nafash
+  - Tara K Lafferty
+  - Margaret A Bedison
+  - Rocco B Mercurio
+  - Cristy Matan
+  - Alexandra Gogola
+  - Julia K. Kofler
+  - Dana L Tudorascu
+  - C. Elizabeth Shaaban
+  - Jennifer H Lingler
+  - Tharick A Pascoal
+  - William E Klunk
+  - Victor L Villemagne
+  - Sarah B Berman
+  - Robert Sweet
+  - Beth E. Snitz
+  - Milos D. Ikonomovic
+  - Ann D Cohen
+  - M. Ilyas Kamboh
+  - Oscar L Lopez
+  - Thomas K Karikari
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxzs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70860_107660
+  title: Social, Physical, and Cognitive Activity Patterns and Their Association with
+    Tau and Amyloid Resistance and Resilience
+  authors:
+  - "Daniel Willie\u2010Permor"
+  - Oscar L Lopez
+  - Steven E. Reis
+  - Anum Saeed
+  - Beth E. Snitz
+  - Brian J Lopresti
+  - Victor L Villemagne
+  - M. Ilyas Kamboh
+  - Neelesh Nadkarni
+  - C. Elizabeth Shaaban
+  - Ann D Cohen
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxzt
+  image: images/papers/doi_10.1002_alz70860_107660.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/alz70862_110112
   title: 'Longitudinal Trajectories of Cognitive Impairment: Predictors of Tau and
     Amyloid Resistance &amp; Resilience'
@@ -217,6 +1073,37 @@
   date: '2025-12-01'
   link: https://doi.org/hbqc95
   image: images/papers/doi_10.1002_alz70862_110112.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/alz70861_108310
+  title: Lifetime Exposure to Estrogen Preserves Brain Health in Older Women in the
+    IGNITE study
+  authors:
+  - Robyn A Honea
+  - Amber Watts
+  - Ankit Patel
+  - William Guiler
+  - Shannon Donofry
+  - Hayley Ripperger
+  - Sarah L Aghjayan
+  - Chaeryon Kang
+  - Lauren Oberlin
+  - Swathi Gujral
+  - George Grove
+  - Haiqing Huang
+  - Brad Sutton
+  - Jeffrey M. Burns
+  - Eric D Vidoni
+  - Arthur F. Kramer
+  - Edward McAuley
+  - Charles Hillman
+  - Anna Marsland
+  - M. Ilyas Kamboh
+  - Kirk I. Erickson
+  publisher: Alzheimer's &amp; Dementia
+  date: '2025-12-01'
+  link: https://doi.org/hcqxzv
+  image: images/papers/doi_10.1002_alz70861_108310.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/alz.70985
