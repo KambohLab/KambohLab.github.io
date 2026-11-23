@@ -30,6 +30,15 @@
 
 # 2026 Publications
 
+- id: doi:10.1161/circ.154.suppl_1.1357
+  image: images/papers/doi_10.1161_circ.154.suppl_1.1357.png
+  tags:
+    - Genome-wide association studies (GWAS)
+    - Machine Learning
+    - Cognitive aging
+    - Arteriosclerosis
+    - Brain Health
+
 - id: doi:10.1002/ana.78366
   image: images/papers/doi_10.1002_ana.78366.png
   tags:
